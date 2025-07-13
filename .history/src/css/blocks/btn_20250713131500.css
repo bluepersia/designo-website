@@ -1,0 +1,15 @@
+.btn {
+  --id: 1; 
+
+  padding: 1.13rem 1.5rem;
+  background-color: white;
+  border-radius: .5rem;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 1rem;
+  text-decoration: none;
+  display: block;
+  width: fit-content;
+  color: var(--dark);
+  width: 10.13rem;
+}

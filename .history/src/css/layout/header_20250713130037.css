@@ -1,0 +1,44 @@
+.header {
+  --id: 1; 
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 2.33rem;
+  padding-bottom: 2.33rem;
+}
+
+
+.nav 
+{
+    display: none;
+}
+
+.mobile-nav-btn {
+    background: none;
+    border:none;
+}
+
+.mobile-nav-btn .icon-close 
+{
+    display: none;
+}
+
+
+@media(min-width:375px){}
+
+@media(min-width: 768px)
+{
+    .header {
+        padding-top: 4.26rem;
+        padding-bottom: 4.26rem;
+    }
+    .mobile-nav-btn {
+        display: none;
+    }
+
+    .nav 
+    {
+        display: block;
+    }
+}
