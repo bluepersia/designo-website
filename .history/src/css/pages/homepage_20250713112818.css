@@ -1,0 +1,35 @@
+.homepage {
+  --id: 1; 
+
+  
+}
+
+
+.card-grid
+{
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+    display: grid;
+    row-gap: 1.6rem;
+}
+
+
+.series
+{
+    padding-bottom: 8rem;
+    text-align: center;
+}
+
+.series .list 
+{
+  list-style: none;
+  padding-left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.cta
+ {
+    background-color: var(--peach);
+ }

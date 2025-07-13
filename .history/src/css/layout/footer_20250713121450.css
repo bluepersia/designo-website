@@ -1,0 +1,23 @@
+.footer 
+{
+  --id: 1; ;
+    background-color: #1D1C1E;
+    text-align: center;
+    padding-top: 15rem;
+}
+
+.site-logo
+{
+    margin:0 auto;
+}
+
+.main-nav 
+{
+    border-bottom: solid 1px 
+}
+
+.border 
+{
+    height: 1px;
+    background-color: rgba(255, 255, 255, 0.1);
+}

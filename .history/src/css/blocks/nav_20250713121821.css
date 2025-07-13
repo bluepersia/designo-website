@@ -1,0 +1,18 @@
+.nav 
+{
+  --id: 1; 
+  font-size: .93rem;
+  text-transform: uppercase;
+  letter-spacing: 0.142em;
+  font-weight: 400;
+
+}
+
+.list 
+{
+    display: flex;
+    list-style: none;
+    padding-left: 0;
+    flex-direction: column;
+    row-gap: 2rem;
+}
