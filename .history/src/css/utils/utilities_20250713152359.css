@@ -3,6 +3,10 @@
     padding: 1.6rem;
 }
 
+.u-container--mobile-off
+{
+  padding:0;
+}
 
 @media(min-width:768px)
 {

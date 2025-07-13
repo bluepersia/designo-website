@@ -104,7 +104,6 @@
     .hero {
         display: flex;
         flex-direction: row;
-        justify-content: space-between;
         align-items: start;
         text-align: left;
         padding-top: 9.66rem;
@@ -134,7 +133,7 @@
     .img-wrapper
     {
         margin-top: -12rem;
-        margin-left: -15rem;
+        margin-left: -12rem;
     }
 }
 

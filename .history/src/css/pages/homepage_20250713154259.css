@@ -46,7 +46,7 @@
   padding-top: 8rem;
   padding-bottom: 8rem;
 
-  grid-template-rows: 13.33rem 13.33rem; 
+  grid-template-rows: 13.33rem 13.33rem;
  }
 }
 
@@ -147,11 +147,11 @@
     text-align: center;
     font-size: 1rem;
     background-image: url('/img/shared/desktop/bg-pattern-call-to-action.svg');
-    background-position: -13rem -8rem;
+    background-position: top -7rem right -20rem;
     background-repeat: no-repeat;
 
     /* Location-specific: */
-    width: min(21.8rem, 100%);
+    width: min(21.8rem 100%);
     margin: 0 auto;
     margin-bottom: -11rem;
     position: relative;
@@ -191,8 +191,6 @@
   .cta {
     width: 46rem;
     margin-bottom: -5rem;
-    background-position: 0rem -6rem;
-
   }
 
   .cta .title 
@@ -217,10 +215,7 @@
     width: 74rem;
     display: flex;
     align-items: center;
-    justify-content: space-between;
     text-align: left;
-    padding: 4.8rem 6.3rem;
-    background-position: 17rem -6rem;
   }
 
   .cta .content 
@@ -231,11 +226,5 @@
   .cta .title, .cta .body 
   {
     width: fit-content;
-  }
-
-  .cta .btn 
-  {
-    margin-left: auto;
-    margin-right: 0;
   }
  }
