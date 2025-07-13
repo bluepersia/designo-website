@@ -46,7 +46,7 @@
   padding-top: 8rem;
   padding-bottom: 8rem;
 
-  grid-template-rows: 13.33rem 13.33rem; 
+  grid-template-rows: 13.33rem 13.33rem;
  }
 }
 
@@ -220,7 +220,6 @@
     justify-content: space-between;
     text-align: left;
     padding: 4.8rem 6.3rem;
-    background-position: 17rem -6rem;
   }
 
   .cta .content 

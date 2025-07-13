@@ -6,24 +6,11 @@
 
 .hero 
 {
+  width: 46rem;
+  --span-start: width;
   margin: 0 auto;
 }
 
-@media(min-width:768px)
-{
-  .hero-wrapper
-  {
-    padding: 4.26rem;
-  }
-}
-
-@media(min-width:1200px)
-{
-  .hero-wrapper 
-  {
-    padding: 11rem;
-  }
-}
 
 .card-grid
 {
@@ -40,21 +27,24 @@
 @media(min-width:768px)
 {
 
-
+.hero {
+  --span-end: width;
+}
  .card-grid 
  {
   padding-top: 8rem;
   padding-bottom: 8rem;
 
-  grid-template-rows: 13.33rem 13.33rem; 
+  grid-template-rows: 13.33rem 13.33rem;
  }
 }
 
 @media(min-width:1200px)
 {
 
- 
-  
+  .hero {
+    width: 74rem;
+  }
   .card-grid 
   {
     grid-template-areas: 
@@ -105,13 +95,9 @@
 
 @media(min-width:1200px)
 {
-
- 
   .series .list 
   {
     flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: space-between;
     column-gap: 1.9rem;
   }
 
@@ -120,24 +106,7 @@
     background-image: url("/img/shared/desktop/bg-pattern-hero-home.svg");
     background-position: bottom right;
   }
-
-  .img-block:last-child 
-  {
-    margin-left: auto;
-    margin-right: auto;
-  }
 }
-
-@media(min-width:1440px)
-{
-  .img-block:last-child
-  {
-    margin-left: 0;
-    margin-right: 0;
-  }
-}
-
-
 .cta
  {
     background-color: var(--peach);
@@ -147,11 +116,11 @@
     text-align: center;
     font-size: 1rem;
     background-image: url('/img/shared/desktop/bg-pattern-call-to-action.svg');
-    background-position: -13rem -8rem;
+    background-position: top -7rem right -20rem;
     background-repeat: no-repeat;
 
     /* Location-specific: */
-    width: min(21.8rem, 100%);
+    width: min(21.8rem 100%);
     margin: 0 auto;
     margin-bottom: -11rem;
     position: relative;
@@ -191,8 +160,6 @@
   .cta {
     width: 46rem;
     margin-bottom: -5rem;
-    background-position: 0rem -6rem;
-
   }
 
   .cta .title 
@@ -205,37 +172,5 @@
   {
     font-size: 1.06em;
     width: 30rem;
-  }
- }
-
-
- @media (min-width:1200px)
- {
-
-  .cta 
-  {
-    width: 74rem;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    text-align: left;
-    padding: 4.8rem 6.3rem;
-    background-position: 17rem -6rem;
-  }
-
-  .cta .content 
-  {
-    align-items: start;
-    width: 30.6rem;
-  }
-  .cta .title, .cta .body 
-  {
-    width: fit-content;
-  }
-
-  .cta .btn 
-  {
-    margin-left: auto;
-    margin-right: 0;
   }
  }
