@@ -1,0 +1,16 @@
+.img-block {
+  --id: 1; 
+}
+
+.img 
+{
+  width: 12.33rem;
+}
+.bg-circle
+{
+  border-radius: 50%;
+  background: linear-gradient(to left, rgba(93, 2, 2, 0.01), #5D0202);
+  opacity: 20%;
+  width: 13.4rem;
+  height: 13.4rem;
+}

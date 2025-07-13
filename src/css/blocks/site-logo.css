@@ -1,0 +1,11 @@
+.site-logo {
+  --id: 1; 
+  display: block;
+  width: fit-content;
+}
+
+.img 
+{
+  width:13.46rem;
+  display: block;
+}
