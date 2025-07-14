@@ -1,0 +1,5 @@
+.hero {
+  --id: 2;
+
+  background-color: var(--peach);
+}
