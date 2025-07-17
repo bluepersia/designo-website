@@ -1,0 +1,15 @@
+.card-grid {
+  --id: 2;
+
+  list-style: none;
+  padding-left: 0;
+  display: grid;
+  row-gap: 2.66rem;
+  grid-template-columns: 100%;
+}
+
+@media (min-width: 1200px) {
+  .card-grid {
+    grid-template-columns: repeat(auto-fit, 23.3rem);
+  }
+}

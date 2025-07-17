@@ -1,0 +1,72 @@
+.homepage {
+}
+
+.homepage__hero {
+  margin: 0 auto;
+}
+
+.homepage__card-grid-section {
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+}
+
+@media (min-width: 768px) {
+  .homepage__card-grid-section {
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+  }
+}
+
+@media (min-width: 1200px) {
+  .homepage__card-grid-section {
+    padding-top: 10.66rem;
+    padding-bottom: 10.66rem;
+  }
+}
+
+.homepage__series {
+  padding-bottom: 8rem;
+  text-align: center;
+}
+
+.homepage__series__list {
+  list-style: none;
+  padding-left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  row-gap: 5.3rem;
+}
+
+@media (min-width: 768px) {
+  .homepage__series {
+    padding-bottom: 4.46rem;
+  }
+}
+
+@media (min-width: 1200px) {
+  .homepage__series__list {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    column-gap: 1.9rem;
+  }
+
+  .homepage__series {
+    background-image: url('/img/shared/desktop/bg-pattern-hero-home.svg');
+    background-position: bottom right;
+    margin-bottom: 10rem;
+  }
+
+  .homepage__img-block:last-child {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media (min-width: 1440px) {
+  .homepage__img-block:last-child {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}

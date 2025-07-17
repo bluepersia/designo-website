@@ -1,0 +1,42 @@
+.header { 
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 2.33rem;
+  padding-bottom: 2.33rem;
+}
+
+
+.header__nav 
+{
+    display: none;
+}
+
+.header__mobile-nav-btn {
+    background: none;
+    border:none;
+}
+
+.header__mobile-nav-btn__icon-close 
+{
+    display: none;
+}
+
+
+
+@media(min-width: 768px)
+{
+    .header {
+        padding-top: 4.26rem;
+        padding-bottom: 4.26rem;
+    }
+    .header__mobile-nav-btn {
+        display: none;
+    }
+
+    .header__nav 
+    {
+        display: block;
+    }
+}

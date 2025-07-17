@@ -1,0 +1,6 @@
+{
+  "inputs": {
+    "homepage": ["vite/index.html"]
+  },
+  "outputDir": "fluid-scale"
+}

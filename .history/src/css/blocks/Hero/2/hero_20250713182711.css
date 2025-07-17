@@ -1,0 +1,14 @@
+.hero {
+  --id: 2;
+
+  font-size: 1rem;
+  background-color: var(--peach);
+  padding: 7rem 1.6rem;
+  color: white;
+  text-align: center;
+}
+
+.title {
+  font-size: 2rem;
+  font-weight: 500;
+}

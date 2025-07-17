@@ -1,0 +1,8 @@
+.block-row {
+  --id: 1;
+  list-style: none;
+  padding-left: 0;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

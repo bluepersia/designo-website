@@ -1,0 +1,10 @@
+.site-logo { 
+  display: block;
+  width: fit-content;
+}
+
+.site-logo__img 
+{
+  width:13.46rem;
+  display: block;
+}

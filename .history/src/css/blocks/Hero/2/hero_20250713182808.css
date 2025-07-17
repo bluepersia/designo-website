@@ -1,0 +1,16 @@
+.hero {
+  --id: 2;
+
+  font-size: 1rem;
+  background-color: var(--peach);
+  padding: 7rem 1.6rem;
+  color: white;
+  text-align: center;
+  background-image: url('/img/shared/mobile/bg-pattern-design-pages-intro-mobile.svg');
+}
+
+.title {
+  font-size: 2rem;
+  font-weight: 500;
+  margin-bottom: 1.6rem;
+}

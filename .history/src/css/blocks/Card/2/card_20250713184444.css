@@ -1,0 +1,26 @@
+.card {
+  --id: 2;
+  font-size: 1.066rem;
+}
+
+.img {
+  display: block;
+  width: 100%;
+  height: 21.3rem;
+  object-fit: cover;
+}
+
+.content {
+  background-color: var(--cream);
+  text-align: center;
+  padding: 2.13rem 2rem;
+}
+
+.title {
+  color: var(--peach);
+  font-weight: 500;
+  font-size: 1.25em;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  margin-bottom: 1.06rem;
+}

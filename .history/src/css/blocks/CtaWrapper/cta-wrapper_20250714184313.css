@@ -1,0 +1,19 @@
+.cta-wrapper {
+  --id: 1;
+  /* Location-specific: */
+  margin: 0 auto;
+  margin-bottom: -11rem;
+  position: relative;
+  z-index: 99;
+}
+
+@media (min-width: 768px) {
+  .cta-wrapper {
+    margin-bottom: -5rem;
+  }
+}
+
+@media (min-width: 1200px) {
+  .cta-wrapper {
+  }
+}
