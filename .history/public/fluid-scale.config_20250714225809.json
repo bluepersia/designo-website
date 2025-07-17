@@ -1,6 +1,0 @@
-{
-  "inputs": {
-    "web-design": ["vite/web-design.html"]
-  },
-  "outputDir": "fluid-scale"
-}

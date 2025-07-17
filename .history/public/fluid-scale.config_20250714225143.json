@@ -1,7 +1,0 @@
-{
-  "inputs": {
-    "homepage": ["vite/index.html"],
-    "web-design": ["vite/web-design.html"]
-  },
-  "outputDir": "fluid-scale"
-}

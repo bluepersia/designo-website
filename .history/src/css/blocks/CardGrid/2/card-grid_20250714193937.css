@@ -1,8 +1,0 @@
-.card-grid {
-  --id: 2;
-
-  list-style: none;
-  padding-left: 0;
-  display: grid;
-  row-gap: 2.66rem;
-}
