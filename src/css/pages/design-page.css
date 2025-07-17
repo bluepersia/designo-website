@@ -1,0 +1,27 @@
+.design-page {
+  --id: 1;
+}
+
+@media (min-width: 1200px) {
+  .design-page {
+    background-image: url('/img/shared/desktop/bg-pattern-leaf.svg');
+    background-repeat: no-repeat;
+    background-position-y: top 12rem;
+  }
+}
+
+.card-grid-section {
+  padding-top: 6.4rem;
+  padding-bottom: 6.4rem;
+}
+
+@media (min-width: 768px) {
+  .card-grid-section {
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+  }
+}
+
+.more-categories-section {
+  margin-bottom: 6.4rem;
+}

@@ -1,0 +1,2217 @@
+{
+  "bps": [
+    375,
+    768,
+    1200,
+    1440
+  ],
+  "fluidVariableSelectors": {
+    ".u-container": {
+      "__type__": "Map",
+      "value": [
+        [
+          0,
+          {
+            "padding-top": {
+              "selector": ".u-container",
+              "minValues": [
+                "unset"
+              ],
+              "maxValues": [
+                "unset"
+              ],
+              "minUnits": [
+                "unset"
+              ],
+              "maxUnits": [
+                "unset"
+              ],
+              "variableName": "padding-top",
+              "order": 3,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 768,
+              "nextBpIndex": 1
+            },
+            "padding-bottom": {
+              "selector": ".u-container",
+              "minValues": [
+                "unset"
+              ],
+              "maxValues": [
+                "unset"
+              ],
+              "minUnits": [
+                "unset"
+              ],
+              "maxUnits": [
+                "unset"
+              ],
+              "variableName": "padding-bottom",
+              "order": 3,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 768,
+              "nextBpIndex": 1
+            },
+            "padding-left": {
+              "selector": ".u-container",
+              "minValues": [
+                1.6
+              ],
+              "maxValues": [
+                2.66
+              ],
+              "minUnits": [
+                "rem"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "padding-left",
+              "order": 3,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 768,
+              "nextBpIndex": 1
+            },
+            "padding-right": {
+              "selector": ".u-container",
+              "minValues": [
+                1.6
+              ],
+              "maxValues": [
+                2.66
+              ],
+              "minUnits": [
+                "rem"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "padding-right",
+              "order": 3,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 768,
+              "nextBpIndex": 1
+            }
+          }
+        ],
+        [
+          1,
+          {
+            "padding-top": {
+              "selector": ".u-container",
+              "minValues": [
+                "unset"
+              ],
+              "maxValues": [
+                "unset"
+              ],
+              "minUnits": [
+                "unset"
+              ],
+              "maxUnits": [
+                "unset"
+              ],
+              "variableName": "padding-top",
+              "order": 4,
+              "isCombo": true,
+              "bpIndex": 1,
+              "bp": 1,
+              "nextBp": 1200,
+              "nextBpIndex": 2
+            },
+            "padding-bottom": {
+              "selector": ".u-container",
+              "minValues": [
+                "unset"
+              ],
+              "maxValues": [
+                "unset"
+              ],
+              "minUnits": [
+                "unset"
+              ],
+              "maxUnits": [
+                "unset"
+              ],
+              "variableName": "padding-bottom",
+              "order": 4,
+              "isCombo": true,
+              "bpIndex": 1,
+              "bp": 1,
+              "nextBp": 1200,
+              "nextBpIndex": 2
+            },
+            "padding-left": {
+              "selector": ".u-container",
+              "minValues": [
+                2.66
+              ],
+              "maxValues": [
+                11
+              ],
+              "minUnits": [
+                "rem"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "padding-left",
+              "order": 4,
+              "isCombo": true,
+              "bpIndex": 1,
+              "bp": 1,
+              "nextBp": 1200,
+              "nextBpIndex": 2
+            },
+            "padding-right": {
+              "selector": ".u-container",
+              "minValues": [
+                2.66
+              ],
+              "maxValues": [
+                11
+              ],
+              "minUnits": [
+                "rem"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "padding-right",
+              "order": 4,
+              "isCombo": true,
+              "bpIndex": 1,
+              "bp": 1,
+              "nextBp": 1200,
+              "nextBpIndex": 2
+            }
+          }
+        ]
+      ]
+    },
+    ".u-container-mobile-full": {
+      "__type__": "Map",
+      "value": [
+        [
+          0,
+          {
+            "padding-left": {
+              "selector": ".u-container-mobile-full",
+              "minValues": [
+                [
+                  "break",
+                  [
+                    0
+                  ]
+                ]
+              ],
+              "maxValues": [
+                2.66
+              ],
+              "minUnits": [
+                [
+                  "",
+                  [
+                    "px"
+                  ]
+                ]
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "padding-left",
+              "order": 6,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 768,
+              "nextBpIndex": 1
+            },
+            "padding-right": {
+              "selector": ".u-container-mobile-full",
+              "minValues": [
+                [
+                  "break",
+                  [
+                    0
+                  ]
+                ]
+              ],
+              "maxValues": [
+                2.66
+              ],
+              "minUnits": [
+                [
+                  "",
+                  [
+                    "px"
+                  ]
+                ]
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "padding-right",
+              "order": 6,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 768,
+              "nextBpIndex": 1
+            },
+            "max-width": {
+              "selector": ".u-container-mobile-full",
+              "minValues": [
+                44.9
+              ],
+              "maxValues": [
+                "unset"
+              ],
+              "minUnits": [
+                "rem"
+              ],
+              "maxUnits": [
+                "unset"
+              ],
+              "variableName": "max-width",
+              "order": 6,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 768,
+              "nextBpIndex": 1
+            }
+          }
+        ],
+        [
+          1,
+          {
+            "padding-left": {
+              "selector": ".u-container-mobile-full",
+              "minValues": [
+                2.66
+              ],
+              "maxValues": [
+                11
+              ],
+              "minUnits": [
+                "rem"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "padding-left",
+              "order": 7,
+              "isCombo": true,
+              "bpIndex": 1,
+              "bp": 1,
+              "nextBp": 1200,
+              "nextBpIndex": 2
+            },
+            "padding-right": {
+              "selector": ".u-container-mobile-full",
+              "minValues": [
+                2.66
+              ],
+              "maxValues": [
+                11
+              ],
+              "minUnits": [
+                "rem"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "padding-right",
+              "order": 7,
+              "isCombo": true,
+              "bpIndex": 1,
+              "bp": 1,
+              "nextBp": 1200,
+              "nextBpIndex": 2
+            }
+          }
+        ]
+      ]
+    },
+    ".header": {
+      "__type__": "Map",
+      "value": [
+        [
+          0,
+          {
+            "padding-top": {
+              "selector": ".header",
+              "minValues": [
+                2.33
+              ],
+              "maxValues": [
+                4.26
+              ],
+              "minUnits": [
+                "rem"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "padding-top",
+              "order": 15,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 768,
+              "nextBpIndex": 1
+            },
+            "padding-bottom": {
+              "selector": ".header",
+              "minValues": [
+                2.33
+              ],
+              "maxValues": [
+                4.26
+              ],
+              "minUnits": [
+                "rem"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "padding-bottom",
+              "order": 15,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 768,
+              "nextBpIndex": 1
+            }
+          }
+        ]
+      ]
+    },
+    ".footer": {
+      "__type__": "Map",
+      "value": [
+        [
+          0,
+          {
+            "padding-top": {
+              "selector": ".footer",
+              "minValues": [
+                15
+              ],
+              "maxValues": [
+                10
+              ],
+              "minUnits": [
+                "rem"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "padding-top",
+              "order": 22,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 768,
+              "nextBpIndex": 1
+            },
+            "padding-bottom": {
+              "selector": ".footer",
+              "minValues": [
+                4.26
+              ],
+              "maxValues": [
+                5.3
+              ],
+              "minUnits": [
+                "rem"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "padding-bottom",
+              "order": 22,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 768,
+              "nextBpIndex": 1
+            }
+          }
+        ]
+      ]
+    },
+    ".footer__site-logo": {
+      "__type__": "Map",
+      "value": [
+        [
+          0,
+          {
+            "margin-left": {
+              "selector": ".footer__site-logo",
+              "minValues": [
+                "auto"
+              ],
+              "maxValues": [
+                0
+              ],
+              "minUnits": [
+                "auto"
+              ],
+              "maxUnits": [
+                "px"
+              ],
+              "variableName": "margin-left",
+              "order": 23,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 768,
+              "nextBpIndex": 1
+            }
+          }
+        ]
+      ]
+    },
+    ".footer__text-block": {
+      "__type__": "Map",
+      "value": [
+        [
+          0,
+          {
+            "margin-bottom": {
+              "selector": ".footer__text-block",
+              "minValues": [
+                [
+                  "break",
+                  [
+                    2.66
+                  ]
+                ]
+              ],
+              "maxValues": [
+                0
+              ],
+              "minUnits": [
+                [
+                  "",
+                  [
+                    "rem"
+                  ]
+                ]
+              ],
+              "maxUnits": [
+                "px"
+              ],
+              "variableName": "margin-bottom",
+              "order": 26,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 768,
+              "nextBpIndex": 1
+            }
+          }
+        ]
+      ]
+    },
+    ".hero": {
+      "__type__": "Map",
+      "value": [
+        [
+          0,
+          {
+            "padding-top": {
+              "selector": ".hero",
+              "minValues": [
+                5.33
+              ],
+              "maxValues": [
+                4
+              ],
+              "minUnits": [
+                "rem"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "padding-top",
+              "order": 39,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 768,
+              "nextBpIndex": 1
+            },
+            "padding-left": {
+              "selector": ".hero",
+              "minValues": [
+                1.6
+              ],
+              "maxValues": [
+                3.86
+              ],
+              "minUnits": [
+                "rem"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "padding-left",
+              "order": 39,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 768,
+              "nextBpIndex": 1
+            },
+            "padding-right": {
+              "selector": ".hero",
+              "minValues": [
+                1.6
+              ],
+              "maxValues": [
+                3.86
+              ],
+              "minUnits": [
+                "rem"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "padding-right",
+              "order": 39,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 768,
+              "nextBpIndex": 1
+            },
+            "background-position-x": {
+              "selector": ".hero",
+              "minValues": [
+                2
+              ],
+              "maxValues": [
+                15
+              ],
+              "minUnits": [
+                "rem"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "background-position-x",
+              "order": 39,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 768,
+              "nextBpIndex": 1
+            },
+            "background-position-y": {
+              "selector": ".hero",
+              "minValues": [
+                7
+              ],
+              "maxValues": [
+                0
+              ],
+              "minUnits": [
+                "rem"
+              ],
+              "maxUnits": [
+                "px"
+              ],
+              "variableName": "background-position-y",
+              "order": 39,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 1200,
+              "nextBpIndex": 2
+            },
+            "border-top-left-radius": {
+              "selector": ".hero",
+              "minValues": [
+                0
+              ],
+              "maxValues": [
+                1
+              ],
+              "minUnits": [
+                "px"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "border-top-left-radius",
+              "order": 39,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 768,
+              "nextBpIndex": 1
+            },
+            "border-top-right-radius": {
+              "selector": ".hero",
+              "minValues": [
+                0
+              ],
+              "maxValues": [
+                1
+              ],
+              "minUnits": [
+                "px"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "border-top-right-radius",
+              "order": 39,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 768,
+              "nextBpIndex": 1
+            },
+            "border-bottom-right-radius": {
+              "selector": ".hero",
+              "minValues": [
+                0
+              ],
+              "maxValues": [
+                1
+              ],
+              "minUnits": [
+                "px"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "border-bottom-right-radius",
+              "order": 39,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 768,
+              "nextBpIndex": 1
+            },
+            "border-bottom-left-radius": {
+              "selector": ".hero",
+              "minValues": [
+                0
+              ],
+              "maxValues": [
+                1
+              ],
+              "minUnits": [
+                "px"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "border-bottom-left-radius",
+              "order": 39,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 768,
+              "nextBpIndex": 1
+            }
+          }
+        ],
+        [
+          1,
+          {
+            "padding-top": {
+              "selector": ".hero",
+              "minValues": [
+                4
+              ],
+              "maxValues": [
+                9.66
+              ],
+              "minUnits": [
+                "rem"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "padding-top",
+              "order": 46,
+              "isCombo": true,
+              "bpIndex": 1,
+              "bp": 1,
+              "nextBp": 1200,
+              "nextBpIndex": 2
+            },
+            "padding-left": {
+              "selector": ".hero",
+              "minValues": [
+                3.86
+              ],
+              "maxValues": [
+                6.33
+              ],
+              "minUnits": [
+                "rem"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "padding-left",
+              "order": 46,
+              "isCombo": true,
+              "bpIndex": 1,
+              "bp": 1,
+              "nextBp": 1200,
+              "nextBpIndex": 2
+            },
+            "padding-right": {
+              "selector": ".hero",
+              "minValues": [
+                3.86
+              ],
+              "maxValues": [
+                6.33
+              ],
+              "minUnits": [
+                "rem"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "padding-right",
+              "order": 46,
+              "isCombo": true,
+              "bpIndex": 1,
+              "bp": 1,
+              "nextBp": 1200,
+              "nextBpIndex": 2
+            },
+            "background-position-x": {
+              "selector": ".hero",
+              "minValues": [
+                15
+              ],
+              "maxValues": [
+                34
+              ],
+              "minUnits": [
+                "rem"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "background-position-x",
+              "order": 46,
+              "isCombo": true,
+              "bpIndex": 1,
+              "bp": 1,
+              "nextBp": 1200,
+              "nextBpIndex": 2
+            }
+          }
+        ]
+      ]
+    },
+    ".hero__title": {
+      "__type__": "Map",
+      "value": [
+        [
+          0,
+          {
+            "margin-bottom": {
+              "selector": ".hero__title",
+              "minValues": [
+                0.93
+              ],
+              "maxValues": [
+                0.53
+              ],
+              "minUnits": [
+                "rem"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "margin-bottom",
+              "order": 41,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 768,
+              "nextBpIndex": 1
+            },
+            "width": {
+              "selector": ".hero__title",
+              "minValues": [
+                [
+                  "break",
+                  [
+                    [
+                      "min",
+                      [
+                        100,
+                        38.2
+                      ]
+                    ]
+                  ]
+                ]
+              ],
+              "maxValues": [
+                38.2
+              ],
+              "minUnits": [
+                [
+                  "",
+                  [
+                    [
+                      "",
+                      [
+                        "%",
+                        "rem"
+                      ]
+                    ]
+                  ]
+                ]
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "width",
+              "order": 41,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 768,
+              "nextBpIndex": 1
+            },
+            "font-size": {
+              "selector": ".hero__title",
+              "minValues": [
+                2.13
+              ],
+              "maxValues": [
+                3.2
+              ],
+              "minUnits": [
+                "em"
+              ],
+              "maxUnits": [
+                "em"
+              ],
+              "variableName": "font-size",
+              "order": 41,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 768,
+              "nextBpIndex": 1
+            }
+          }
+        ],
+        [
+          1,
+          {
+            "margin-bottom": {
+              "selector": ".hero__title",
+              "minValues": [
+                0.53
+              ],
+              "maxValues": [
+                0.73
+              ],
+              "minUnits": [
+                "rem"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "margin-bottom",
+              "order": 47,
+              "isCombo": true,
+              "bpIndex": 1,
+              "bp": 1,
+              "nextBp": 1200,
+              "nextBpIndex": 2
+            }
+          }
+        ]
+      ]
+    },
+    ".hero__body": {
+      "__type__": "Map",
+      "value": [
+        [
+          0,
+          {
+            "margin-bottom": {
+              "selector": ".hero__body",
+              "minValues": [
+                1.6
+              ],
+              "maxValues": [
+                1.26
+              ],
+              "minUnits": [
+                "rem"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "margin-bottom",
+              "order": 42,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 768,
+              "nextBpIndex": 1
+            },
+            "width": {
+              "selector": ".hero__body",
+              "minValues": [
+                100
+              ],
+              "maxValues": [
+                29.6
+              ],
+              "minUnits": [
+                "%"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "width",
+              "order": 42,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 768,
+              "nextBpIndex": 1
+            }
+          }
+        ],
+        [
+          1,
+          {
+            "margin-bottom": {
+              "selector": ".hero__body",
+              "minValues": [
+                1.26
+              ],
+              "maxValues": [
+                2.66
+              ],
+              "minUnits": [
+                "rem"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "margin-bottom",
+              "order": 48,
+              "isCombo": true,
+              "bpIndex": 1,
+              "bp": 1,
+              "nextBp": 1200,
+              "nextBpIndex": 2
+            }
+          }
+        ]
+      ]
+    },
+    ".hero__btn": {
+      "__type__": "Map",
+      "value": [
+        [
+          0,
+          {
+            "margin-bottom": {
+              "selector": ".hero__btn",
+              "minValues": [
+                0
+              ],
+              "maxValues": [
+                -1
+              ],
+              "minUnits": [
+                "px"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "margin-bottom",
+              "order": 43,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 768,
+              "nextBpIndex": 1
+            },
+            "margin-left": {
+              "selector": ".hero__btn",
+              "minValues": [
+                "auto"
+              ],
+              "maxValues": [
+                0
+              ],
+              "minUnits": [
+                "auto"
+              ],
+              "maxUnits": [
+                "px"
+              ],
+              "variableName": "margin-left",
+              "order": 43,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 1200,
+              "nextBpIndex": 2
+            }
+          }
+        ]
+      ]
+    },
+    ".hero__img-wrapper": {
+      "__type__": "Map",
+      "value": [
+        [
+          0,
+          {
+            "margin-top": {
+              "selector": ".hero__img-wrapper",
+              "minValues": [
+                -5
+              ],
+              "maxValues": [
+                [
+                  "break",
+                  [
+                    -6.3
+                  ]
+                ]
+              ],
+              "minUnits": [
+                "rem"
+              ],
+              "maxUnits": [
+                [
+                  "",
+                  [
+                    "rem"
+                  ]
+                ]
+              ],
+              "variableName": "margin-top",
+              "order": 44,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 768,
+              "nextBpIndex": 1
+            }
+          }
+        ],
+        [
+          1,
+          {
+            "margin-top": {
+              "selector": ".hero__img-wrapper",
+              "minValues": [
+                [
+                  "break",
+                  [
+                    -6.3
+                  ]
+                ]
+              ],
+              "maxValues": [
+                -12
+              ],
+              "minUnits": [
+                [
+                  "",
+                  [
+                    "rem"
+                  ]
+                ]
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "margin-top",
+              "order": 50,
+              "isCombo": true,
+              "bpIndex": 1,
+              "bp": 1,
+              "nextBp": 1200,
+              "nextBpIndex": 2
+            }
+          }
+        ],
+        [
+          2,
+          {
+            "margin-left": {
+              "selector": ".hero__img-wrapper",
+              "minValues": [
+                -15
+              ],
+              "maxValues": [
+                -5
+              ],
+              "minUnits": [
+                "rem"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "margin-left",
+              "order": 56,
+              "isCombo": true,
+              "bpIndex": 2,
+              "bp": 2,
+              "nextBp": 1440,
+              "nextBpIndex": 3
+            }
+          }
+        ]
+      ]
+    },
+    ".card": {
+      "__type__": "Map",
+      "value": [
+        [
+          0,
+          {
+            "padding-top": {
+              "selector": ".card",
+              "minValues": [
+                6
+              ],
+              "maxValues": [
+                3.53
+              ],
+              "minUnits": [
+                "rem"
+              ],
+              "maxUnits": [
+                "em"
+              ],
+              "variableName": "padding-top",
+              "order": 59,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 768,
+              "nextBpIndex": 1
+            },
+            "padding-bottom": {
+              "selector": ".card",
+              "minValues": [
+                6
+              ],
+              "maxValues": [
+                3.53
+              ],
+              "minUnits": [
+                "rem"
+              ],
+              "maxUnits": [
+                "em"
+              ],
+              "variableName": "padding-bottom",
+              "order": 59,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 768,
+              "nextBpIndex": 1
+            },
+            "padding-left": {
+              "selector": ".card",
+              "minValues": [
+                0
+              ],
+              "maxValues": [
+                0
+              ],
+              "minUnits": [
+                "px"
+              ],
+              "maxUnits": [
+                "px"
+              ],
+              "variableName": "padding-left",
+              "order": 59,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 768,
+              "nextBpIndex": 1
+            },
+            "padding-right": {
+              "selector": ".card",
+              "minValues": [
+                0
+              ],
+              "maxValues": [
+                0
+              ],
+              "minUnits": [
+                "px"
+              ],
+              "maxUnits": [
+                "px"
+              ],
+              "variableName": "padding-right",
+              "order": 59,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 768,
+              "nextBpIndex": 1
+            }
+          }
+        ]
+      ]
+    },
+    ".card__title": {
+      "__type__": "Map",
+      "value": [
+        [
+          0,
+          {
+            "margin-bottom": {
+              "selector": ".card__title",
+              "minValues": [
+                0.8
+              ],
+              "maxValues": [
+                1.6
+              ],
+              "minUnits": [
+                "rem"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "margin-bottom",
+              "order": 62,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 768,
+              "nextBpIndex": 1
+            },
+            "font-size": {
+              "selector": ".card__title",
+              "minValues": [
+                1.86
+              ],
+              "maxValues": [
+                2.66
+              ],
+              "minUnits": [
+                "em"
+              ],
+              "maxUnits": [
+                "em"
+              ],
+              "variableName": "font-size",
+              "order": 62,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 768,
+              "nextBpIndex": 1
+            }
+          }
+        ]
+      ]
+    },
+    ".img-block__title": {
+      "__type__": "Map",
+      "value": [
+        [
+          0,
+          {
+            "margin-bottom": {
+              "selector": ".img-block__title",
+              "minValues": [
+                2
+              ],
+              "maxValues": [
+                1
+              ],
+              "minUnits": [
+                "rem"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "margin-bottom",
+              "order": 70,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 768,
+              "nextBpIndex": 1
+            }
+          }
+        ],
+        [
+          1,
+          {
+            "margin-bottom": {
+              "selector": ".img-block__title",
+              "minValues": [
+                1
+              ],
+              "maxValues": [
+                2
+              ],
+              "minUnits": [
+                "rem"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "margin-bottom",
+              "order": 77,
+              "isCombo": true,
+              "bpIndex": 1,
+              "bp": 1,
+              "nextBp": 1200,
+              "nextBpIndex": 2
+            }
+          }
+        ]
+      ]
+    },
+    ".img-block__img": {
+      "__type__": "Map",
+      "value": [
+        [
+          0,
+          {
+            "margin-bottom": {
+              "selector": ".img-block__img",
+              "minValues": [
+                [
+                  "break",
+                  [
+                    3.2
+                  ]
+                ]
+              ],
+              "maxValues": [
+                0
+              ],
+              "minUnits": [
+                [
+                  "",
+                  [
+                    "rem"
+                  ]
+                ]
+              ],
+              "maxUnits": [
+                "px"
+              ],
+              "variableName": "margin-bottom",
+              "order": 71,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 768,
+              "nextBpIndex": 1
+            }
+          }
+        ],
+        [
+          1,
+          {
+            "margin-bottom": {
+              "selector": ".img-block__img",
+              "minValues": [
+                0
+              ],
+              "maxValues": [
+                3
+              ],
+              "minUnits": [
+                "px"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "margin-bottom",
+              "order": 75,
+              "isCombo": true,
+              "bpIndex": 1,
+              "bp": 1,
+              "nextBp": 1200,
+              "nextBpIndex": 2
+            }
+          }
+        ]
+      ]
+    },
+    ".img-block__bg-circle": {
+      "__type__": "Map",
+      "value": [
+        [
+          0,
+          {
+            "left": {
+              "selector": ".img-block__bg-circle",
+              "minValues": [
+                [
+                  "break",
+                  [
+                    50
+                  ]
+                ]
+              ],
+              "maxValues": [
+                [
+                  "break",
+                  [
+                    0
+                  ]
+                ]
+              ],
+              "minUnits": [
+                [
+                  "",
+                  [
+                    "%"
+                  ]
+                ]
+              ],
+              "maxUnits": [
+                [
+                  "",
+                  [
+                    "px"
+                  ]
+                ]
+              ],
+              "variableName": "left",
+              "order": 72,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 768,
+              "nextBpIndex": 1
+            }
+          }
+        ],
+        [
+          1,
+          {
+            "left": {
+              "selector": ".img-block__bg-circle",
+              "minValues": [
+                [
+                  "break",
+                  [
+                    0
+                  ]
+                ]
+              ],
+              "maxValues": [
+                50
+              ],
+              "minUnits": [
+                [
+                  "",
+                  [
+                    "px"
+                  ]
+                ]
+              ],
+              "maxUnits": [
+                "%"
+              ],
+              "variableName": "left",
+              "order": 76,
+              "isCombo": true,
+              "bpIndex": 1,
+              "bp": 1,
+              "nextBp": 1200,
+              "nextBpIndex": 2
+            }
+          }
+        ]
+      ]
+    },
+    ".img-block__body": {
+      "__type__": "Map",
+      "value": [
+        [
+          0,
+          {
+            "width": {
+              "selector": ".img-block__body",
+              "minValues": [
+                "auto"
+              ],
+              "maxValues": [
+                23
+              ],
+              "minUnits": [
+                "auto"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "width",
+              "order": 73,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 1200,
+              "nextBpIndex": 2
+            }
+          }
+        ]
+      ]
+    },
+    ".cta": {
+      "__type__": "Map",
+      "value": [
+        [
+          0,
+          {
+            "padding-top": {
+              "selector": ".cta",
+              "minValues": [
+                4.26
+              ],
+              "maxValues": [
+                4.8
+              ],
+              "minUnits": [
+                "rem"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "padding-top",
+              "order": 98,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 1200,
+              "nextBpIndex": 2
+            },
+            "padding-bottom": {
+              "selector": ".cta",
+              "minValues": [
+                4.26
+              ],
+              "maxValues": [
+                4.8
+              ],
+              "minUnits": [
+                "rem"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "padding-bottom",
+              "order": 98,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 1200,
+              "nextBpIndex": 2
+            },
+            "padding-left": {
+              "selector": ".cta",
+              "minValues": [
+                1.6
+              ],
+              "maxValues": [
+                6.3
+              ],
+              "minUnits": [
+                "rem"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "padding-left",
+              "order": 98,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 1200,
+              "nextBpIndex": 2
+            },
+            "padding-right": {
+              "selector": ".cta",
+              "minValues": [
+                1.6
+              ],
+              "maxValues": [
+                6.3
+              ],
+              "minUnits": [
+                "rem"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "padding-right",
+              "order": 98,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 1200,
+              "nextBpIndex": 2
+            },
+            "background-position-x": {
+              "selector": ".cta",
+              "minValues": [
+                -13
+              ],
+              "maxValues": [
+                0
+              ],
+              "minUnits": [
+                "rem"
+              ],
+              "maxUnits": [
+                "px"
+              ],
+              "variableName": "background-position-x",
+              "order": 98,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 768,
+              "nextBpIndex": 1
+            },
+            "background-position-y": {
+              "selector": ".cta",
+              "minValues": [
+                -8
+              ],
+              "maxValues": [
+                -6
+              ],
+              "minUnits": [
+                "rem"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "background-position-y",
+              "order": 98,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 768,
+              "nextBpIndex": 1
+            }
+          }
+        ],
+        [
+          1,
+          {
+            "background-position-x": {
+              "selector": ".cta",
+              "minValues": [
+                0
+              ],
+              "maxValues": [
+                17
+              ],
+              "minUnits": [
+                "px"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "background-position-x",
+              "order": 103,
+              "isCombo": true,
+              "bpIndex": 1,
+              "bp": 1,
+              "nextBp": 1200,
+              "nextBpIndex": 2
+            },
+            "background-position-y": {
+              "selector": ".cta",
+              "minValues": [
+                -6
+              ],
+              "maxValues": [
+                -6
+              ],
+              "minUnits": [
+                "rem"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "background-position-y",
+              "order": 103,
+              "isCombo": true,
+              "bpIndex": 1,
+              "bp": 1,
+              "nextBp": 1200,
+              "nextBpIndex": 2
+            }
+          }
+        ]
+      ]
+    },
+    ".cta__title": {
+      "__type__": "Map",
+      "value": [
+        [
+          0,
+          {
+            "width": {
+              "selector": ".cta__title",
+              "minValues": [
+                15
+              ],
+              "maxValues": [
+                18.6
+              ],
+              "minUnits": [
+                "rem"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "width",
+              "order": 100,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 768,
+              "nextBpIndex": 1
+            },
+            "font-size": {
+              "selector": ".cta__title",
+              "minValues": [
+                2
+              ],
+              "maxValues": [
+                2.66
+              ],
+              "minUnits": [
+                "em"
+              ],
+              "maxUnits": [
+                "em"
+              ],
+              "variableName": "font-size",
+              "order": 100,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 768,
+              "nextBpIndex": 1
+            }
+          }
+        ],
+        [
+          1,
+          {
+            "width": {
+              "selector": ".cta__title",
+              "minValues": [
+                18.6
+              ],
+              "maxValues": [
+                "fit-content"
+              ],
+              "minUnits": [
+                "rem"
+              ],
+              "maxUnits": [
+                "content"
+              ],
+              "variableName": "width",
+              "order": 104,
+              "isCombo": true,
+              "bpIndex": 1,
+              "bp": 1,
+              "nextBp": 1200,
+              "nextBpIndex": 2
+            }
+          }
+        ]
+      ]
+    },
+    ".cta__body": {
+      "__type__": "Map",
+      "value": [
+        [
+          0,
+          {
+            "width": {
+              "selector": ".cta__body",
+              "minValues": [
+                100
+              ],
+              "maxValues": [
+                30
+              ],
+              "minUnits": [
+                "%"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "width",
+              "order": 101,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 768,
+              "nextBpIndex": 1
+            }
+          }
+        ],
+        [
+          1,
+          {
+            "width": {
+              "selector": ".cta__body",
+              "minValues": [
+                30
+              ],
+              "maxValues": [
+                "fit-content"
+              ],
+              "minUnits": [
+                "rem"
+              ],
+              "maxUnits": [
+                "content"
+              ],
+              "variableName": "width",
+              "order": 105,
+              "isCombo": true,
+              "bpIndex": 1,
+              "bp": 1,
+              "nextBp": 1200,
+              "nextBpIndex": 2
+            }
+          }
+        ]
+      ]
+    },
+    ".cta__btn": {
+      "__type__": "Map",
+      "value": [
+        [
+          0,
+          {
+            "margin-left": {
+              "selector": ".cta__btn",
+              "minValues": [
+                "auto"
+              ],
+              "maxValues": [
+                "auto"
+              ],
+              "minUnits": [
+                "auto"
+              ],
+              "maxUnits": [
+                "auto"
+              ],
+              "variableName": "margin-left",
+              "order": 102,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 1200,
+              "nextBpIndex": 2
+            },
+            "margin-right": {
+              "selector": ".cta__btn",
+              "minValues": [
+                "auto"
+              ],
+              "maxValues": [
+                0
+              ],
+              "minUnits": [
+                "auto"
+              ],
+              "maxUnits": [
+                "px"
+              ],
+              "variableName": "margin-right",
+              "order": 102,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 1200,
+              "nextBpIndex": 2
+            }
+          }
+        ]
+      ]
+    },
+    ".cta-wrapper": {
+      "__type__": "Map",
+      "value": [
+        [
+          0,
+          {
+            "margin-bottom": {
+              "selector": ".cta-wrapper",
+              "minValues": [
+                -11
+              ],
+              "maxValues": [
+                -5
+              ],
+              "minUnits": [
+                "rem"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "margin-bottom",
+              "order": 110,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 768,
+              "nextBpIndex": 1
+            }
+          }
+        ]
+      ]
+    },
+    ".homepage__card-grid-section": {
+      "__type__": "Map",
+      "value": [
+        [
+          0,
+          {
+            "padding-top": {
+              "selector": ".homepage__card-grid-section",
+              "minValues": [
+                8
+              ],
+              "maxValues": [
+                8
+              ],
+              "minUnits": [
+                "rem"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "padding-top",
+              "order": 115,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 768,
+              "nextBpIndex": 1
+            },
+            "padding-bottom": {
+              "selector": ".homepage__card-grid-section",
+              "minValues": [
+                8
+              ],
+              "maxValues": [
+                8
+              ],
+              "minUnits": [
+                "rem"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "padding-bottom",
+              "order": 115,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 768,
+              "nextBpIndex": 1
+            }
+          }
+        ],
+        [
+          1,
+          {
+            "padding-top": {
+              "selector": ".homepage__card-grid-section",
+              "minValues": [
+                8
+              ],
+              "maxValues": [
+                10.66
+              ],
+              "minUnits": [
+                "rem"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "padding-top",
+              "order": 116,
+              "isCombo": true,
+              "bpIndex": 1,
+              "bp": 1,
+              "nextBp": 1200,
+              "nextBpIndex": 2
+            },
+            "padding-bottom": {
+              "selector": ".homepage__card-grid-section",
+              "minValues": [
+                8
+              ],
+              "maxValues": [
+                10.66
+              ],
+              "minUnits": [
+                "rem"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "padding-bottom",
+              "order": 116,
+              "isCombo": true,
+              "bpIndex": 1,
+              "bp": 1,
+              "nextBp": 1200,
+              "nextBpIndex": 2
+            }
+          }
+        ]
+      ]
+    },
+    ".homepage__series": {
+      "__type__": "Map",
+      "value": [
+        [
+          0,
+          {
+            "padding-bottom": {
+              "selector": ".homepage__series",
+              "minValues": [
+                8
+              ],
+              "maxValues": [
+                4.46
+              ],
+              "minUnits": [
+                "rem"
+              ],
+              "maxUnits": [
+                "rem"
+              ],
+              "variableName": "padding-bottom",
+              "order": 118,
+              "isCombo": true,
+              "bpIndex": 0,
+              "nextBp": 768,
+              "nextBpIndex": 1
+            }
+          }
+        ]
+      ]
+    },
+    ".footer__icons-section": {
+      "__type__": "Map",
+      "value": [
+        [
+          1,
+          {
+            "margin-left": {
+              "selector": ".footer__icons-section",
+              "minValues": [
+                "auto"
+              ],
+              "maxValues": [
+                0
+              ],
+              "minUnits": [
+                "auto"
+              ],
+              "maxUnits": [
+                "px"
+              ],
+              "variableName": "margin-left",
+              "order": 34,
+              "isCombo": true,
+              "bpIndex": 1,
+              "bp": 1,
+              "nextBp": 1200,
+              "nextBpIndex": 2
+            }
+          }
+        ]
+      ]
+    },
+    ".card-grid": {
+      "__type__": "Map",
+      "value": [
+        [
+          1,
+          {
+            "grid-template-rows": {
+              "selector": ".card-grid",
+              "minValues": [
+                13.33,
+                13.33
+              ],
+              "maxValues": [
+                20.5,
+                20.5
+              ],
+              "minUnits": [
+                "rem",
+                "rem"
+              ],
+              "maxUnits": [
+                "rem",
+                "rem"
+              ],
+              "variableName": "grid-template-rows",
+              "order": 93,
+              "isCombo": true,
+              "bpIndex": 1,
+              "bp": 1,
+              "nextBp": 1200,
+              "nextBpIndex": 2
+            }
+          }
+        ]
+      ]
+    },
+    ".homepage__img-block/.homepage__img-block:last-child": {
+      "__type__": "Map",
+      "value": [
+        [
+          2,
+          {
+            "margin-left": {
+              "selector": ".homepage__img-block:last-child",
+              "minValues": [
+                "auto"
+              ],
+              "maxValues": [
+                0
+              ],
+              "minUnits": [
+                "auto"
+              ],
+              "maxUnits": [
+                "px"
+              ],
+              "variableName": "margin-left",
+              "order": 123,
+              "isCombo": true,
+              "bpIndex": 2,
+              "bp": 2,
+              "nextBp": 1440,
+              "nextBpIndex": 3,
+              "isPseudo": true
+            },
+            "margin-right": {
+              "selector": ".homepage__img-block:last-child",
+              "minValues": [
+                "auto"
+              ],
+              "maxValues": [
+                0
+              ],
+              "minUnits": [
+                "auto"
+              ],
+              "maxUnits": [
+                "px"
+              ],
+              "variableName": "margin-right",
+              "order": 123,
+              "isCombo": true,
+              "bpIndex": 2,
+              "bp": 2,
+              "nextBp": 1440,
+              "nextBpIndex": 3,
+              "isPseudo": true
+            }
+          }
+        ]
+      ]
+    }
+  }
+}

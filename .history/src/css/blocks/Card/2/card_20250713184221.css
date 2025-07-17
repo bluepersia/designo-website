@@ -1,0 +1,19 @@
+.card {
+  --id: 2;
+}
+
+.img {
+  display: block;
+  width: 100%;
+  height: 21.3rem;
+  object-fit: cover;
+}
+
+.content {
+  background-color: var(--cream);
+  text-align: center;
+}
+
+.title {
+  color: var(--beige);
+}

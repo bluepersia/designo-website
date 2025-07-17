@@ -1,0 +1,55 @@
+.card-grid { 
+
+  display: grid;
+  row-gap: 1.6rem;
+  list-style: none;
+  padding-left: 0;
+}
+
+
+
+.card-grid__card 
+{
+    height: 100%;
+}
+
+@media(min-width:768px)
+{
+    .card-grid 
+    {
+   
+     grid-template-rows: 13.33rem 13.33rem; 
+    }
+}
+
+
+@media(min-width:1200px)
+{
+
+  
+  .card-grid 
+  {
+    grid-template-areas: 
+      "primary secondary"
+      "primary terciary"
+    ;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 20.5rem 20.5rem;
+    column-gap: 2rem;
+  }
+
+  .card-grid__primary 
+  {
+    grid-area: primary;
+  }
+
+  .card-grid__secondary 
+  {
+    grid-area: secondary;
+  }
+
+  .card-grid__terciary 
+  {
+    grid-area: terciary;
+  }
+}

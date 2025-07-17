@@ -1,4 +1,4 @@
-import fluidScale from 'fluid-scale';
+import Page from "./pages/Page";
 
 
-fluidScale();
+new Page ('homepage');

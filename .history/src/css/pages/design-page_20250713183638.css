@@ -1,0 +1,13 @@
+.design-page {
+  --id: 1;
+}
+
+.card-grid-section {
+  padding: 6.4rem 0;
+}
+
+@media (min-width: 768px) {
+  .card-grid-section {
+    padding: 8rem 0;
+  }
+}

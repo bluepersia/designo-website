@@ -1,0 +1,28 @@
+.block-row {
+  --id: 1;
+  list-style: none;
+  padding-left: 0;
+  display: flex;
+  flex-direction: column;
+  row-gap: 1.6rem;
+}
+
+.row-item {
+  height: 16.6rem;
+}
+@media (min-width: 768px) {
+  .row-item {
+    height: 13.3rem;
+  }
+}
+@media (min-width: 1200px) {
+  .block-row {
+    flex-direction: row;
+    column-gap: 2rem;
+  }
+
+  .row-item {
+    flex: 1 0 50%;
+    height: 20.5rem;
+  }
+}

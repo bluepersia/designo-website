@@ -1,0 +1,17 @@
+.text-block { 
+
+  font-size: 1.06rem;
+  opacity: 50%;
+  display: flex;
+  flex-direction: column;
+  row-gap: .2rem;
+}
+
+.text-block__title 
+{
+    font-size: 1em;
+}
+.text-block__line 
+{
+    display: block;
+}

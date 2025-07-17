@@ -1,0 +1,7 @@
+.hero {
+  --id: 2;
+
+  background-color: var(--peach);
+  padding: 7rem 1.6rem;
+  color: white;
+}

@@ -1,0 +1,31 @@
+.nav 
+{ 
+  font-size: .93rem;
+  text-transform: uppercase;
+  letter-spacing: 0.142em;
+
+}
+
+.nav__list 
+{
+    display: flex;
+    list-style: none;
+    padding-left: 0;
+    flex-direction: column;
+    row-gap: 2rem;
+}
+
+.nav__link 
+{
+    text-decoration: none;
+    color:inherit;
+}
+
+
+@media(min-width: 768px)
+{
+    .nav__list {
+        flex-direction: row;
+        column-gap: 2.8rem;
+    }
+}
