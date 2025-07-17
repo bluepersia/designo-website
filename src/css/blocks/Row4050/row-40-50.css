@@ -1,0 +1,140 @@
+.row-40-50 {
+  --id: 1;
+  font-size: 1rem;
+}
+
+.img-tablet,
+.img-desktop {
+  display: none;
+}
+
+.img-mobile {
+  display: block;
+  width: 100%;
+  height: 21.3rem;
+  object-fit: cover;
+  border-radius: 0px;
+}
+
+.content {
+  text-align: center;
+  color: white;
+  padding: 5.3rem 1.6rem;
+  border-radius: 0px;
+}
+
+.row-40-50--hero .content {
+  background-color: var(--peach);
+
+  background-image: url('/img/about/mobile/bg-pattern-hero-about-mobile.svg');
+  background-position: left -30rem top -10rem;
+  background-repeat: no-repeat;
+  --force: background-position;
+}
+
+.row-40-50--secondary .content {
+  background-color: #fdf3f0;
+}
+
+.title {
+  font-weight: 500;
+  font-size: 2em;
+  margin-bottom: 1.6rem;
+}
+
+.row-40-50--secondary .title {
+  color: #e7816b;
+}
+.body {
+  line-height: 1.6;
+  font-size: 1em;
+}
+
+.body:not(:last-child) {
+  margin-bottom: 2rem;
+}
+.row-40-50--secondary .body {
+  color: var(--dark);
+}
+
+@media (min-width: 768px) {
+  .img-mobile {
+    display: none;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+  }
+
+  .img-tablet {
+    display: block;
+    width: 100%;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+  }
+
+  .row-40-50 .content {
+    border-bottom-right-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+  }
+
+  .row-40-50--hero .content {
+    background-image: url('/img/about/desktop/bg-pattern-hero-about-desktop.svg');
+    background-position: left -5rem top -30rem;
+  }
+
+  .title {
+    font-size: 3.2em;
+    margin-bottom: 2.13rem;
+  }
+  .body {
+    font-size: 1.06em;
+  }
+}
+
+@media (min-width: 1200px) {
+  .row-40-50 {
+    display: flex;
+    align-items: stretch;
+  }
+
+  .row-40-50--hero {
+    flex-direction: row-reverse;
+  }
+
+  .content {
+    width: 57.6%;
+    display: grid;
+    place-content: center;
+    text-align: left;
+    padding-left: 6.33rem;
+    padding-right: 6.33rem;
+    border-radius: 0px;
+    border-top-left-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+  }
+
+  .row-40-50--hero .content {
+    background-image: url('/img/about/desktop/bg-pattern-hero-about-desktop.svg');
+    background-position: left 6rem top -7rem;
+  }
+
+  .img-tablet {
+    display: none;
+  }
+
+  .img-desktop {
+    display: block;
+    width: 42.4%;
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+  }
+
+  .row-40-50--secondary .img-desktop {
+    border-radius: 0px;
+    border-bottom-left-radius: 1rem;
+    border-top-left-radius: 1rem;
+  }
+  .row-40-50--secondary .content {
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+  }
+}

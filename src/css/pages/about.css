@@ -1,0 +1,44 @@
+.about {
+  --id: 1;
+}
+
+.row-40-50--hero {
+  margin-bottom: 8rem;
+}
+
+.locations-section {
+  padding: 8rem 0;
+}
+
+.locations-section .list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  row-gap: 3.2rem;
+}
+
+@media (min-width: 1200px) {
+  .row-40-50--hero {
+    margin-bottom: 10.6rem;
+  }
+
+  .locations-section {
+    padding: 10.6rem 0;
+  }
+  .locations-section .list {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+}
+
+.cta-wrapper {
+  margin-top: 8rem;
+}
+
+@media (min-width: 1200px) {
+  .cta-wrapper {
+    margin-top: 10.6rem;
+  }
+}

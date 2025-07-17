@@ -1,7 +1,8 @@
 .cta-wrapper {
   --id: 1;
   /* Location-specific: */
-  margin: 0 auto;
+  margin-left: auto;
+  margin-right: auto;
   margin-bottom: -11rem;
   position: relative;
   z-index: 99;
