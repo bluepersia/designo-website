@@ -1,9 +1,9 @@
 .btn {
-  --id: 1; 
+  --id: 1;
 
   padding: 1.13rem 1.5rem;
   background-color: white;
-  border-radius: .5rem;
+  border-radius: 0.5rem;
   text-transform: uppercase;
   font-weight: 500;
   font-size: 1rem;
@@ -12,4 +12,9 @@
   width: 10.13rem;
   color: var(--dark);
   text-align: center;
+}
+
+.btn--peach {
+  color: white;
+  background-color: var(--peach);
 }
