@@ -23,7 +23,7 @@
   }
 
   .row-item {
-    flex: 1 0 50%;
+    width: 50%;
     height: 20.5rem;
   }
 }

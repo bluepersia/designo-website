@@ -1,0 +1,39 @@
+.input-block {
+  --id: 1;
+  position: relative;
+  font-size: 1rem;
+}
+
+.input {
+  background: none;
+  border: none;
+  border-bottom: 1px solid white;
+  width: 100%;
+  padding: 1.6rem 0.91rem 0.73rem;
+  color: white;
+  outline: none;
+}
+
+textarea.input {
+  height: 8.4rem;
+}
+
+.input::placeholder {
+  color: white;
+  opacity: 50%;
+}
+
+.error {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 0px;
+  display: flex;
+  align-items: center;
+  column-gap: 0.6rem;
+}
+
+.error .text {
+  font-style: italic;
+  font-size: 0.8em;
+}
