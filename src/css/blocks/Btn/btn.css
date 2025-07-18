@@ -1,6 +1,7 @@
 .btn {
   --id: 1;
 
+  font-family: inherit;
   padding: 1.13rem 1.5rem;
   background-color: white;
   border-radius: 0.5rem;
@@ -12,6 +13,7 @@
   width: 10.13rem;
   color: var(--dark);
   text-align: center;
+  border: none;
 }
 
 .btn--peach {

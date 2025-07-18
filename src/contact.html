@@ -13,12 +13,12 @@
     <link rel="stylesheet" href="./css/utils/utilities.css" />
     <link rel="stylesheet" href="./css/utils/variables.css" />
 
-    <meta name="auto-scope" content="./css/pages/about.css" />
+    <meta name="auto-scope" content="./css/blocks/Title/title.css" />
+    <meta name="auto-scope" content="./css/pages/contact.css" />
     <meta name="auto-scope" content="./css/layout/header.css" />
     <meta name="auto-scope" content="./css/layout/footer.css" />
     <meta name="auto-scope" content="./css/blocks/SiteLogo/site-logo.css" />
     <meta name="auto-scope" content="./css/blocks/Nav/nav.css" />
-    <meta name="auto-scope" content="./css/blocks/Row40-50/row-40-50.css" />
     <meta name="auto-scope" content="./css/blocks/ImgBlock/2/img-block.css" />
     <meta name="auto-scope" content="./css/blocks/Cta/cta.css" />
     <meta name="auto-scope" content="./css/blocks/CtaWrapper/cta-wrapper.css" />
@@ -26,6 +26,7 @@
     <meta name="auto-scope" content="./css/blocks/TextBlock/text-block.css" />
     <meta name="auto-scope" content="./css/blocks/IconList/icon-list.css" />
     <meta name="auto-scope" content="./css/blocks/BlockRow/2/block-row.css" />
+    <meta name="auto-scope" content="./css/blocks/InputBlock/input-block.css" />
   </head>
 
   <body>
@@ -55,69 +56,80 @@
       </button>
     </header>
 
-    <main class="about">
+    <main class="contact">
       <div class="u-container-mobile-full">
-        <section class="row-40-50 row-40-50--hero">
-          <img
-            class="img-mobile"
-            src="/img/about/mobile/image-about-hero.jpg"
-            alt="Birds-eye view of a collaborative gathering of people working on laptops and tablets."
-          />
-          <img
-            class="img-tablet"
-            src="/img/about/tablet/image-about-hero.jpg"
-            alt="Birds-eye view of a collaborative gathering of people working on laptops and tablets."
-          />
-          <img
-            class="img-desktop"
-            src="/img/about/desktop/image-about-hero.jpg"
-            alt="Birds-eye view of a collaborative gathering of people working on laptops and tablets."
-          />
+        <section class="contact-section">
           <div class="content">
-            <h1 class="title" data-block>About Us</h1>
+            <h1 class="title" data-block>Contact Us</h1>
             <p class="body">
-              Founded in 2010, we are a creative agency that produces lasting
-              results for our clients. We’ve partnered with many startups,
-              corporations, and nonprofits alike to craft designs that make real
-              impact. We’re always looking forward to creating brands, products,
-              and digital experiences that connect with our clients’ audiences.
+              Ready to take it to the next level? Let’s talk about your project
+              or idea and find out how we can help your business grow. If you
+              are looking for unique digital experiences that’s relatable to
+              your users, drop us a line.
             </p>
           </div>
-        </section>
 
-        <section class="row-40-50 row-40-50--secondary world-class-section">
-          <img
-            class="img-mobile"
-            src="/img/about/mobile/image-world-class-talent.jpg"
-            alt="Woman staring at an art-gallery wall"
-          />
-          <img
-            class="img-tablet"
-            src="/img/about/tablet/image-world-class-talent.jpg"
-            alt="Woman staring at an art-gallery wall"
-          />
-          <img
-            class="img-desktop"
-            src="/img/about/desktop/image-world-class-talent.jpg"
-            alt="Woman staring at an art-gallery wall"
-          />
-
-          <div class="content">
-            <h2 class="title">World-class talent</h2>
-            <p class="body">
-              We are a crew of strategists, problem-solvers, and technologists.
-              Every design is thoughtfully crafted from concept to launch,
-              ensuring success in its given market. We are constantly updating
-              our skills in a myriad of platforms.
-            </p>
-            <p class="body">
-              Our team is multi-disciplinary and we are not merely interested in
-              form — content and meaning are just as important. We give great
-              importance to craftsmanship, service, and prompt delivery. Clients
-              have always been impressed with our high-quality outcomes that
-              encapsulates their brand’s story and mission.
-            </p>
-          </div>
+          <form class="form">
+            <div class="input-block">
+              <label for="name" class="sr-only">Name</label>
+              <input
+                id="name"
+                class="input"
+                type="text"
+                placeholder="Your Name"
+              />
+              <span class="error"
+                ><span class="text">Can't be empty</span
+                ><img
+                  class="icon"
+                  src="/img/contact/desktop/icon-error.svg"
+                  alt=""
+              /></span>
+            </div>
+            <div class="input-block">
+              <label for="email" class="sr-only">Email</label>
+              <input
+                id="email"
+                class="input"
+                type="email"
+                placeholder="Email Address"
+              />
+              <span class="error"
+                ><span class="text">Can't be empty</span
+                ><img
+                  class="icon"
+                  src="/img/contact/desktop/icon-error.svg"
+                  alt=""
+              /></span>
+            </div>
+            <div class="input-block">
+              <label for="phone" class="sr-only">Phone</label>
+              <input id="phone" class="input" type="tel" placeholder="Phone" />
+              <span class="error"
+                ><span class="text">Can't be empty</span
+                ><img
+                  class="icon"
+                  src="/img/contact/desktop/icon-error.svg"
+                  alt=""
+              /></span>
+            </div>
+            <div class="input-block">
+              <label for="message" class="sr-only">Message</label>
+              <textarea
+                id="message"
+                class="input"
+                placeholder="Your Message"
+              ></textarea>
+              <span class="error"
+                ><span class="text">Can't be empty</span
+                ><img
+                  class="icon"
+                  src="/img/contact/desktop/icon-error.svg"
+                  alt=""
+              /></span>
+            </div>
+            <button class="btn" type="submit">Submit</button>
+          </form>
         </section>
 
         <section class="locations-section">
@@ -165,40 +177,6 @@
               </section>
             </li>
           </ul>
-        </section>
-
-        <section class="row-40-50 row-40-50--secondary">
-          <img
-            class="img-mobile"
-            src="/img/about/mobile/image-real-deal.jpg"
-            alt="Woman's hands reaching out for an art piece on the wall"
-          />
-          <img
-            class="img-tablet"
-            src="/img/about/tablet/image-real-deal.jpg"
-            alt="Woman's hands reaching out for an art piece on the wall"
-          />
-          <img
-            class="img-desktop"
-            src="/img/about/desktop/image-real-deal.jpg"
-            alt="Woman's hands reaching out for an art piece on the wall"
-          />
-
-          <div class="content">
-            <h2 class="title">The real deal</h2>
-            <p class="body">
-              As strategic partners in our clients’ businesses, we are ready to
-              take on any challenge as our own. Solving real problems require
-              empathy and collaboration, and we strive to bring a fresh
-              perspective to every opportunity. We make design and technology
-              more accessible and give you tools to measure success.
-            </p>
-            <p class="body">
-              We are visual storytellers in appealing and captivating ways. By
-              combining business and marketing strategies, we inspire audiences
-              to take action and drive real results.
-            </p>
-          </div>
         </section>
       </div>
       <div class="u-container cta-wrapper">
