@@ -1,5 +1,7 @@
 .homepage {
   --id: 1;
+
+  position: relative;
 }
 
 .hero {

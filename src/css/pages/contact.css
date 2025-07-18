@@ -1,5 +1,6 @@
 .contact {
   --id: 1;
+  position: relative;
 }
 
 .locations-section {
