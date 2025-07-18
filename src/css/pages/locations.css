@@ -1,0 +1,19 @@
+.locations {
+  --id: 1;
+}
+
+.list {
+  list-style: none;
+}
+.list > *:not(:last-child) {
+  margin-bottom: 2.66rem;
+}
+
+.cta-wrapper {
+  margin-top: 8rem;
+}
+@media (min-width: 1200px) {
+  .cta-wrapper {
+    margin-top: 10.6rem;
+  }
+}
