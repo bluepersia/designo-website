@@ -1,18 +1,19 @@
 .text-block {
-  --id: 1; 
+  --id: 1;
 
   font-size: 1.06rem;
   opacity: 50%;
   display: flex;
   flex-direction: column;
-  row-gap: .2rem;
+  row-gap: 0.2rem;
+}
+.text-block--full-opacity {
+  opacity: 100%;
 }
 
-.title 
-{
-    font-size: 1em;
+.title {
+  font-size: 1em;
 }
-.line 
-{
-    display: block;
+.line {
+  display: block;
 }

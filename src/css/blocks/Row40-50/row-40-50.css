@@ -6,6 +6,7 @@
 .img-tablet,
 .img-desktop {
   display: none;
+  object-fit: cover;
 }
 
 .img-mobile {
