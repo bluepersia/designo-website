@@ -1,5 +1,5 @@
 .header {
-  --id: 1; 
+  --id: 1;
 
   display: flex;
   align-items: center;
@@ -8,36 +8,41 @@
   padding-bottom: 2.33rem;
 }
 
-
-.nav 
-{
-    display: none;
+.nav {
+  display: none;
 }
 
 .mobile-nav-btn {
-    background: none;
-    border:none;
+  background: none;
+  border: none;
+  cursor: pointer;
 }
 
-.mobile-nav-btn .icon-close 
-{
+.mobile-nav-btn .icon-open {
+  display: block;
+}
+.mobile-nav-btn .icon-close {
+  display: none;
+}
+
+.mobile-nav-btn--open .icon-close {
+  display: block;
+}
+
+.mobile-nav-btn--open .icon-open {
+  display: none;
+}
+
+@media (min-width: 768px) {
+  .header {
+    padding-top: 4.26rem;
+    padding-bottom: 4.26rem;
+  }
+  .mobile-nav-btn {
     display: none;
-}
+  }
 
-
-
-@media(min-width: 768px)
-{
-    .header {
-        padding-top: 4.26rem;
-        padding-bottom: 4.26rem;
-    }
-    .mobile-nav-btn {
-        display: none;
-    }
-
-    .nav 
-    {
-        display: block;
-    }
+  .nav {
+    display: block;
+  }
 }

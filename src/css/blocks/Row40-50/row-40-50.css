@@ -28,7 +28,7 @@
   background-color: var(--peach);
 
   background-image: url('/img/about/mobile/bg-pattern-hero-about-mobile.svg');
-  background-position: left -30rem top -10rem;
+  background-position: left -34rem top -10rem;
   background-repeat: no-repeat;
   --force: background-position;
 }

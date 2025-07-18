@@ -1,5 +1,6 @@
 .about {
   --id: 1;
+  position: relative;
 }
 
 .row-40-50--hero {

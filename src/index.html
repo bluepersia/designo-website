@@ -28,6 +28,7 @@
     <meta name="auto-scope" content="./css/blocks/CtaWrapper/cta-wrapper.css" />
     <meta name="auto-scope" content="./css/blocks/Title/title.css" />
     <meta name="auto-scope" content="./css/pages/homepage.css" />
+    <meta name="auto-scope" content="./css/blocks/Overlay/overlay.css" />
   </head>
 
   <body>
@@ -43,7 +44,7 @@
         </ul>
       </nav>
 
-      <button class="mobile-nav-btn">
+      <button class="mobile-nav-btn" data-mobile-menu-btn>
         <img
           class="icon-open"
           src="/img/shared/mobile/icon-hamburger.svg"
@@ -228,6 +229,16 @@
           </div>
           <a class="btn" href="contact.html">Get in Touch</a>
         </section>
+      </div>
+
+      <div class="overlay" data-overlay>
+        <nav class="mobile-menu">
+          <ul class="list">
+            <li><a class="link" href="about.html">Our Company</a></li>
+            <li><a class="link" href="locations.html">Locations</a></li>
+            <li><a class="link" href="contact.html">Contact</a></li>
+          </ul>
+        </nav>
       </div>
     </main>
 

@@ -3,4 +3,4 @@ import MobileMenu from "./components/MobileMenu";
 
 new MobileMenu ();
 
-new Page ('homepage');
+new Page ('about');
