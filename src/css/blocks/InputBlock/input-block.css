@@ -31,6 +31,13 @@ textarea.input {
   display: flex;
   align-items: center;
   column-gap: 0.6rem;
+  opacity: 0%;
+  pointer-events: none;
+  transition: opacity 300ms;
+}
+
+.error--active {
+  opacity: 100%;
 }
 
 .error .text {
