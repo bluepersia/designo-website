@@ -20,8 +20,13 @@
   border-bottom-right-radius: 1rem;
   display: grid;
   place-content: center;
+  transition: background-color 300ms;
 }
 
+.card:active .content,
+.card:hover .content {
+  background-color: var(--peach);
+}
 .title {
   color: var(--peach);
   font-weight: 500;
@@ -29,10 +34,19 @@
   letter-spacing: 0.25em;
   text-transform: uppercase;
   margin-bottom: 1.06rem;
+  transition: color 300ms;
 }
 
 .body {
   color: var(--dark);
+  transition: color 300ms;
+}
+
+.card:active .title,
+.card:active .body,
+.card:hover .title,
+.card:hover .body {
+  color: white;
 }
 
 @media (min-width: 768px) {

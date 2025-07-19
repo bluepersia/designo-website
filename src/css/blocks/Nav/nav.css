@@ -1,32 +1,31 @@
-.nav 
-{
-  --id: 1; 
-  font-size: .93rem;
+.nav {
+  --id: 1;
+  font-size: 0.93rem;
   text-transform: uppercase;
   letter-spacing: 0.142em;
-
 }
 
-.list 
-{
-    display: flex;
-    list-style: none;
-    padding-left: 0;
-    flex-direction: column;
-    row-gap: 2rem;
+.list {
+  display: flex;
+  list-style: none;
+  padding-left: 0;
+  flex-direction: column;
+  row-gap: 2rem;
 }
 
-.link 
-{
-    text-decoration: none;
-    color:inherit;
+.link {
+  text-decoration: none;
+  color: inherit;
 }
 
+.link:active,
+.link:hover {
+  text-decoration: underline;
+}
 
-@media(min-width: 768px)
-{
-    .list {
-        flex-direction: row;
-        column-gap: 2.8rem;
-    }
+@media (min-width: 768px) {
+  .list {
+    flex-direction: row;
+    column-gap: 2.8rem;
+  }
 }

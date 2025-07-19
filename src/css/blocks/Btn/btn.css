@@ -14,9 +14,22 @@
   color: var(--dark);
   text-align: center;
   border: none;
+  transition: background-color 300ms, color 300ms;
+  cursor: pointer;
+}
+
+.btn:hover,
+.btn:active {
+  background-color: var(--peach-light);
+  color: white;
 }
 
 .btn--peach {
   color: white;
   background-color: var(--peach);
+}
+
+.btn--peach:active,
+.btn--peach:hover {
+  background-color: var(--peach-light);
 }

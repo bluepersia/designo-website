@@ -11,8 +11,13 @@
   font-size: 1rem;
   display: grid;
   place-content: center;
+  transition: background-color 300ms;
 }
 
+.card:hover,
+.card:active {
+  background-color: rgba(231, 129, 107, 50%);
+}
 .img {
   position: absolute;
 
