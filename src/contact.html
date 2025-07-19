@@ -70,59 +70,68 @@
             </p>
           </div>
 
-          <form class="form">
-            <div class="input-block">
+          <form class="form" data-contact-form>
+            <div class="input-block" data-name>
               <label for="name" class="sr-only">Name</label>
               <input
                 id="name"
                 class="input"
                 type="text"
                 placeholder="Your Name"
+                name="name"
               />
               <span class="error"
-                ><span class="text">Can't be empty</span
+                ><span class="text" data-error-text>Can't be empty</span
                 ><img
                   class="icon"
                   src="/img/contact/desktop/icon-error.svg"
                   alt=""
               /></span>
             </div>
-            <div class="input-block">
+            <div class="input-block" data-email>
               <label for="email" class="sr-only">Email</label>
               <input
                 id="email"
                 class="input"
                 type="email"
                 placeholder="Email Address"
+                name="email"
               />
               <span class="error"
-                ><span class="text">Can't be empty</span
+                ><span class="text" data-error-text>Can't be empty</span
                 ><img
                   class="icon"
                   src="/img/contact/desktop/icon-error.svg"
                   alt=""
               /></span>
             </div>
-            <div class="input-block">
+            <div class="input-block" data-phone>
               <label for="phone" class="sr-only">Phone</label>
-              <input id="phone" class="input" type="tel" placeholder="Phone" />
+              <input
+                id="phone"
+                class="input"
+                type="tel"
+                placeholder="Phone"
+                name="phone"
+              />
               <span class="error"
-                ><span class="text">Can't be empty</span
+                ><span class="text" data-error-text>Can't be empty</span
                 ><img
                   class="icon"
                   src="/img/contact/desktop/icon-error.svg"
                   alt=""
               /></span>
             </div>
-            <div class="input-block">
+            <div class="input-block" data-msg>
               <label for="message" class="sr-only">Message</label>
               <textarea
                 id="message"
                 class="input"
                 placeholder="Your Message"
+                name="msg"
               ></textarea>
               <span class="error"
-                ><span class="text">Can't be empty</span
+                ><span class="text" data-error-text>Can't be empty</span
                 ><img
                   class="icon"
                   src="/img/contact/desktop/icon-error.svg"
