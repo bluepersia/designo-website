@@ -1,4 +1,13 @@
 .design-page {
+  position: relative;
+}
+
+@media (min-width: 1200px) {
+  .design-page {
+    background-image: url('/img/shared/desktop/bg-pattern-leaf.svg');
+    background-repeat: no-repeat;
+    background-position-y: top 12rem;
+  }
 }
 
 .design-page__card-grid-section {

@@ -26,7 +26,14 @@ export default defineConfig({
       input
     }
   },
-
+  plugins: [
+    {
+      name: 'fluid-build',
+      buildStart() {
+        execSync('npx fluid-build', { stdio: 'inherit' });
+      },
+    },
+  ],
  
 });
 

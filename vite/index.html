@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
   <head>
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
@@ -26,7 +26,9 @@
     <link rel="stylesheet" href="./css/blocks/CardGrid/card-grid.css">
     <link rel="stylesheet" href="./css/blocks/Cta/cta.css">
     <link rel="stylesheet" href="./css/blocks/CtaWrapper/cta-wrapper.css">
+    <link rel="stylesheet" href="./css/blocks/Title/title.css">
     <link rel="stylesheet" href="./css/pages/homepage.css">
+    <link rel="stylesheet" href="./css/blocks/Overlay/overlay.css">
   </head>
 
   <body>
@@ -42,14 +44,14 @@
         </ul>
       </nav>
 
-      <button class="header__mobile-nav-btn">
+      <button class="header__mobile-nav-btn" data-mobile-menu-btn>
         <img
-          class="icon-open"
+          class="header__mobile-nav-btn__icon-open header__icon-open"
           src="/img/shared/mobile/icon-hamburger.svg"
           alt=""
         />
         <img
-          class="header__mobile-nav-btn__icon-close"
+          class="header__mobile-nav-btn__icon-close header__icon-close"
           src="/img/shared/mobile/icon-close.svg"
           alt=""
         />
@@ -60,7 +62,7 @@
       <div class="u-container-mobile-full">
         <section class="hero homepage__hero">
           <div class="hero__content">
-            <h1 class="hero__title u-fw-medium">
+            <h1 class="title u-fw-medium" data-block>
               Award-winning custom designs and digital branding solutions
             </h1>
             <p class="hero__body">
@@ -228,6 +230,16 @@
           <a class="btn cta__btn" href="contact.html">Get in Touch</a>
         </section>
       </div>
+
+      <div class="overlay" data-overlay>
+        <nav class="overlay__mobile-menu">
+          <ul class="overlay__mobile-menu__list">
+            <li class="overlay__mobile-menu__li"><a class="overlay__mobile-menu__link" href="about.html">Our Company</a></li>
+            <li class="overlay__mobile-menu__li"><a class="overlay__mobile-menu__link" href="locations.html">Locations</a></li>
+            <li class="overlay__mobile-menu__li"><a class="overlay__mobile-menu__link" href="contact.html">Contact</a></li>
+          </ul>
+        </nav>
+      </div>
     </main>
 
     <footer class="footer u-container">
@@ -263,7 +275,7 @@
             <li>
               <a
                 ><img
-                  class="icon"
+                  class="icon-list__icon"
                   src="/img/shared/desktop/icon-facebook.svg"
                   alt="Facebook"
               /></a>
@@ -271,7 +283,7 @@
             <li>
               <a
                 ><img
-                  class="icon"
+                  class="icon-list__icon"
                   src="/img/shared/desktop/icon-youtube.svg"
                   alt="YouTube"
               /></a>
@@ -279,7 +291,7 @@
             <li>
               <a
                 ><img
-                  class="icon"
+                  class="icon-list__icon"
                   src="/img/shared/desktop/icon-twitter.svg"
                   alt="Twitter"
               /></a>
@@ -287,7 +299,7 @@
             <li>
               <a
                 ><img
-                  class="icon"
+                  class="icon-list__icon"
                   src="/img/shared/desktop/icon-pinterest.svg"
                   alt="Pinterest"
               /></a>
@@ -295,7 +307,7 @@
             <li>
               <a
                 ><img
-                  class="icon"
+                  class="icon-list__icon"
                   src="/img/shared/desktop/icon-instagram.svg"
                   alt="Instragram"
               /></a>

@@ -1,4 +1,6 @@
-import fluidScale from 'fluid-scale';
+import Page from "./pages/Page";
+import MobileMenu from "./components/MobileMenu";
 
+new MobileMenu ();
 
-fluidScale({json: 'homepage'});
+new Page ('homepage');

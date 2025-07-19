@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="./css/utils/global.css" />
+    <link rel="stylesheet" href="./css/utils/utilities.css" />
+    <link rel="stylesheet" href="./css/utils/variables.css" />
+
+    <link rel="stylesheet" href="./css/pages/about.css">
+    <link rel="stylesheet" href="./css/layout/header.css">
+    <link rel="stylesheet" href="./css/layout/footer.css">
+    <link rel="stylesheet" href="./css/blocks/SiteLogo/site-logo.css">
+    <link rel="stylesheet" href="./css/blocks/Nav/nav.css">
+    <link rel="stylesheet" href="./css/blocks/Row40-50/row-40-50.css">
+    <link rel="stylesheet" href="./css/blocks/ImgBlock/2/img-block.css">
+    <link rel="stylesheet" href="./css/blocks/Cta/cta.css">
+    <link rel="stylesheet" href="./css/blocks/CtaWrapper/cta-wrapper.css">
+    <link rel="stylesheet" href="./css/blocks/Btn/btn.css">
+    <link rel="stylesheet" href="./css/blocks/TextBlock/text-block.css">
+    <link rel="stylesheet" href="./css/blocks/IconList/icon-list.css">
+    <link rel="stylesheet" href="./css/blocks/BlockRow/2/block-row.css">
+    <link rel="stylesheet" href="./css/blocks/Overlay/overlay.css">
+  </head>
+
+  <body>
+    <header class="header u-container">
+      <a class="site-logo" href="index.html"
+        ><img class="site-logo__img" src="/img/shared/desktop/logo-dark.png" alt="Designo"
+      /></a>
+      <nav class="nav header__nav">
+        <ul class="nav__list">
+          <li><a class="nav__link" href="about.html">Our Company</a></li>
+          <li><a class="nav__link" href="locations.html">Locations</a></li>
+          <li><a class="nav__link" href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+
+      <button class="header__mobile-nav-btn" data-mobile-menu-btn>
+        <img
+          class="header__mobile-nav-btn__icon-open header__icon-open"
+          src="/img/shared/mobile/icon-hamburger.svg"
+          alt=""
+        />
+        <img
+          class="header__mobile-nav-btn__icon-close header__icon-close"
+          src="/img/shared/mobile/icon-close.svg"
+          alt=""
+        />
+      </button>
+    </header>
+
+    <main class="about">
+      <div class="u-container-mobile-full">
+        <section class="row-40-50 row-40-50--hero about__row-40-50--hero">
+          <img
+            class="row-40-50__img-mobile"
+            src="/img/about/mobile/image-about-hero.jpg"
+            alt="Birds-eye view of a collaborative gathering of people working on laptops and tablets."
+          />
+          <img
+            class="row-40-50__img-tablet"
+            src="/img/about/tablet/image-about-hero.jpg"
+            alt="Birds-eye view of a collaborative gathering of people working on laptops and tablets."
+          />
+          <img
+            class="row-40-50__img-desktop"
+            src="/img/about/desktop/image-about-hero.jpg"
+            alt="Birds-eye view of a collaborative gathering of people working on laptops and tablets."
+          />
+          <div class="row-40-50__content">
+            <h1 class="row-40-50__title" data-block>About Us</h1>
+            <p class="row-40-50__body">
+              Founded in 2010, we are a creative agency that produces lasting
+              results for our clients. We’ve partnered with many startups,
+              corporations, and nonprofits alike to craft designs that make real
+              impact. We’re always looking forward to creating brands, products,
+              and digital experiences that connect with our clients’ audiences.
+            </p>
+          </div>
+        </section>
+
+        <section class="row-40-50 row-40-50--secondary world-class-section">
+          <img
+            class="row-40-50__img-mobile"
+            src="/img/about/mobile/image-world-class-talent.jpg"
+            alt="Woman staring at an art-gallery wall"
+          />
+          <img
+            class="row-40-50__img-tablet"
+            src="/img/about/tablet/image-world-class-talent.jpg"
+            alt="Woman staring at an art-gallery wall"
+          />
+          <img
+            class="row-40-50__img-desktop"
+            src="/img/about/desktop/image-world-class-talent.jpg"
+            alt="Woman staring at an art-gallery wall"
+          />
+
+          <div class="row-40-50__content">
+            <h2 class="row-40-50__title">World-class talent</h2>
+            <p class="row-40-50__body">
+              We are a crew of strategists, problem-solvers, and technologists.
+              Every design is thoughtfully crafted from concept to launch,
+              ensuring success in its given market. We are constantly updating
+              our skills in a myriad of platforms.
+            </p>
+            <p class="row-40-50__body">
+              Our team is multi-disciplinary and we are not merely interested in
+              form — content and meaning are just as important. We give great
+              importance to craftsmanship, service, and prompt delivery. Clients
+              have always been impressed with our high-quality outcomes that
+              encapsulates their brand’s story and mission.
+            </p>
+          </div>
+        </section>
+
+        <section class="about__locations-section">
+          <h2 class="sr-only">Locations</h2>
+          <ul class="block-row-2">
+            <li>
+              <section class="img-block-2">
+                <img
+                  class="img-block-2__img"
+                  src="/img/shared/desktop/illustration-canada.svg"
+                  alt=""
+                />
+                <h3 class="img-block-2__title">Canada</h3>
+                <a class="btn btn--peach" href="locations.html#canada-map"
+                  >See Location</a
+                >
+              </section>
+            </li>
+            <li>
+              <section class="img-block-2">
+                <img
+                  class="img-block-2__img"
+                  src="/img/shared/desktop/illustration-australia.svg"
+                  alt=""
+                />
+                <h3 class="img-block-2__title">Australia</h3>
+                <a class="btn btn--peach" href="locations.html#australia-map"
+                  >See Location</a
+                >
+              </section>
+            </li>
+            <li>
+              <section class="img-block-2">
+                <img
+                  class="img-block-2__img"
+                  src="/img/shared/desktop/illustration-united-kingdom.svg"
+                  alt=""
+                />
+                <h3 class="img-block-2__title">United Kingdom</h3>
+                <a
+                  class="btn btn--peach"
+                  href="locations.html#united-kingdom-map"
+                  >See Location</a
+                >
+              </section>
+            </li>
+          </ul>
+        </section>
+
+        <section class="row-40-50 row-40-50--secondary">
+          <img
+            class="row-40-50__img-mobile"
+            src="/img/about/mobile/image-real-deal.jpg"
+            alt="Woman's hands reaching out for an art piece on the wall"
+          />
+          <img
+            class="row-40-50__img-tablet"
+            src="/img/about/tablet/image-real-deal.jpg"
+            alt="Woman's hands reaching out for an art piece on the wall"
+          />
+          <img
+            class="row-40-50__img-desktop"
+            src="/img/about/desktop/image-real-deal.jpg"
+            alt="Woman's hands reaching out for an art piece on the wall"
+          />
+
+          <div class="row-40-50__content">
+            <h2 class="row-40-50__title">The real deal</h2>
+            <p class="row-40-50__body">
+              As strategic partners in our clients’ businesses, we are ready to
+              take on any challenge as our own. Solving real problems require
+              empathy and collaboration, and we strive to bring a fresh
+              perspective to every opportunity. We make design and technology
+              more accessible and give you tools to measure success.
+            </p>
+            <p class="row-40-50__body">
+              We are visual storytellers in appealing and captivating ways. By
+              combining business and marketing strategies, we inspire audiences
+              to take action and drive real results.
+            </p>
+          </div>
+        </section>
+      </div>
+      <div class="u-container cta-wrapper about__cta-wrapper">
+        <section class="cta cta--contact">
+          <div class="cta__content">
+            <h2 class="cta__title u-fw-medium">Let's talk about your project</h2>
+            <p class="cta__body">
+              Ready to take it to the next level? Contact us today and find out
+              how our expertise can help your business grow.
+            </p>
+          </div>
+          <a class="btn cta__btn" href="contact.html">Get in Touch</a>
+        </section>
+      </div>
+
+      <div class="overlay" data-overlay>
+        <nav class="overlay__mobile-menu">
+          <ul class="overlay__mobile-menu__list">
+            <li class="overlay__mobile-menu__li"><a class="overlay__mobile-menu__link" href="about.html">Our Company</a></li>
+            <li class="overlay__mobile-menu__li"><a class="overlay__mobile-menu__link" href="locations.html">Locations</a></li>
+            <li class="overlay__mobile-menu__li"><a class="overlay__mobile-menu__link" href="contact.html">Contact</a></li>
+          </ul>
+        </nav>
+      </div>
+    </main>
+    <footer class="footer u-container">
+      <div class="footer__main-nav">
+        <a class="site-logo footer__site-logo" href="index.html"
+          ><img class="site-logo__img" src="/img/shared/desktop/logo-light.png" alt=""
+        /></a>
+        <div class="footer__border"></div>
+        <nav class="nav footer__nav">
+          <ul class="nav__list">
+            <li><a class="nav__link" href="about.html">Our Company</a></li>
+            <li><a class="nav__link" href="locations.html">Locations</a></li>
+            <li><a class="nav__link" href="contact.html">Contact</a></li>
+          </ul>
+        </nav>
+      </div>
+
+      <section class="footer__contact-info">
+        <h2 class="title sr-only">Get In Touch</h2>
+        <section class="text-block text-block--address footer__text-block">
+          <h3 class="text-block__title">Designo Central Office</h3>
+          <span class="text-block__line">3886 Wellington Street</span>
+          <span class="text-block__line">Toronto, Ontario M9C 3J5</span>
+        </section>
+        <section class="text-block text-block--contact footer__text-block">
+          <h3 class="text-block__title">Contact Us (Central Office)</h3>
+          <span class="text-block__line"><bold>P : +1 253-863-8967</bold></span>
+          <span class="text-block__line"><bold>Toronto, Ontario M9C 3J5</bold></span>
+        </section>
+        <section class="footer__icons-section">
+          <h3 class="title sr-only">Social Media</h3>
+          <ul class="icon-list">
+            <li>
+              <a
+                ><img
+                  class="icon-list__icon"
+                  src="/img/shared/desktop/icon-facebook.svg"
+                  alt="Facebook"
+              /></a>
+            </li>
+            <li>
+              <a
+                ><img
+                  class="icon-list__icon"
+                  src="/img/shared/desktop/icon-youtube.svg"
+                  alt="YouTube"
+              /></a>
+            </li>
+            <li>
+              <a
+                ><img
+                  class="icon-list__icon"
+                  src="/img/shared/desktop/icon-twitter.svg"
+                  alt="Twitter"
+              /></a>
+            </li>
+            <li>
+              <a
+                ><img
+                  class="icon-list__icon"
+                  src="/img/shared/desktop/icon-pinterest.svg"
+                  alt="Pinterest"
+              /></a>
+            </li>
+            <li>
+              <a
+                ><img
+                  class="icon-list__icon"
+                  src="/img/shared/desktop/icon-instagram.svg"
+                  alt="Instragram"
+              /></a>
+            </li>
+          </ul>
+        </section>
+      </section>
+    </footer>
+
+    <script type="module" src="/app-design.ts"></script>
+  </body>
+</html>

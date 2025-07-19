@@ -19,8 +19,12 @@
   border-bottom-right-radius: 1rem;
   display: grid;
   place-content: center;
+  transition: background-color 300ms;
 }
 
+.card-2:active .card-2__content, .card-2:hover .card-2__content {
+  background-color: var(--peach);
+}
 .card-2__title {
   color: var(--peach);
   font-weight: 500;
@@ -28,10 +32,16 @@
   letter-spacing: 0.25em;
   text-transform: uppercase;
   margin-bottom: 1.06rem;
+  transition: color 300ms;
 }
 
 .card-2__body {
   color: var(--dark);
+  transition: color 300ms;
+}
+
+.card-2:active .card-2__title, .card-2:active .card-2__body, .card-2:hover .card-2__title, .card-2:hover .card-2__body {
+  color: white;
 }
 
 @media (min-width: 768px) {

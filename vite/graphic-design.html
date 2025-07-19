@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="./css/utils/global.css" />
+    <link rel="stylesheet" href="./css/utils/utilities.css" />
+    <link rel="stylesheet" href="./css/utils/variables.css" />
+
+    <link rel="stylesheet" href="./css/pages/design-page.css">
+    <link rel="stylesheet" href="./css/layout/header.css">
+    <link rel="stylesheet" href="./css/layout/footer.css">
+    <link rel="stylesheet" href="./css/blocks/SiteLogo/site-logo.css">
+    <link rel="stylesheet" href="./css/blocks/Nav/nav.css">
+    <link rel="stylesheet" href="./css/blocks/Hero/2/hero.css">
+    <link rel="stylesheet" href="./css/blocks/Cta/cta.css">
+    <link rel="stylesheet" href="./css/blocks/CtaWrapper/cta-wrapper.css">
+    <link rel="stylesheet" href="./css/blocks/Btn/btn.css">
+    <link rel="stylesheet" href="./css/blocks/Card/card.css">
+    <link rel="stylesheet" href="./css/blocks/Card/2/card.css">
+    <link rel="stylesheet" href="./css/blocks/CardGrid/2/card-grid.css">
+    <link rel="stylesheet" href="./css/blocks/BlockRow/block-row.css">
+    <link rel="stylesheet" href="./css/blocks/TextBlock/text-block.css">
+    <link rel="stylesheet" href="./css/blocks/IconList/icon-list.css">
+    <link rel="stylesheet" href="./css/blocks/Title/title.css">
+    <link rel="stylesheet" href="./css/blocks/Overlay/overlay.css">
+  </head>
+
+  <body>
+    <header class="header u-container">
+      <a class="site-logo" href="index.html"
+        ><img class="site-logo__img" src="/img/shared/desktop/logo-dark.png" alt="Designo"
+      /></a>
+      <nav class="nav header__nav">
+        <ul class="nav__list">
+          <li><a class="nav__link" href="about.html">Our Company</a></li>
+          <li><a class="nav__link" href="locations.html">Locations</a></li>
+          <li><a class="nav__link" href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+
+      <button class="header__mobile-nav-btn" data-mobile-menu-btn>
+        <img
+          class="header__mobile-nav-btn__icon-open header__icon-open"
+          src="/img/shared/mobile/icon-hamburger.svg"
+          alt=""
+        />
+        <img
+          class="header__mobile-nav-btn__icon-close header__icon-close"
+          src="/img/shared/mobile/icon-close.svg"
+          alt=""
+        />
+      </button>
+    </header>
+
+    <main class="design-page design-page--web-design">
+      <div class="u-container-mobile-full">
+        <section class="hero-2 hero-2--app-design">
+          <h1 class="title hero-2__title" data-block>App Design</h1>
+          <p class="hero-2__body">
+            We build websites that serve as powerful marketing tools and bring
+            memorable brand experiences.
+          </p>
+        </section>
+      </div>
+      <section class="design-page__card-grid-section u-container">
+        <h2 class="title sr-only">Projects</h2>
+        <ul class="card-grid-2 card-grid-2--projects" data-projects-grid></ul>
+      </section>
+
+      <section class="design-page__more-categories-section u-container">
+        <h2 class="title sr-only">Other Categories</h2>
+        <ul class="block-row">
+          <li class="block-row__row-item">
+            <a class="u-link u-full-height" href="app-design.html">
+              <section class="card card--app-design u-full-height">
+                <h3 class="card__title">App Design</h3>
+                <span class="card__sup-text u-fw-medium"
+                  >View Projects<img
+                    class="card__right-arrow"
+                    alt=""
+                    src="/img/shared/desktop/icon-right-arrow.svg"
+                /></span>
+                <img
+                  class="card__img card__img--mobile"
+                  src="/img/home/mobile/image-app-design.jpg"
+                />
+                <img
+                  class="card__img card__img--tablet"
+                  src="/img/home/tablet/image-app-design.jpg"
+                />
+                <img
+                  class="card__img card__img--desktop"
+                  src="/img/home/desktop/image-app-design.jpg"
+                />
+              </section>
+            </a>
+          </li>
+          <li class="block-row__row-item">
+            <a class="u-link u-full-height" href="web-design.html">
+              <section class="card card--web-design u-full-height">
+                <h3 class="card__title">Web Design</h3>
+                <span class="card__sup-text u-fw-medium"
+                  >View Projects<img
+                    class="card__right-arrow"
+                    alt=""
+                    src="/img/shared/desktop/icon-right-arrow.svg"
+                /></span>
+                <img
+                  class="card__img card__img--mobile"
+                  src="/img/home/mobile/image-web-design.jpg"
+                />
+                <img
+                  class="card__img card__img--tablet"
+                  src="/img/home/tablet/image-web-design.jpg"
+                />
+                <img
+                  class="card__img card__img--desktop"
+                  src="/img/home/desktop/image-web-design.jpg"
+                />
+              </section>
+            </a>
+          </li>
+        </ul>
+      </section>
+
+      <div class="u-container cta-wrapper">
+        <section class="cta cta--contact">
+          <div class="cta__content">
+            <h2 class="cta__title u-fw-medium">Let's talk about your project</h2>
+            <p class="cta__body">
+              Ready to take it to the next level? Contact us today and find out
+              how our expertise can help your business grow.
+            </p>
+          </div>
+          <a class="btn cta__btn" href="contact.html">Get in Touch</a>
+        </section>
+      </div>
+
+      <div class="overlay" data-overlay>
+        <nav class="overlay__mobile-menu">
+          <ul class="overlay__mobile-menu__list">
+            <li class="overlay__mobile-menu__li"><a class="overlay__mobile-menu__link" href="about.html">Our Company</a></li>
+            <li class="overlay__mobile-menu__li"><a class="overlay__mobile-menu__link" href="locations.html">Locations</a></li>
+            <li class="overlay__mobile-menu__li"><a class="overlay__mobile-menu__link" href="contact.html">Contact</a></li>
+          </ul>
+        </nav>
+      </div>
+    </main>
+    <footer class="footer u-container">
+      <div class="footer__main-nav">
+        <a class="site-logo footer__site-logo" href="index.html"
+          ><img class="site-logo__img" src="/img/shared/desktop/logo-light.png" alt=""
+        /></a>
+        <div class="footer__border"></div>
+        <nav class="nav footer__nav">
+          <ul class="nav__list">
+            <li><a class="nav__link" href="about.html">Our Company</a></li>
+            <li><a class="nav__link" href="locations.html">Locations</a></li>
+            <li><a class="nav__link" href="contact.html">Contact</a></li>
+          </ul>
+        </nav>
+      </div>
+
+      <section class="footer__contact-info">
+        <h2 class="title sr-only">Get In Touch</h2>
+        <section class="text-block text-block--address footer__text-block">
+          <h3 class="text-block__title">Designo Central Office</h3>
+          <span class="text-block__line">3886 Wellington Street</span>
+          <span class="text-block__line">Toronto, Ontario M9C 3J5</span>
+        </section>
+        <section class="text-block text-block--contact footer__text-block">
+          <h3 class="text-block__title">Contact Us (Central Office)</h3>
+          <span class="text-block__line"><bold>P : +1 253-863-8967</bold></span>
+          <span class="text-block__line"><bold>Toronto, Ontario M9C 3J5</bold></span>
+        </section>
+        <section class="footer__icons-section">
+          <h3 class="title sr-only">Social Media</h3>
+          <ul class="icon-list">
+            <li>
+              <a
+                ><img
+                  class="icon-list__icon"
+                  src="/img/shared/desktop/icon-facebook.svg"
+                  alt="Facebook"
+              /></a>
+            </li>
+            <li>
+              <a
+                ><img
+                  class="icon-list__icon"
+                  src="/img/shared/desktop/icon-youtube.svg"
+                  alt="YouTube"
+              /></a>
+            </li>
+            <li>
+              <a
+                ><img
+                  class="icon-list__icon"
+                  src="/img/shared/desktop/icon-twitter.svg"
+                  alt="Twitter"
+              /></a>
+            </li>
+            <li>
+              <a
+                ><img
+                  class="icon-list__icon"
+                  src="/img/shared/desktop/icon-pinterest.svg"
+                  alt="Pinterest"
+              /></a>
+            </li>
+            <li>
+              <a
+                ><img
+                  class="icon-list__icon"
+                  src="/img/shared/desktop/icon-instagram.svg"
+                  alt="Instragram"
+              /></a>
+            </li>
+          </ul>
+        </section>
+      </section>
+    </footer>
+
+    <script type="module" src="/graphic-design.ts"></script>
+  </body>
+</html>

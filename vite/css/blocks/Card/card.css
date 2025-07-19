@@ -10,8 +10,12 @@
   font-size: 1rem;
   display: grid;
   place-content: center;
+  transition: background-color 300ms;
 }
 
+.card:hover, .card:active {
+  background-color: rgba(231, 129, 107, 50%);
+}
 .card__img {
   position: absolute;
 
@@ -24,7 +28,7 @@
   object-fit: cover;
 }
 
-.card__img--tablet, .card__img--desktop {
+.card .card__img--tablet, .card .card__img--desktop {
   display: none;
 }
 
@@ -60,11 +64,11 @@
     margin-bottom: 1.6rem;
   }
 
-  .card__img--mobile {
+  .card .card__img--mobile {
     display: none;
   }
 
-  .card__img--tablet {
+  .card .card__img--tablet {
     display: block;
   }
 }

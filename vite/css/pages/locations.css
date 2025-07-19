@@ -1,0 +1,19 @@
+.locations {
+  position: relative;
+}
+
+.locations__list {
+  list-style: none;
+}
+.locations__list > *:not(:last-child) {
+  margin-bottom: 2.66rem;
+}
+
+.locations__cta-wrapper {
+  margin-top: 8rem;
+}
+@media (min-width: 1200px) {
+  .locations__cta-wrapper {
+    margin-top: 10.6rem;
+  }
+}

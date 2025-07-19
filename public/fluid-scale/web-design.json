@@ -5,3166 +5,4007 @@
     1200
   ],
   "fluidVariableSelectors": {
-    ".u-container": {
-      "__type__": "Map",
-      "value": [
+    ".u-container": [
+      [
+        ".u-container",
+        ".u-container",
         [
-          0,
-          {
-            "padding-top": {
-              "selector": ".u-container",
-              "minValues": [
-                "unset"
-              ],
-              "maxValues": [
-                "unset"
-              ],
-              "minUnits": [
-                "unset"
-              ],
-              "maxUnits": [
-                "unset"
-              ],
-              "variableName": "padding-top",
-              "order": 3,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            },
-            "padding-bottom": {
-              "selector": ".u-container",
-              "minValues": [
-                "unset"
-              ],
-              "maxValues": [
-                "unset"
-              ],
-              "minUnits": [
-                "unset"
-              ],
-              "maxUnits": [
-                "unset"
-              ],
-              "variableName": "padding-bottom",
-              "order": 3,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            },
-            "padding-left": {
-              "selector": ".u-container",
-              "minValues": [
-                1.6
-              ],
-              "maxValues": [
-                2.66
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "padding-left",
-              "order": 3,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            },
-            "padding-right": {
-              "selector": ".u-container",
-              "minValues": [
-                1.6
-              ],
-              "maxValues": [
-                2.66
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "padding-right",
-              "order": 3,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            }
-          }
-        ],
-        [
-          1,
-          {
-            "padding-top": {
-              "selector": ".u-container",
-              "minValues": [
-                "unset"
-              ],
-              "maxValues": [
-                "unset"
-              ],
-              "minUnits": [
-                "unset"
-              ],
-              "maxUnits": [
-                "unset"
-              ],
-              "variableName": "padding-top",
-              "order": 4,
-              "isCombo": true,
-              "bpIndex": 1,
-              "bp": 1,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            },
-            "padding-bottom": {
-              "selector": ".u-container",
-              "minValues": [
-                "unset"
-              ],
-              "maxValues": [
-                "unset"
-              ],
-              "minUnits": [
-                "unset"
-              ],
-              "maxUnits": [
-                "unset"
-              ],
-              "variableName": "padding-bottom",
-              "order": 4,
-              "isCombo": true,
-              "bpIndex": 1,
-              "bp": 1,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            },
-            "padding-left": {
-              "selector": ".u-container",
-              "minValues": [
-                2.66
-              ],
-              "maxValues": [
-                11
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "padding-left",
-              "order": 4,
-              "isCombo": true,
-              "bpIndex": 1,
-              "bp": 1,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            },
-            "padding-right": {
-              "selector": ".u-container",
-              "minValues": [
-                2.66
-              ],
-              "maxValues": [
-                11
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "padding-right",
-              "order": 4,
-              "isCombo": true,
-              "bpIndex": 1,
-              "bp": 1,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            }
-          }
+          [
+            "padding-top",
+            [
+              {
+                "minValues": [
+                  "unset"
+                ],
+                "maxValues": [
+                  "unset"
+                ],
+                "minUnits": [
+                  "unset"
+                ],
+                "maxUnits": [
+                  "unset"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 3
+              },
+              {
+                "minValues": [
+                  "unset"
+                ],
+                "maxValues": [
+                  "unset"
+                ],
+                "minUnits": [
+                  "unset"
+                ],
+                "maxUnits": [
+                  "unset"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              },
+              {
+                "minValues": [
+                  "unset"
+                ],
+                "maxValues": [
+                  "unset"
+                ],
+                "minUnits": [
+                  "unset"
+                ],
+                "maxUnits": [
+                  "unset"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1
+              },
+              {
+                "minValues": [
+                  "unset"
+                ],
+                "maxValues": [
+                  "unset"
+                ],
+                "minUnits": [
+                  "unset"
+                ],
+                "maxUnits": [
+                  "unset"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              }
+            ]
+          ],
+          [
+            "padding-bottom",
+            [
+              {
+                "minValues": [
+                  "unset"
+                ],
+                "maxValues": [
+                  "unset"
+                ],
+                "minUnits": [
+                  "unset"
+                ],
+                "maxUnits": [
+                  "unset"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 3
+              },
+              {
+                "minValues": [
+                  "unset"
+                ],
+                "maxValues": [
+                  "unset"
+                ],
+                "minUnits": [
+                  "unset"
+                ],
+                "maxUnits": [
+                  "unset"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              },
+              {
+                "minValues": [
+                  "unset"
+                ],
+                "maxValues": [
+                  "unset"
+                ],
+                "minUnits": [
+                  "unset"
+                ],
+                "maxUnits": [
+                  "unset"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1
+              },
+              {
+                "minValues": [
+                  "unset"
+                ],
+                "maxValues": [
+                  "unset"
+                ],
+                "minUnits": [
+                  "unset"
+                ],
+                "maxUnits": [
+                  "unset"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              }
+            ]
+          ],
+          [
+            "padding-left",
+            [
+              {
+                "minValues": [
+                  1.6
+                ],
+                "maxValues": [
+                  2.66
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 3
+              },
+              {
+                "minValues": [
+                  2.66
+                ],
+                "maxValues": [
+                  11
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              },
+              {
+                "minValues": [
+                  1.6
+                ],
+                "maxValues": [
+                  2.66
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1
+              },
+              {
+                "minValues": [
+                  2.66
+                ],
+                "maxValues": [
+                  11
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              }
+            ]
+          ],
+          [
+            "padding-right",
+            [
+              {
+                "minValues": [
+                  1.6
+                ],
+                "maxValues": [
+                  2.66
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 3
+              },
+              {
+                "minValues": [
+                  2.66
+                ],
+                "maxValues": [
+                  11
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              },
+              {
+                "minValues": [
+                  1.6
+                ],
+                "maxValues": [
+                  2.66
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1
+              },
+              {
+                "minValues": [
+                  2.66
+                ],
+                "maxValues": [
+                  11
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              }
+            ]
+          ]
         ]
       ]
-    },
-    ".u-container-mobile-full": {
-      "__type__": "Map",
-      "value": [
+    ],
+    ".u-container-mobile-full": [
+      [
+        ".u-container-mobile-full",
+        ".u-container-mobile-full",
         [
-          0,
-          {
-            "padding-left": {
-              "selector": ".u-container-mobile-full",
-              "minValues": [
-                [
-                  "break",
+          [
+            "padding-left",
+            [
+              {
+                "minValues": [
                   [
-                    0
-                  ]
-                ]
-              ],
-              "maxValues": [
-                2.66
-              ],
-              "minUnits": [
-                [
-                  "",
-                  [
-                    "px"
-                  ]
-                ]
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "padding-left",
-              "order": 6,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            },
-            "padding-right": {
-              "selector": ".u-container-mobile-full",
-              "minValues": [
-                [
-                  "break",
-                  [
-                    0
-                  ]
-                ]
-              ],
-              "maxValues": [
-                2.66
-              ],
-              "minUnits": [
-                [
-                  "",
-                  [
-                    "px"
-                  ]
-                ]
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "padding-right",
-              "order": 6,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            },
-            "max-width": {
-              "selector": ".u-container-mobile-full",
-              "minValues": [
-                44.9
-              ],
-              "maxValues": [
-                "unset"
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "unset"
-              ],
-              "variableName": "max-width",
-              "order": 6,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            }
-          }
-        ],
-        [
-          1,
-          {
-            "padding-left": {
-              "selector": ".u-container-mobile-full",
-              "minValues": [
-                2.66
-              ],
-              "maxValues": [
-                11
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "padding-left",
-              "order": 7,
-              "isCombo": true,
-              "bpIndex": 1,
-              "bp": 1,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            },
-            "padding-right": {
-              "selector": ".u-container-mobile-full",
-              "minValues": [
-                2.66
-              ],
-              "maxValues": [
-                11
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "padding-right",
-              "order": 7,
-              "isCombo": true,
-              "bpIndex": 1,
-              "bp": 1,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            }
-          }
-        ]
-      ]
-    },
-    ".header": {
-      "__type__": "Map",
-      "value": [
-        [
-          0,
-          {
-            "padding-top": {
-              "selector": ".header",
-              "minValues": [
-                2.33
-              ],
-              "maxValues": [
-                4.26
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "padding-top",
-              "order": 19,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            },
-            "padding-bottom": {
-              "selector": ".header",
-              "minValues": [
-                2.33
-              ],
-              "maxValues": [
-                4.26
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "padding-bottom",
-              "order": 19,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            }
-          }
-        ]
-      ]
-    },
-    ".footer": {
-      "__type__": "Map",
-      "value": [
-        [
-          0,
-          {
-            "padding-top": {
-              "selector": ".footer",
-              "minValues": [
-                15
-              ],
-              "maxValues": [
-                10
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "padding-top",
-              "order": 26,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            },
-            "padding-bottom": {
-              "selector": ".footer",
-              "minValues": [
-                4.26
-              ],
-              "maxValues": [
-                5.3
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "padding-bottom",
-              "order": 26,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            }
-          }
-        ]
-      ]
-    },
-    ".footer__site-logo": {
-      "__type__": "Map",
-      "value": [
-        [
-          0,
-          {
-            "margin-left": {
-              "selector": ".footer__site-logo",
-              "minValues": [
-                "auto"
-              ],
-              "maxValues": [
-                0
-              ],
-              "minUnits": [
-                "auto"
-              ],
-              "maxUnits": [
-                "px"
-              ],
-              "variableName": "margin-left",
-              "order": 27,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            }
-          }
-        ]
-      ]
-    },
-    ".footer__text-block": {
-      "__type__": "Map",
-      "value": [
-        [
-          0,
-          {
-            "margin-bottom": {
-              "selector": ".footer__text-block",
-              "minValues": [
-                [
-                  "break",
-                  [
-                    2.66
-                  ]
-                ]
-              ],
-              "maxValues": [
-                0
-              ],
-              "minUnits": [
-                [
-                  "",
-                  [
-                    "rem"
-                  ]
-                ]
-              ],
-              "maxUnits": [
-                "px"
-              ],
-              "variableName": "margin-bottom",
-              "order": 30,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            }
-          }
-        ]
-      ]
-    },
-    ".hero": {
-      "__type__": "Map",
-      "value": [
-        [
-          0,
-          {
-            "padding-top": {
-              "selector": ".hero",
-              "minValues": [
-                5.33
-              ],
-              "maxValues": [
-                4
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "padding-top",
-              "order": 39,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            },
-            "padding-left": {
-              "selector": ".hero",
-              "minValues": [
-                1.6
-              ],
-              "maxValues": [
-                3.86
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "padding-left",
-              "order": 39,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            },
-            "padding-right": {
-              "selector": ".hero",
-              "minValues": [
-                1.6
-              ],
-              "maxValues": [
-                3.86
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "padding-right",
-              "order": 39,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            },
-            "background-position-x": {
-              "selector": ".hero",
-              "minValues": [
-                2
-              ],
-              "maxValues": [
-                15
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "background-position-x",
-              "order": 39,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            },
-            "background-position-y": {
-              "selector": ".hero",
-              "minValues": [
-                7
-              ],
-              "maxValues": [
-                0
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "px"
-              ],
-              "variableName": "background-position-y",
-              "order": 39,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            },
-            "border-top-left-radius": {
-              "selector": ".hero",
-              "minValues": [
-                0
-              ],
-              "maxValues": [
-                1
-              ],
-              "minUnits": [
-                "px"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "border-top-left-radius",
-              "order": 39,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            },
-            "border-top-right-radius": {
-              "selector": ".hero",
-              "minValues": [
-                0
-              ],
-              "maxValues": [
-                1
-              ],
-              "minUnits": [
-                "px"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "border-top-right-radius",
-              "order": 39,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            },
-            "border-bottom-right-radius": {
-              "selector": ".hero",
-              "minValues": [
-                0
-              ],
-              "maxValues": [
-                1
-              ],
-              "minUnits": [
-                "px"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "border-bottom-right-radius",
-              "order": 39,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            },
-            "border-bottom-left-radius": {
-              "selector": ".hero",
-              "minValues": [
-                0
-              ],
-              "maxValues": [
-                1
-              ],
-              "minUnits": [
-                "px"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "border-bottom-left-radius",
-              "order": 39,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            }
-          }
-        ],
-        [
-          1,
-          {
-            "padding-top": {
-              "selector": ".hero",
-              "minValues": [
-                4
-              ],
-              "maxValues": [
-                9.66
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "padding-top",
-              "order": 46,
-              "isCombo": true,
-              "bpIndex": 1,
-              "bp": 1,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            },
-            "padding-left": {
-              "selector": ".hero",
-              "minValues": [
-                3.86
-              ],
-              "maxValues": [
-                6.33
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "padding-left",
-              "order": 46,
-              "isCombo": true,
-              "bpIndex": 1,
-              "bp": 1,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            },
-            "padding-right": {
-              "selector": ".hero",
-              "minValues": [
-                3.86
-              ],
-              "maxValues": [
-                6.33
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "padding-right",
-              "order": 46,
-              "isCombo": true,
-              "bpIndex": 1,
-              "bp": 1,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            },
-            "background-position-x": {
-              "selector": ".hero",
-              "minValues": [
-                15
-              ],
-              "maxValues": [
-                34
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "background-position-x",
-              "order": 46,
-              "isCombo": true,
-              "bpIndex": 1,
-              "bp": 1,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            }
-          }
-        ]
-      ]
-    },
-    ".hero__title": {
-      "__type__": "Map",
-      "value": [
-        [
-          0,
-          {
-            "margin-bottom": {
-              "selector": ".hero__title",
-              "minValues": [
-                0.93
-              ],
-              "maxValues": [
-                0.53
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "margin-bottom",
-              "order": 41,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            },
-            "width": {
-              "selector": ".hero__title",
-              "minValues": [
-                [
-                  "break",
-                  [
+                    "break",
                     [
-                      "min",
+                      0
+                    ]
+                  ]
+                ],
+                "maxValues": [
+                  2.66
+                ],
+                "minUnits": [
+                  [
+                    "",
+                    [
+                      "px"
+                    ]
+                  ]
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 6
+              },
+              {
+                "minValues": [
+                  2.66
+                ],
+                "maxValues": [
+                  11
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              },
+              {
+                "minValues": [
+                  [
+                    "break",
+                    [
+                      0
+                    ]
+                  ]
+                ],
+                "maxValues": [
+                  2.66
+                ],
+                "minUnits": [
+                  [
+                    "",
+                    [
+                      "px"
+                    ]
+                  ]
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1
+              },
+              {
+                "minValues": [
+                  2.66
+                ],
+                "maxValues": [
+                  11
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              }
+            ]
+          ],
+          [
+            "padding-right",
+            [
+              {
+                "minValues": [
+                  [
+                    "break",
+                    [
+                      0
+                    ]
+                  ]
+                ],
+                "maxValues": [
+                  2.66
+                ],
+                "minUnits": [
+                  [
+                    "",
+                    [
+                      "px"
+                    ]
+                  ]
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 6
+              },
+              {
+                "minValues": [
+                  2.66
+                ],
+                "maxValues": [
+                  11
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              },
+              {
+                "minValues": [
+                  [
+                    "break",
+                    [
+                      0
+                    ]
+                  ]
+                ],
+                "maxValues": [
+                  2.66
+                ],
+                "minUnits": [
+                  [
+                    "",
+                    [
+                      "px"
+                    ]
+                  ]
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1
+              },
+              {
+                "minValues": [
+                  2.66
+                ],
+                "maxValues": [
+                  11
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              }
+            ]
+          ],
+          [
+            "max-width",
+            [
+              {
+                "minValues": [
+                  44.9
+                ],
+                "maxValues": [
+                  "unset"
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "unset"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 6
+              },
+              {
+                "minValues": [
+                  44.9
+                ],
+                "maxValues": [
+                  "unset"
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "unset"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1
+              }
+            ]
+          ]
+        ]
+      ]
+    ],
+    ".header": [
+      [
+        ".header",
+        ".header",
+        [
+          [
+            "padding-top",
+            [
+              {
+                "minValues": [
+                  2.33
+                ],
+                "maxValues": [
+                  4.26
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 15
+              },
+              {
+                "minValues": [
+                  2.33
+                ],
+                "maxValues": [
+                  4.26
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1
+              }
+            ]
+          ],
+          [
+            "padding-bottom",
+            [
+              {
+                "minValues": [
+                  2.33
+                ],
+                "maxValues": [
+                  4.26
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 15
+              },
+              {
+                "minValues": [
+                  2.33
+                ],
+                "maxValues": [
+                  4.26
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1
+              }
+            ]
+          ]
+        ]
+      ]
+    ],
+    ".footer": [
+      [
+        ".footer",
+        ".footer",
+        [
+          [
+            "padding-top",
+            [
+              {
+                "minValues": [
+                  15
+                ],
+                "maxValues": [
+                  10
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 25
+              },
+              {
+                "minValues": [
+                  15
+                ],
+                "maxValues": [
+                  10
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1
+              }
+            ]
+          ],
+          [
+            "padding-bottom",
+            [
+              {
+                "minValues": [
+                  4.26
+                ],
+                "maxValues": [
+                  5.3
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 25
+              },
+              {
+                "minValues": [
+                  4.26
+                ],
+                "maxValues": [
+                  5.3
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1
+              }
+            ]
+          ]
+        ]
+      ]
+    ],
+    ".footer__site-logo": [
+      [
+        ".footer__site-logo",
+        ".footer__site-logo",
+        [
+          [
+            "margin-left",
+            [
+              {
+                "minValues": [
+                  "auto"
+                ],
+                "maxValues": [
+                  0
+                ],
+                "minUnits": [
+                  "auto"
+                ],
+                "maxUnits": [
+                  "px"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 26
+              },
+              {
+                "minValues": [
+                  "auto"
+                ],
+                "maxValues": [
+                  0
+                ],
+                "minUnits": [
+                  "auto"
+                ],
+                "maxUnits": [
+                  "px"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1
+              }
+            ]
+          ]
+        ]
+      ]
+    ],
+    ".footer__text-block": [
+      [
+        ".footer__text-block",
+        ".footer__text-block",
+        [
+          [
+            "margin-bottom",
+            [
+              {
+                "minValues": [
+                  [
+                    "break",
+                    [
+                      2.66
+                    ]
+                  ]
+                ],
+                "maxValues": [
+                  0
+                ],
+                "minUnits": [
+                  [
+                    "",
+                    [
+                      "rem"
+                    ]
+                  ]
+                ],
+                "maxUnits": [
+                  "px"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 29
+              },
+              {
+                "minValues": [
+                  [
+                    "break",
+                    [
+                      2.66
+                    ]
+                  ]
+                ],
+                "maxValues": [
+                  0
+                ],
+                "minUnits": [
+                  [
+                    "",
+                    [
+                      "rem"
+                    ]
+                  ]
+                ],
+                "maxUnits": [
+                  "px"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1
+              }
+            ]
+          ]
+        ]
+      ]
+    ],
+    ".hero": [
+      [
+        ".hero",
+        ".hero",
+        [
+          [
+            "padding-top",
+            [
+              {
+                "minValues": [
+                  5.33
+                ],
+                "maxValues": [
+                  4
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 42
+              },
+              {
+                "minValues": [
+                  4
+                ],
+                "maxValues": [
+                  9.66
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              }
+            ]
+          ],
+          [
+            "padding-left",
+            [
+              {
+                "minValues": [
+                  1.6
+                ],
+                "maxValues": [
+                  3.86
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 42
+              },
+              {
+                "minValues": [
+                  3.86
+                ],
+                "maxValues": [
+                  6.33
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              }
+            ]
+          ],
+          [
+            "padding-right",
+            [
+              {
+                "minValues": [
+                  1.6
+                ],
+                "maxValues": [
+                  3.86
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 42
+              },
+              {
+                "minValues": [
+                  3.86
+                ],
+                "maxValues": [
+                  6.33
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              }
+            ]
+          ],
+          [
+            "background-position-x",
+            [
+              {
+                "minValues": [
+                  2
+                ],
+                "maxValues": [
+                  15
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 42
+              },
+              {
+                "minValues": [
+                  15
+                ],
+                "maxValues": [
+                  34
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              }
+            ]
+          ],
+          [
+            "background-position-y",
+            [
+              {
+                "minValues": [
+                  7
+                ],
+                "maxValues": [
+                  0
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "px"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 1200,
+                "nextBpIndex": 2,
+                "order": 42
+              }
+            ]
+          ],
+          [
+            "border-top-left-radius",
+            [
+              {
+                "minValues": [
+                  0
+                ],
+                "maxValues": [
+                  1
+                ],
+                "minUnits": [
+                  "px"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 42
+              }
+            ]
+          ],
+          [
+            "border-top-right-radius",
+            [
+              {
+                "minValues": [
+                  0
+                ],
+                "maxValues": [
+                  1
+                ],
+                "minUnits": [
+                  "px"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 42
+              }
+            ]
+          ],
+          [
+            "border-bottom-right-radius",
+            [
+              {
+                "minValues": [
+                  0
+                ],
+                "maxValues": [
+                  1
+                ],
+                "minUnits": [
+                  "px"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 42
+              }
+            ]
+          ],
+          [
+            "border-bottom-left-radius",
+            [
+              {
+                "minValues": [
+                  0
+                ],
+                "maxValues": [
+                  1
+                ],
+                "minUnits": [
+                  "px"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 42
+              }
+            ]
+          ]
+        ]
+      ]
+    ],
+    ".hero__body": [
+      [
+        ".hero__body",
+        ".hero__body",
+        [
+          [
+            "margin-bottom",
+            [
+              {
+                "minValues": [
+                  1.6
+                ],
+                "maxValues": [
+                  1.26
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 44
+              },
+              {
+                "minValues": [
+                  1.26
+                ],
+                "maxValues": [
+                  2.66
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              }
+            ]
+          ],
+          [
+            "width",
+            [
+              {
+                "minValues": [
+                  100
+                ],
+                "maxValues": [
+                  29.6
+                ],
+                "minUnits": [
+                  "%"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 44
+              }
+            ]
+          ]
+        ]
+      ]
+    ],
+    ".hero__btn": [
+      [
+        ".hero__btn",
+        ".hero__btn",
+        [
+          [
+            "margin-bottom",
+            [
+              {
+                "minValues": [
+                  0
+                ],
+                "maxValues": [
+                  -1
+                ],
+                "minUnits": [
+                  "px"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 45
+              }
+            ]
+          ],
+          [
+            "margin-left",
+            [
+              {
+                "minValues": [
+                  "auto"
+                ],
+                "maxValues": [
+                  0
+                ],
+                "minUnits": [
+                  "auto"
+                ],
+                "maxUnits": [
+                  "px"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 1200,
+                "nextBpIndex": 2,
+                "order": 45
+              }
+            ]
+          ]
+        ]
+      ]
+    ],
+    ".hero__img-wrapper": [
+      [
+        ".hero__img-wrapper",
+        ".hero__img-wrapper",
+        [
+          [
+            "margin-top",
+            [
+              {
+                "minValues": [
+                  -5
+                ],
+                "maxValues": [
+                  [
+                    "break",
+                    [
+                      -6.3
+                    ]
+                  ]
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  [
+                    "",
+                    [
+                      "rem"
+                    ]
+                  ]
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 46
+              },
+              {
+                "minValues": [
+                  [
+                    "break",
+                    [
+                      -6.3
+                    ]
+                  ]
+                ],
+                "maxValues": [
+                  -12
+                ],
+                "minUnits": [
+                  [
+                    "",
+                    [
+                      "rem"
+                    ]
+                  ]
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              }
+            ]
+          ],
+          [
+            "margin-left",
+            [
+              {
+                "minValues": [
+                  -15
+                ],
+                "maxValues": [
+                  -5
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 2,
+                "nextBp": 1440,
+                "nextBpIndex": 3,
+                "order": 56
+              }
+            ]
+          ]
+        ]
+      ]
+    ],
+    ".card": [
+      [
+        ".card",
+        ".card",
+        [
+          [
+            "padding-top",
+            [
+              {
+                "minValues": [
+                  6
+                ],
+                "maxValues": [
+                  3.53
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "em"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 62
+              },
+              {
+                "minValues": [
+                  6
+                ],
+                "maxValues": [
+                  3.53
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "em"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1
+              }
+            ]
+          ],
+          [
+            "padding-bottom",
+            [
+              {
+                "minValues": [
+                  6
+                ],
+                "maxValues": [
+                  3.53
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "em"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 62
+              },
+              {
+                "minValues": [
+                  6
+                ],
+                "maxValues": [
+                  3.53
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "em"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1
+              }
+            ]
+          ],
+          [
+            "padding-left",
+            [
+              {
+                "minValues": [
+                  0
+                ],
+                "maxValues": [
+                  0
+                ],
+                "minUnits": [
+                  "px"
+                ],
+                "maxUnits": [
+                  "px"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 62
+              },
+              {
+                "minValues": [
+                  0
+                ],
+                "maxValues": [
+                  0
+                ],
+                "minUnits": [
+                  "px"
+                ],
+                "maxUnits": [
+                  "px"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1
+              }
+            ]
+          ],
+          [
+            "padding-right",
+            [
+              {
+                "minValues": [
+                  0
+                ],
+                "maxValues": [
+                  0
+                ],
+                "minUnits": [
+                  "px"
+                ],
+                "maxUnits": [
+                  "px"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 62
+              },
+              {
+                "minValues": [
+                  0
+                ],
+                "maxValues": [
+                  0
+                ],
+                "minUnits": [
+                  "px"
+                ],
+                "maxUnits": [
+                  "px"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1
+              }
+            ]
+          ]
+        ]
+      ]
+    ],
+    ".card__title": [
+      [
+        ".card__title",
+        ".card__title",
+        [
+          [
+            "margin-bottom",
+            [
+              {
+                "minValues": [
+                  0.8
+                ],
+                "maxValues": [
+                  1.6
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 66
+              },
+              {
+                "minValues": [
+                  0.8
+                ],
+                "maxValues": [
+                  1.6
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1
+              }
+            ]
+          ],
+          [
+            "font-size",
+            [
+              {
+                "minValues": [
+                  1.86
+                ],
+                "maxValues": [
+                  2.66
+                ],
+                "minUnits": [
+                  "em"
+                ],
+                "maxUnits": [
+                  "em"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 66
+              },
+              {
+                "minValues": [
+                  1.86
+                ],
+                "maxValues": [
+                  2.66
+                ],
+                "minUnits": [
+                  "em"
+                ],
+                "maxUnits": [
+                  "em"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1
+              }
+            ]
+          ]
+        ]
+      ]
+    ],
+    ".img-block__title": [
+      [
+        ".img-block__title",
+        ".img-block__title",
+        [
+          [
+            "margin-bottom",
+            [
+              {
+                "minValues": [
+                  2
+                ],
+                "maxValues": [
+                  1
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 74
+              },
+              {
+                "minValues": [
+                  1
+                ],
+                "maxValues": [
+                  2
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              }
+            ]
+          ]
+        ]
+      ]
+    ],
+    ".img-block__img": [
+      [
+        ".img-block__img",
+        ".img-block__img",
+        [
+          [
+            "margin-bottom",
+            [
+              {
+                "minValues": [
+                  [
+                    "break",
+                    [
+                      3.2
+                    ]
+                  ]
+                ],
+                "maxValues": [
+                  0
+                ],
+                "minUnits": [
+                  [
+                    "",
+                    [
+                      "rem"
+                    ]
+                  ]
+                ],
+                "maxUnits": [
+                  "px"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 75
+              },
+              {
+                "minValues": [
+                  0
+                ],
+                "maxValues": [
+                  3
+                ],
+                "minUnits": [
+                  "px"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              }
+            ]
+          ]
+        ]
+      ]
+    ],
+    ".img-block__bg-circle": [
+      [
+        ".img-block__bg-circle",
+        ".img-block__bg-circle",
+        [
+          [
+            "left",
+            [
+              {
+                "minValues": [
+                  [
+                    "break",
+                    [
+                      50
+                    ]
+                  ]
+                ],
+                "maxValues": [
+                  [
+                    "break",
+                    [
+                      0
+                    ]
+                  ]
+                ],
+                "minUnits": [
+                  [
+                    "",
+                    [
+                      "%"
+                    ]
+                  ]
+                ],
+                "maxUnits": [
+                  [
+                    "",
+                    [
+                      "px"
+                    ]
+                  ]
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 76
+              },
+              {
+                "minValues": [
+                  [
+                    "break",
+                    [
+                      0
+                    ]
+                  ]
+                ],
+                "maxValues": [
+                  50
+                ],
+                "minUnits": [
+                  [
+                    "",
+                    [
+                      "px"
+                    ]
+                  ]
+                ],
+                "maxUnits": [
+                  "%"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              }
+            ]
+          ]
+        ]
+      ]
+    ],
+    ".img-block__body": [
+      [
+        ".img-block__body",
+        ".img-block__body",
+        [
+          [
+            "width",
+            [
+              {
+                "minValues": [
+                  "auto"
+                ],
+                "maxValues": [
+                  23
+                ],
+                "minUnits": [
+                  "auto"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 1200,
+                "nextBpIndex": 2,
+                "order": 77
+              }
+            ]
+          ]
+        ]
+      ]
+    ],
+    ".cta": [
+      [
+        ".cta",
+        ".cta",
+        [
+          [
+            "padding-top",
+            [
+              {
+                "minValues": [
+                  4.26
+                ],
+                "maxValues": [
+                  4.8
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 1200,
+                "nextBpIndex": 2,
+                "order": 105
+              },
+              {
+                "minValues": [
+                  4.26
+                ],
+                "maxValues": [
+                  4.8
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              }
+            ]
+          ],
+          [
+            "padding-bottom",
+            [
+              {
+                "minValues": [
+                  4.26
+                ],
+                "maxValues": [
+                  4.8
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 1200,
+                "nextBpIndex": 2,
+                "order": 105
+              },
+              {
+                "minValues": [
+                  4.26
+                ],
+                "maxValues": [
+                  4.8
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              }
+            ]
+          ],
+          [
+            "padding-left",
+            [
+              {
+                "minValues": [
+                  1.6
+                ],
+                "maxValues": [
+                  6.3
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 1200,
+                "nextBpIndex": 2,
+                "order": 105
+              },
+              {
+                "minValues": [
+                  1.6
+                ],
+                "maxValues": [
+                  6.3
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              }
+            ]
+          ],
+          [
+            "padding-right",
+            [
+              {
+                "minValues": [
+                  1.6
+                ],
+                "maxValues": [
+                  6.3
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 1200,
+                "nextBpIndex": 2,
+                "order": 105
+              },
+              {
+                "minValues": [
+                  1.6
+                ],
+                "maxValues": [
+                  6.3
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              }
+            ]
+          ],
+          [
+            "background-position-x",
+            [
+              {
+                "minValues": [
+                  -13
+                ],
+                "maxValues": [
+                  0
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "px"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 105
+              },
+              {
+                "minValues": [
+                  0
+                ],
+                "maxValues": [
+                  17
+                ],
+                "minUnits": [
+                  "px"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              },
+              {
+                "minValues": [
+                  -13
+                ],
+                "maxValues": [
+                  0
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "px"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1
+              },
+              {
+                "minValues": [
+                  0
+                ],
+                "maxValues": [
+                  17
+                ],
+                "minUnits": [
+                  "px"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              }
+            ]
+          ],
+          [
+            "background-position-y",
+            [
+              {
+                "minValues": [
+                  -8
+                ],
+                "maxValues": [
+                  -6
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 105
+              },
+              {
+                "minValues": [
+                  -6
+                ],
+                "maxValues": [
+                  -6
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              },
+              {
+                "minValues": [
+                  -8
+                ],
+                "maxValues": [
+                  -6
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1
+              },
+              {
+                "minValues": [
+                  -6
+                ],
+                "maxValues": [
+                  -6
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              }
+            ]
+          ]
+        ]
+      ]
+    ],
+    ".cta__title": [
+      [
+        ".cta__title",
+        ".cta__title",
+        [
+          [
+            "width",
+            [
+              {
+                "minValues": [
+                  15
+                ],
+                "maxValues": [
+                  18.6
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 107
+              },
+              {
+                "minValues": [
+                  18.6
+                ],
+                "maxValues": [
+                  "fit-content"
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "content"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              },
+              {
+                "minValues": [
+                  15
+                ],
+                "maxValues": [
+                  18.6
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1
+              },
+              {
+                "minValues": [
+                  18.6
+                ],
+                "maxValues": [
+                  "fit-content"
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "content"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              }
+            ]
+          ],
+          [
+            "font-size",
+            [
+              {
+                "minValues": [
+                  2
+                ],
+                "maxValues": [
+                  2.66
+                ],
+                "minUnits": [
+                  "em"
+                ],
+                "maxUnits": [
+                  "em"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 107
+              },
+              {
+                "minValues": [
+                  2
+                ],
+                "maxValues": [
+                  2.66
+                ],
+                "minUnits": [
+                  "em"
+                ],
+                "maxUnits": [
+                  "em"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1
+              }
+            ]
+          ]
+        ]
+      ]
+    ],
+    ".cta__body": [
+      [
+        ".cta__body",
+        ".cta__body",
+        [
+          [
+            "width",
+            [
+              {
+                "minValues": [
+                  100
+                ],
+                "maxValues": [
+                  30
+                ],
+                "minUnits": [
+                  "%"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 108
+              },
+              {
+                "minValues": [
+                  30
+                ],
+                "maxValues": [
+                  "fit-content"
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "content"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              },
+              {
+                "minValues": [
+                  100
+                ],
+                "maxValues": [
+                  30
+                ],
+                "minUnits": [
+                  "%"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1
+              },
+              {
+                "minValues": [
+                  30
+                ],
+                "maxValues": [
+                  "fit-content"
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "content"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              }
+            ]
+          ]
+        ]
+      ]
+    ],
+    ".cta__btn": [
+      [
+        ".cta__btn",
+        ".cta__btn",
+        [
+          [
+            "margin-left",
+            [
+              {
+                "minValues": [
+                  "auto"
+                ],
+                "maxValues": [
+                  "auto"
+                ],
+                "minUnits": [
+                  "auto"
+                ],
+                "maxUnits": [
+                  "auto"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 1200,
+                "nextBpIndex": 2,
+                "order": 109
+              },
+              {
+                "minValues": [
+                  "auto"
+                ],
+                "maxValues": [
+                  "auto"
+                ],
+                "minUnits": [
+                  "auto"
+                ],
+                "maxUnits": [
+                  "auto"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              }
+            ]
+          ],
+          [
+            "margin-right",
+            [
+              {
+                "minValues": [
+                  "auto"
+                ],
+                "maxValues": [
+                  0
+                ],
+                "minUnits": [
+                  "auto"
+                ],
+                "maxUnits": [
+                  "px"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 1200,
+                "nextBpIndex": 2,
+                "order": 109
+              },
+              {
+                "minValues": [
+                  "auto"
+                ],
+                "maxValues": [
+                  0
+                ],
+                "minUnits": [
+                  "auto"
+                ],
+                "maxUnits": [
+                  "px"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              }
+            ]
+          ]
+        ]
+      ]
+    ],
+    ".cta-wrapper": [
+      [
+        ".cta-wrapper",
+        ".cta-wrapper",
+        [
+          [
+            "margin-bottom",
+            [
+              {
+                "minValues": [
+                  -11
+                ],
+                "maxValues": [
+                  -5
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 117
+              },
+              {
+                "minValues": [
+                  -11
+                ],
+                "maxValues": [
+                  -5
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1
+              }
+            ]
+          ]
+        ]
+      ]
+    ],
+    ".title": [
+      [
+        ".title",
+        ".title",
+        [
+          [
+            "margin-bottom",
+            [
+              {
+                "minValues": [
+                  0.93
+                ],
+                "maxValues": [
+                  0.53
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 120
+              },
+              {
+                "minValues": [
+                  0.53
+                ],
+                "maxValues": [
+                  0.73
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              },
+              {
+                "minValues": [
+                  0.93
+                ],
+                "maxValues": [
+                  0.53
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1
+              },
+              {
+                "minValues": [
+                  0.53
+                ],
+                "maxValues": [
+                  0.73
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              }
+            ]
+          ],
+          [
+            "width",
+            [
+              {
+                "minValues": [
+                  [
+                    "break",
+                    [
                       [
-                        100,
-                        38.2
+                        "min",
+                        [
+                          100,
+                          38.2
+                        ]
                       ]
                     ]
                   ]
-                ]
-              ],
-              "maxValues": [
-                38.2
-              ],
-              "minUnits": [
-                [
-                  "",
+                ],
+                "maxValues": [
+                  38.2
+                ],
+                "minUnits": [
                   [
+                    "",
                     [
-                      "",
                       [
-                        "%",
-                        "rem"
+                        "",
+                        [
+                          "%",
+                          "rem"
+                        ]
                       ]
                     ]
                   ]
-                ]
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "width",
-              "order": 41,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            },
-            "font-size": {
-              "selector": ".hero__title",
-              "minValues": [
-                2.13
-              ],
-              "maxValues": [
-                3.2
-              ],
-              "minUnits": [
-                "em"
-              ],
-              "maxUnits": [
-                "em"
-              ],
-              "variableName": "font-size",
-              "order": 41,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            }
-          }
-        ],
-        [
-          1,
-          {
-            "margin-bottom": {
-              "selector": ".hero__title",
-              "minValues": [
-                0.53
-              ],
-              "maxValues": [
-                0.73
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "margin-bottom",
-              "order": 47,
-              "isCombo": true,
-              "bpIndex": 1,
-              "bp": 1,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            }
-          }
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 120
+              },
+              {
+                "minValues": [
+                  [
+                    "break",
+                    [
+                      [
+                        "min",
+                        [
+                          100,
+                          38.2
+                        ]
+                      ]
+                    ]
+                  ]
+                ],
+                "maxValues": [
+                  38.2
+                ],
+                "minUnits": [
+                  [
+                    "",
+                    [
+                      [
+                        "",
+                        [
+                          "%",
+                          "rem"
+                        ]
+                      ]
+                    ]
+                  ]
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1
+              }
+            ]
+          ],
+          [
+            "font-size",
+            [
+              {
+                "minValues": [
+                  2.13
+                ],
+                "maxValues": [
+                  3.2
+                ],
+                "minUnits": [
+                  "em"
+                ],
+                "maxUnits": [
+                  "em"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 120
+              },
+              {
+                "minValues": [
+                  2.13
+                ],
+                "maxValues": [
+                  3.2
+                ],
+                "minUnits": [
+                  "em"
+                ],
+                "maxUnits": [
+                  "em"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1
+              }
+            ]
+          ]
         ]
       ]
-    },
-    ".hero__body": {
-      "__type__": "Map",
-      "value": [
+    ],
+    ".homepage__card-grid-section": [
+      [
+        ".homepage__card-grid-section",
+        ".homepage__card-grid-section",
         [
-          0,
-          {
-            "margin-bottom": {
-              "selector": ".hero__body",
-              "minValues": [
-                1.6
-              ],
-              "maxValues": [
-                1.26
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "margin-bottom",
-              "order": 42,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            },
-            "width": {
-              "selector": ".hero__body",
-              "minValues": [
-                100
-              ],
-              "maxValues": [
-                29.6
-              ],
-              "minUnits": [
-                "%"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "width",
-              "order": 42,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            }
-          }
-        ],
-        [
-          1,
-          {
-            "margin-bottom": {
-              "selector": ".hero__body",
-              "minValues": [
-                1.26
-              ],
-              "maxValues": [
-                2.66
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "margin-bottom",
-              "order": 48,
-              "isCombo": true,
-              "bpIndex": 1,
-              "bp": 1,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            }
-          }
+          [
+            "padding-top",
+            [
+              {
+                "minValues": [
+                  8
+                ],
+                "maxValues": [
+                  8
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 125
+              },
+              {
+                "minValues": [
+                  8
+                ],
+                "maxValues": [
+                  10.66
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              }
+            ]
+          ],
+          [
+            "padding-bottom",
+            [
+              {
+                "minValues": [
+                  8
+                ],
+                "maxValues": [
+                  8
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 125
+              },
+              {
+                "minValues": [
+                  8
+                ],
+                "maxValues": [
+                  10.66
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              }
+            ]
+          ]
         ]
       ]
-    },
-    ".hero__btn": {
-      "__type__": "Map",
-      "value": [
+    ],
+    ".homepage__series": [
+      [
+        ".homepage__series",
+        ".homepage__series",
         [
-          0,
-          {
-            "margin-bottom": {
-              "selector": ".hero__btn",
-              "minValues": [
-                0
-              ],
-              "maxValues": [
-                -1
-              ],
-              "minUnits": [
-                "px"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "margin-bottom",
-              "order": 43,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            },
-            "margin-left": {
-              "selector": ".hero__btn",
-              "minValues": [
-                "auto"
-              ],
-              "maxValues": [
-                0
-              ],
-              "minUnits": [
-                "auto"
-              ],
-              "maxUnits": [
-                "px"
-              ],
-              "variableName": "margin-left",
-              "order": 43,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            }
-          }
+          [
+            "padding-bottom",
+            [
+              {
+                "minValues": [
+                  8
+                ],
+                "maxValues": [
+                  4.46
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 128
+              }
+            ]
+          ]
         ]
       ]
-    },
-    ".hero__img-wrapper": {
-      "__type__": "Map",
-      "value": [
+    ],
+    ".footer__icons-section": [
+      [
+        ".footer__icons-section",
+        ".footer__icons-section",
         [
-          0,
-          {
-            "margin-top": {
-              "selector": ".hero__img-wrapper",
-              "minValues": [
-                -5
-              ],
-              "maxValues": [
-                [
-                  "break",
-                  [
-                    -6.3
-                  ]
-                ]
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                [
-                  "",
-                  [
-                    "rem"
-                  ]
-                ]
-              ],
-              "variableName": "margin-top",
-              "order": 44,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            }
-          }
-        ],
-        [
-          1,
-          {
-            "margin-top": {
-              "selector": ".hero__img-wrapper",
-              "minValues": [
-                [
-                  "break",
-                  [
-                    -6.3
-                  ]
-                ]
-              ],
-              "maxValues": [
-                -12
-              ],
-              "minUnits": [
-                [
-                  "",
-                  [
-                    "rem"
-                  ]
-                ]
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "margin-top",
-              "order": 50,
-              "isCombo": true,
-              "bpIndex": 1,
-              "bp": 1,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            }
-          }
-        ],
-        [
-          2,
-          {
-            "margin-left": {
-              "selector": ".hero__img-wrapper",
-              "minValues": [
-                -15
-              ],
-              "maxValues": [
-                -5
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "margin-left",
-              "order": 56,
-              "isCombo": true,
-              "bpIndex": 2,
-              "bp": 2,
-              "nextBp": 1440,
-              "nextBpIndex": 3
-            }
-          }
+          [
+            "margin-left",
+            [
+              {
+                "minValues": [
+                  "auto"
+                ],
+                "maxValues": [
+                  0
+                ],
+                "minUnits": [
+                  "auto"
+                ],
+                "maxUnits": [
+                  "px"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2,
+                "order": 37
+              },
+              {
+                "minValues": [
+                  "auto"
+                ],
+                "maxValues": [
+                  0
+                ],
+                "minUnits": [
+                  "auto"
+                ],
+                "maxUnits": [
+                  "px"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              }
+            ]
+          ]
         ]
       ]
-    },
-    ".card": {
-      "__type__": "Map",
-      "value": [
+    ],
+    ".card-grid": [
+      [
+        ".card-grid",
+        ".card-grid",
         [
-          0,
-          {
-            "padding-top": {
-              "selector": ".card",
-              "minValues": [
-                6
-              ],
-              "maxValues": [
-                3.53
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "em"
-              ],
-              "variableName": "padding-top",
-              "order": 70,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            },
-            "padding-bottom": {
-              "selector": ".card",
-              "minValues": [
-                6
-              ],
-              "maxValues": [
-                3.53
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "em"
-              ],
-              "variableName": "padding-bottom",
-              "order": 70,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            },
-            "padding-left": {
-              "selector": ".card",
-              "minValues": [
-                0
-              ],
-              "maxValues": [
-                0
-              ],
-              "minUnits": [
-                "px"
-              ],
-              "maxUnits": [
-                "px"
-              ],
-              "variableName": "padding-left",
-              "order": 70,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            },
-            "padding-right": {
-              "selector": ".card",
-              "minValues": [
-                0
-              ],
-              "maxValues": [
-                0
-              ],
-              "minUnits": [
-                "px"
-              ],
-              "maxUnits": [
-                "px"
-              ],
-              "variableName": "padding-right",
-              "order": 70,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            }
-          }
+          [
+            "grid-template-rows",
+            [
+              {
+                "minValues": [
+                  13.33,
+                  13.33
+                ],
+                "maxValues": [
+                  20.5,
+                  20.5
+                ],
+                "minUnits": [
+                  "rem",
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem",
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2,
+                "order": 100
+              }
+            ]
+          ]
         ]
       ]
-    },
-    ".card__title": {
-      "__type__": "Map",
-      "value": [
+    ],
+    ".homepage__img-block": [
+      [
+        ".homepage__img-block",
+        ".homepage__img-block:last-child",
         [
-          0,
-          {
-            "margin-bottom": {
-              "selector": ".card__title",
-              "minValues": [
-                0.8
-              ],
-              "maxValues": [
-                1.6
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "margin-bottom",
-              "order": 73,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            },
-            "font-size": {
-              "selector": ".card__title",
-              "minValues": [
-                1.86
-              ],
-              "maxValues": [
-                2.66
-              ],
-              "minUnits": [
-                "em"
-              ],
-              "maxUnits": [
-                "em"
-              ],
-              "variableName": "font-size",
-              "order": 73,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            }
-          }
+          [
+            "margin-left",
+            [
+              {
+                "minValues": [
+                  "auto"
+                ],
+                "maxValues": [
+                  0
+                ],
+                "minUnits": [
+                  "auto"
+                ],
+                "maxUnits": [
+                  "px"
+                ],
+                "isCombo": true,
+                "bpIndex": 2,
+                "nextBp": 1440,
+                "nextBpIndex": 3,
+                "order": 133,
+                "isPseudo": true
+              }
+            ]
+          ],
+          [
+            "margin-right",
+            [
+              {
+                "minValues": [
+                  "auto"
+                ],
+                "maxValues": [
+                  0
+                ],
+                "minUnits": [
+                  "auto"
+                ],
+                "maxUnits": [
+                  "px"
+                ],
+                "isCombo": true,
+                "bpIndex": 2,
+                "nextBp": 1440,
+                "nextBpIndex": 3,
+                "order": 133,
+                "isPseudo": true
+              }
+            ]
+          ]
         ]
       ]
-    },
-    ".img-block__title": {
-      "__type__": "Map",
-      "value": [
+    ],
+    ".design-page__card-grid-section": [
+      [
+        ".design-page__card-grid-section",
+        ".design-page__card-grid-section",
         [
-          0,
-          {
-            "margin-bottom": {
-              "selector": ".img-block__title",
-              "minValues": [
-                2
-              ],
-              "maxValues": [
-                1
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "margin-bottom",
-              "order": 70,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            }
-          }
-        ],
-        [
-          1,
-          {
-            "margin-bottom": {
-              "selector": ".img-block__title",
-              "minValues": [
-                1
-              ],
-              "maxValues": [
-                2
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "margin-bottom",
-              "order": 77,
-              "isCombo": true,
-              "bpIndex": 1,
-              "bp": 1,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            }
-          }
+          [
+            "padding-top",
+            [
+              {
+                "minValues": [
+                  6.4
+                ],
+                "maxValues": [
+                  8
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 17
+              }
+            ]
+          ],
+          [
+            "padding-bottom",
+            [
+              {
+                "minValues": [
+                  6.4
+                ],
+                "maxValues": [
+                  8
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 17
+              }
+            ]
+          ]
         ]
       ]
-    },
-    ".img-block__img": {
-      "__type__": "Map",
-      "value": [
+    ],
+    ".hero-2": [
+      [
+        ".hero-2",
+        ".hero-2",
         [
-          0,
-          {
-            "margin-bottom": {
-              "selector": ".img-block__img",
-              "minValues": [
-                [
-                  "break",
+          [
+            "background-position-x",
+            [
+              {
+                "minValues": [
+                  -14
+                ],
+                "maxValues": [
                   [
-                    3.2
+                    "left",
+                    [
+                      9
+                    ]
                   ]
-                ]
-              ],
-              "maxValues": [
-                0
-              ],
-              "minUnits": [
-                [
-                  "",
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
                   [
-                    "rem"
+                    "",
+                    [
+                      "rem"
+                    ]
                   ]
-                ]
-              ],
-              "maxUnits": [
-                "px"
-              ],
-              "variableName": "margin-bottom",
-              "order": 71,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            }
-          }
-        ],
-        [
-          1,
-          {
-            "margin-bottom": {
-              "selector": ".img-block__img",
-              "minValues": [
-                0
-              ],
-              "maxValues": [
-                3
-              ],
-              "minUnits": [
-                "px"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "margin-bottom",
-              "order": 75,
-              "isCombo": true,
-              "bpIndex": 1,
-              "bp": 1,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            }
-          }
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 52
+              },
+              {
+                "minValues": [
+                  [
+                    "left",
+                    [
+                      9
+                    ]
+                  ]
+                ],
+                "maxValues": [
+                  [
+                    "right",
+                    [
+                      60
+                    ]
+                  ]
+                ],
+                "minUnits": [
+                  [
+                    "",
+                    [
+                      "rem"
+                    ]
+                  ]
+                ],
+                "maxUnits": [
+                  [
+                    "",
+                    [
+                      "rem"
+                    ]
+                  ]
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              }
+            ]
+          ],
+          [
+            "background-position-y",
+            [
+              {
+                "minValues": [
+                  1
+                ],
+                "maxValues": [
+                  [
+                    "top",
+                    [
+                      -6
+                    ]
+                  ]
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  [
+                    "",
+                    [
+                      "rem"
+                    ]
+                  ]
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 52
+              },
+              {
+                "minValues": [
+                  [
+                    "top",
+                    [
+                      -6
+                    ]
+                  ]
+                ],
+                "maxValues": [
+                  [
+                    "top",
+                    [
+                      -8
+                    ]
+                  ]
+                ],
+                "minUnits": [
+                  [
+                    "",
+                    [
+                      "rem"
+                    ]
+                  ]
+                ],
+                "maxUnits": [
+                  [
+                    "",
+                    [
+                      "rem"
+                    ]
+                  ]
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              }
+            ]
+          ],
+          [
+            "border-top-left-radius",
+            [
+              {
+                "minValues": [
+                  0
+                ],
+                "maxValues": [
+                  1
+                ],
+                "minUnits": [
+                  "px"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 52
+              }
+            ]
+          ],
+          [
+            "border-top-right-radius",
+            [
+              {
+                "minValues": [
+                  0
+                ],
+                "maxValues": [
+                  1
+                ],
+                "minUnits": [
+                  "px"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 52
+              }
+            ]
+          ],
+          [
+            "border-bottom-right-radius",
+            [
+              {
+                "minValues": [
+                  0
+                ],
+                "maxValues": [
+                  1
+                ],
+                "minUnits": [
+                  "px"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 52
+              }
+            ]
+          ],
+          [
+            "border-bottom-left-radius",
+            [
+              {
+                "minValues": [
+                  0
+                ],
+                "maxValues": [
+                  1
+                ],
+                "minUnits": [
+                  "px"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 52
+              }
+            ]
+          ]
         ]
       ]
-    },
-    ".img-block__bg-circle": {
-      "__type__": "Map",
-      "value": [
+    ],
+    ".card-2__img": [
+      [
+        ".card-2__img",
+        ".card-2__img",
         [
-          0,
-          {
-            "left": {
-              "selector": ".img-block__bg-circle",
-              "minValues": [
-                [
-                  "break",
+          [
+            "width",
+            [
+              {
+                "minValues": [
                   [
-                    50
+                    "break",
+                    [
+                      100
+                    ]
                   ]
-                ]
-              ],
-              "maxValues": [
-                [
-                  "break",
+                ],
+                "maxValues": [
+                  50
+                ],
+                "minUnits": [
                   [
-                    0
+                    "",
+                    [
+                      "%"
+                    ]
                   ]
-                ]
-              ],
-              "minUnits": [
-                [
-                  "",
+                ],
+                "maxUnits": [
+                  "%"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 90
+              },
+              {
+                "minValues": [
+                  50
+                ],
+                "maxValues": [
+                  100
+                ],
+                "minUnits": [
+                  "%"
+                ],
+                "maxUnits": [
+                  "%"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              }
+            ]
+          ],
+          [
+            "height",
+            [
+              {
+                "minValues": [
                   [
-                    "%"
+                    "break",
+                    [
+                      21.3
+                    ]
                   ]
-                ]
-              ],
-              "maxUnits": [
-                [
-                  "",
+                ],
+                "maxValues": [
+                  100
+                ],
+                "minUnits": [
                   [
-                    "px"
+                    "",
+                    [
+                      "rem"
+                    ]
                   ]
-                ]
-              ],
-              "variableName": "left",
-              "order": 72,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            }
-          }
-        ],
-        [
-          1,
-          {
-            "left": {
-              "selector": ".img-block__bg-circle",
-              "minValues": [
-                [
-                  "break",
-                  [
-                    0
-                  ]
-                ]
-              ],
-              "maxValues": [
-                50
-              ],
-              "minUnits": [
-                [
-                  "",
-                  [
-                    "px"
-                  ]
-                ]
-              ],
-              "maxUnits": [
-                "%"
-              ],
-              "variableName": "left",
-              "order": 76,
-              "isCombo": true,
-              "bpIndex": 1,
-              "bp": 1,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            }
-          }
+                ],
+                "maxUnits": [
+                  "%"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 90
+              },
+              {
+                "minValues": [
+                  100
+                ],
+                "maxValues": [
+                  21.3
+                ],
+                "minUnits": [
+                  "%"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              }
+            ]
+          ],
+          [
+            "border-top-left-radius",
+            [
+              {
+                "minValues": [
+                  1
+                ],
+                "maxValues": [
+                  1
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 90
+              },
+              {
+                "minValues": [
+                  1
+                ],
+                "maxValues": [
+                  1
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              }
+            ]
+          ],
+          [
+            "border-top-right-radius",
+            [
+              {
+                "minValues": [
+                  1
+                ],
+                "maxValues": [
+                  0
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "px"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 90
+              },
+              {
+                "minValues": [
+                  0
+                ],
+                "maxValues": [
+                  1
+                ],
+                "minUnits": [
+                  "px"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              }
+            ]
+          ],
+          [
+            "border-bottom-right-radius",
+            [
+              {
+                "minValues": [
+                  0
+                ],
+                "maxValues": [
+                  0
+                ],
+                "minUnits": [
+                  "px"
+                ],
+                "maxUnits": [
+                  "px"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2,
+                "order": 97
+              }
+            ]
+          ],
+          [
+            "border-bottom-left-radius",
+            [
+              {
+                "minValues": [
+                  1
+                ],
+                "maxValues": [
+                  0
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "px"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2,
+                "order": 97
+              }
+            ]
+          ]
         ]
       ]
-    },
-    ".img-block__body": {
-      "__type__": "Map",
-      "value": [
+    ],
+    ".card-2__content": [
+      [
+        ".card-2__content",
+        ".card-2__content",
         [
-          0,
-          {
-            "width": {
-              "selector": ".img-block__body",
-              "minValues": [
-                "auto"
-              ],
-              "maxValues": [
-                23
-              ],
-              "minUnits": [
-                "auto"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "width",
-              "order": 73,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            }
-          }
+          [
+            "padding-left",
+            [
+              {
+                "minValues": [
+                  2
+                ],
+                "maxValues": [
+                  2.13
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 91
+              }
+            ]
+          ],
+          [
+            "padding-right",
+            [
+              {
+                "minValues": [
+                  2
+                ],
+                "maxValues": [
+                  2.13
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 91
+              }
+            ]
+          ],
+          [
+            "border-bottom-right-radius",
+            [
+              {
+                "minValues": [
+                  1
+                ],
+                "maxValues": [
+                  1
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 91
+              },
+              {
+                "minValues": [
+                  1
+                ],
+                "maxValues": [
+                  1
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              }
+            ]
+          ],
+          [
+            "border-bottom-left-radius",
+            [
+              {
+                "minValues": [
+                  1
+                ],
+                "maxValues": [
+                  0
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "px"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 91
+              },
+              {
+                "minValues": [
+                  0
+                ],
+                "maxValues": [
+                  1
+                ],
+                "minUnits": [
+                  "px"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              }
+            ]
+          ],
+          [
+            "border-top-left-radius",
+            [
+              {
+                "minValues": [
+                  0
+                ],
+                "maxValues": [
+                  0
+                ],
+                "minUnits": [
+                  "px"
+                ],
+                "maxUnits": [
+                  "px"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2,
+                "order": 98
+              }
+            ]
+          ],
+          [
+            "border-top-right-radius",
+            [
+              {
+                "minValues": [
+                  1
+                ],
+                "maxValues": [
+                  0
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "px"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2,
+                "order": 98
+              }
+            ]
+          ],
+          [
+            "width",
+            [
+              {
+                "minValues": [
+                  50
+                ],
+                "maxValues": [
+                  100
+                ],
+                "minUnits": [
+                  "%"
+                ],
+                "maxUnits": [
+                  "%"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2,
+                "order": 99
+              }
+            ]
+          ]
         ]
       ]
-    },
-    ".cta": {
-      "__type__": "Map",
-      "value": [
+    ],
+    ".card-2__title": [
+      [
+        ".card-2__title",
+        ".card-2__title",
         [
-          0,
-          {
-            "padding-top": {
-              "selector": ".cta",
-              "minValues": [
-                4.26
-              ],
-              "maxValues": [
-                4.8
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "padding-top",
-              "order": 54,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            },
-            "padding-bottom": {
-              "selector": ".cta",
-              "minValues": [
-                4.26
-              ],
-              "maxValues": [
-                4.8
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "padding-bottom",
-              "order": 54,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            },
-            "padding-left": {
-              "selector": ".cta",
-              "minValues": [
-                1.6
-              ],
-              "maxValues": [
-                6.3
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "padding-left",
-              "order": 54,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            },
-            "padding-right": {
-              "selector": ".cta",
-              "minValues": [
-                1.6
-              ],
-              "maxValues": [
-                6.3
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "padding-right",
-              "order": 54,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            },
-            "background-position-x": {
-              "selector": ".cta",
-              "minValues": [
-                -13
-              ],
-              "maxValues": [
-                0
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "px"
-              ],
-              "variableName": "background-position-x",
-              "order": 54,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            },
-            "background-position-y": {
-              "selector": ".cta",
-              "minValues": [
-                -8
-              ],
-              "maxValues": [
-                -6
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "background-position-y",
-              "order": 54,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            }
-          }
-        ],
-        [
-          1,
-          {
-            "background-position-x": {
-              "selector": ".cta",
-              "minValues": [
-                0
-              ],
-              "maxValues": [
-                17
-              ],
-              "minUnits": [
-                "px"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "background-position-x",
-              "order": 59,
-              "isCombo": true,
-              "bpIndex": 1,
-              "bp": 1,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            },
-            "background-position-y": {
-              "selector": ".cta",
-              "minValues": [
-                -6
-              ],
-              "maxValues": [
-                -6
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "background-position-y",
-              "order": 59,
-              "isCombo": true,
-              "bpIndex": 1,
-              "bp": 1,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            }
-          }
+          [
+            "font-size",
+            [
+              {
+                "minValues": [
+                  1.25
+                ],
+                "maxValues": [
+                  1.33
+                ],
+                "minUnits": [
+                  "em"
+                ],
+                "maxUnits": [
+                  "em"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 93
+              }
+            ]
+          ]
         ]
       ]
-    },
-    ".cta__title": {
-      "__type__": "Map",
-      "value": [
+    ],
+    ".card-grid-2": [
+      [
+        ".card-grid-2",
+        ".card-grid-2",
         [
-          0,
-          {
-            "width": {
-              "selector": ".cta__title",
-              "minValues": [
-                15
-              ],
-              "maxValues": [
-                18.6
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "width",
-              "order": 56,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            },
-            "font-size": {
-              "selector": ".cta__title",
-              "minValues": [
-                2
-              ],
-              "maxValues": [
-                2.66
-              ],
-              "minUnits": [
-                "em"
-              ],
-              "maxUnits": [
-                "em"
-              ],
-              "variableName": "font-size",
-              "order": 56,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            }
-          }
-        ],
-        [
-          1,
-          {
-            "width": {
-              "selector": ".cta__title",
-              "minValues": [
-                18.6
-              ],
-              "maxValues": [
-                "fit-content"
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "content"
-              ],
-              "variableName": "width",
-              "order": 60,
-              "isCombo": true,
-              "bpIndex": 1,
-              "bp": 1,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            }
-          }
-        ]
-      ]
-    },
-    ".cta__body": {
-      "__type__": "Map",
-      "value": [
-        [
-          0,
-          {
-            "width": {
-              "selector": ".cta__body",
-              "minValues": [
-                100
-              ],
-              "maxValues": [
-                30
-              ],
-              "minUnits": [
-                "%"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "width",
-              "order": 57,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            }
-          }
-        ],
-        [
-          1,
-          {
-            "width": {
-              "selector": ".cta__body",
-              "minValues": [
-                30
-              ],
-              "maxValues": [
-                "fit-content"
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "content"
-              ],
-              "variableName": "width",
-              "order": 61,
-              "isCombo": true,
-              "bpIndex": 1,
-              "bp": 1,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            }
-          }
-        ]
-      ]
-    },
-    ".cta__btn": {
-      "__type__": "Map",
-      "value": [
-        [
-          0,
-          {
-            "margin-left": {
-              "selector": ".cta__btn",
-              "minValues": [
-                "auto"
-              ],
-              "maxValues": [
-                "auto"
-              ],
-              "minUnits": [
-                "auto"
-              ],
-              "maxUnits": [
-                "auto"
-              ],
-              "variableName": "margin-left",
-              "order": 58,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            },
-            "margin-right": {
-              "selector": ".cta__btn",
-              "minValues": [
-                "auto"
-              ],
-              "maxValues": [
-                0
-              ],
-              "minUnits": [
-                "auto"
-              ],
-              "maxUnits": [
-                "px"
-              ],
-              "variableName": "margin-right",
-              "order": 58,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            }
-          }
-        ]
-      ]
-    },
-    ".cta-wrapper": {
-      "__type__": "Map",
-      "value": [
-        [
-          0,
-          {
-            "margin-bottom": {
-              "selector": ".cta-wrapper",
-              "minValues": [
-                -11
-              ],
-              "maxValues": [
-                -5
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "margin-bottom",
-              "order": 66,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            }
-          }
-        ]
-      ]
-    },
-    ".homepage__card-grid-section": {
-      "__type__": "Map",
-      "value": [
-        [
-          0,
-          {
-            "padding-top": {
-              "selector": ".homepage__card-grid-section",
-              "minValues": [
-                8
-              ],
-              "maxValues": [
-                8
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "padding-top",
-              "order": 115,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            },
-            "padding-bottom": {
-              "selector": ".homepage__card-grid-section",
-              "minValues": [
-                8
-              ],
-              "maxValues": [
-                8
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "padding-bottom",
-              "order": 115,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            }
-          }
-        ],
-        [
-          1,
-          {
-            "padding-top": {
-              "selector": ".homepage__card-grid-section",
-              "minValues": [
-                8
-              ],
-              "maxValues": [
-                10.66
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "padding-top",
-              "order": 116,
-              "isCombo": true,
-              "bpIndex": 1,
-              "bp": 1,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            },
-            "padding-bottom": {
-              "selector": ".homepage__card-grid-section",
-              "minValues": [
-                8
-              ],
-              "maxValues": [
-                10.66
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "padding-bottom",
-              "order": 116,
-              "isCombo": true,
-              "bpIndex": 1,
-              "bp": 1,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            }
-          }
-        ]
-      ]
-    },
-    ".homepage__series": {
-      "__type__": "Map",
-      "value": [
-        [
-          0,
-          {
-            "padding-bottom": {
-              "selector": ".homepage__series",
-              "minValues": [
-                8
-              ],
-              "maxValues": [
-                4.46
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "padding-bottom",
-              "order": 118,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            }
-          }
-        ]
-      ]
-    },
-    ".footer__icons-section": {
-      "__type__": "Map",
-      "value": [
-        [
-          1,
-          {
-            "margin-left": {
-              "selector": ".footer__icons-section",
-              "minValues": [
-                "auto"
-              ],
-              "maxValues": [
-                0
-              ],
-              "minUnits": [
-                "auto"
-              ],
-              "maxUnits": [
-                "px"
-              ],
-              "variableName": "margin-left",
-              "order": 38,
-              "isCombo": true,
-              "bpIndex": 1,
-              "bp": 1,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            }
-          }
-        ]
-      ]
-    },
-    ".card-grid": {
-      "__type__": "Map",
-      "value": [
-        [
-          1,
-          {
-            "grid-template-rows": {
-              "selector": ".card-grid",
-              "minValues": [
-                13.33,
-                13.33
-              ],
-              "maxValues": [
-                20.5,
-                20.5
-              ],
-              "minUnits": [
-                "rem",
-                "rem"
-              ],
-              "maxUnits": [
-                "rem",
-                "rem"
-              ],
-              "variableName": "grid-template-rows",
-              "order": 93,
-              "isCombo": true,
-              "bpIndex": 1,
-              "bp": 1,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            }
-          }
-        ]
-      ]
-    },
-    ".homepage__img-block/.homepage__img-block:last-child": {
-      "__type__": "Map",
-      "value": [
-        [
-          2,
-          {
-            "margin-left": {
-              "selector": ".homepage__img-block:last-child",
-              "minValues": [
-                "auto"
-              ],
-              "maxValues": [
-                0
-              ],
-              "minUnits": [
-                "auto"
-              ],
-              "maxUnits": [
-                "px"
-              ],
-              "variableName": "margin-left",
-              "order": 123,
-              "isCombo": true,
-              "bpIndex": 2,
-              "bp": 2,
-              "nextBp": 1440,
-              "nextBpIndex": 3,
-              "isPseudo": true
-            },
-            "margin-right": {
-              "selector": ".homepage__img-block:last-child",
-              "minValues": [
-                "auto"
-              ],
-              "maxValues": [
-                0
-              ],
-              "minUnits": [
-                "auto"
-              ],
-              "maxUnits": [
-                "px"
-              ],
-              "variableName": "margin-right",
-              "order": 123,
-              "isCombo": true,
-              "bpIndex": 2,
-              "bp": 2,
-              "nextBp": 1440,
-              "nextBpIndex": 3,
-              "isPseudo": true
-            }
-          }
-        ]
-      ]
-    },
-    ".design-page__card-grid-section": {
-      "__type__": "Map",
-      "value": [
-        [
-          0,
-          {
-            "padding-top": {
-              "selector": ".design-page__card-grid-section",
-              "minValues": [
-                6.4
-              ],
-              "maxValues": [
-                8
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "padding-top",
-              "order": 16,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            },
-            "padding-bottom": {
-              "selector": ".design-page__card-grid-section",
-              "minValues": [
-                6.4
-              ],
-              "maxValues": [
-                8
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "padding-bottom",
-              "order": 16,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            }
-          }
-        ]
-      ]
-    },
-    ".hero-2": {
-      "__type__": "Map",
-      "value": [
-        [
-          0,
-          {
-            "background-position-x": {
-              "selector": ".hero-2",
-              "minValues": [
-                -14
-              ],
-              "maxValues": [
-                [
-                  "left",
+          [
+            "grid-template-columns",
+            [
+              {
+                "minValues": [
                   [
-                    9
+                    "break",
+                    [
+                      100
+                    ]
                   ]
-                ]
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                [
-                  "",
+                ],
+                "maxValues": [
+                  23.3,
+                  23.3,
+                  23.3
+                ],
+                "minUnits": [
                   [
-                    "rem"
+                    "",
+                    [
+                      "%"
+                    ]
                   ]
-                ]
-              ],
-              "variableName": "background-position-x",
-              "order": 47,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            },
-            "background-position-y": {
-              "selector": ".hero-2",
-              "minValues": [
-                1
-              ],
-              "maxValues": [
-                [
-                  "top",
-                  [
-                    -6
-                  ]
-                ]
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                [
-                  "",
-                  [
-                    "rem"
-                  ]
-                ]
-              ],
-              "variableName": "background-position-y",
-              "order": 47,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            },
-            "border-top-left-radius": {
-              "selector": ".hero-2",
-              "minValues": [
-                0
-              ],
-              "maxValues": [
-                1
-              ],
-              "minUnits": [
-                "px"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "border-top-left-radius",
-              "order": 47,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            },
-            "border-top-right-radius": {
-              "selector": ".hero-2",
-              "minValues": [
-                0
-              ],
-              "maxValues": [
-                1
-              ],
-              "minUnits": [
-                "px"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "border-top-right-radius",
-              "order": 47,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            },
-            "border-bottom-right-radius": {
-              "selector": ".hero-2",
-              "minValues": [
-                0
-              ],
-              "maxValues": [
-                1
-              ],
-              "minUnits": [
-                "px"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "border-bottom-right-radius",
-              "order": 47,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            },
-            "border-bottom-left-radius": {
-              "selector": ".hero-2",
-              "minValues": [
-                0
-              ],
-              "maxValues": [
-                1
-              ],
-              "minUnits": [
-                "px"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "border-bottom-left-radius",
-              "order": 47,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            }
-          }
-        ],
-        [
-          1,
-          {
-            "background-position-x": {
-              "selector": ".hero-2",
-              "minValues": [
-                [
-                  "left",
-                  [
-                    9
-                  ]
-                ]
-              ],
-              "maxValues": [
-                [
-                  "right",
-                  [
-                    60
-                  ]
-                ]
-              ],
-              "minUnits": [
-                [
-                  "",
-                  [
-                    "rem"
-                  ]
-                ]
-              ],
-              "maxUnits": [
-                [
-                  "",
-                  [
-                    "rem"
-                  ]
-                ]
-              ],
-              "variableName": "background-position-x",
-              "order": 50,
-              "isCombo": true,
-              "bpIndex": 1,
-              "bp": 1,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            },
-            "background-position-y": {
-              "selector": ".hero-2",
-              "minValues": [
-                [
-                  "top",
-                  [
-                    -6
-                  ]
-                ]
-              ],
-              "maxValues": [
-                [
-                  "top",
-                  [
-                    -8
-                  ]
-                ]
-              ],
-              "minUnits": [
-                [
-                  "",
-                  [
-                    "rem"
-                  ]
-                ]
-              ],
-              "maxUnits": [
-                [
-                  "",
-                  [
-                    "rem"
-                  ]
-                ]
-              ],
-              "variableName": "background-position-y",
-              "order": 50,
-              "isCombo": true,
-              "bpIndex": 1,
-              "bp": 1,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            }
-          }
+                ],
+                "maxUnits": [
+                  "rem",
+                  "rem",
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 1200,
+                "nextBpIndex": 2,
+                "order": 105
+              }
+            ]
+          ]
         ]
       ]
-    },
-    ".hero-2__title": {
-      "__type__": "Map",
-      "value": [
+    ],
+    ".block-row__row-item": [
+      [
+        ".block-row__row-item",
+        ".block-row__row-item",
         [
-          0,
-          {
-            "font-size": {
-              "selector": ".hero-2__title",
-              "minValues": [
-                2
-              ],
-              "maxValues": [
-                3.2
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "em"
-              ],
-              "variableName": "font-size",
-              "order": 49,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            }
-          }
+          [
+            "height",
+            [
+              {
+                "minValues": [
+                  16.6
+                ],
+                "maxValues": [
+                  13.3
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 108
+              },
+              {
+                "minValues": [
+                  13.3
+                ],
+                "maxValues": [
+                  20.5
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              }
+            ]
+          ]
         ]
       ]
-    },
-    ".card-2__img": {
-      "__type__": "Map",
-      "value": [
+    ],
+    ".card-2": [
+      [
+        ".card-2",
+        ".card-2",
         [
-          0,
-          {
-            "width": {
-              "selector": ".card-2__img",
-              "minValues": [
-                [
-                  "break",
-                  [
-                    100
-                  ]
-                ]
-              ],
-              "maxValues": [
-                50
-              ],
-              "minUnits": [
-                [
-                  "",
-                  [
-                    "%"
-                  ]
-                ]
-              ],
-              "maxUnits": [
-                "%"
-              ],
-              "variableName": "width",
-              "order": 81,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            },
-            "height": {
-              "selector": ".card-2__img",
-              "minValues": [
-                [
-                  "break",
-                  [
-                    21.3
-                  ]
-                ]
-              ],
-              "maxValues": [
-                100
-              ],
-              "minUnits": [
-                [
-                  "",
-                  [
-                    "rem"
-                  ]
-                ]
-              ],
-              "maxUnits": [
-                "%"
-              ],
-              "variableName": "height",
-              "order": 81,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            },
-            "border-top-left-radius": {
-              "selector": ".card-2__img",
-              "minValues": [
-                1
-              ],
-              "maxValues": [
-                1
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "border-top-left-radius",
-              "order": 81,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            },
-            "border-top-right-radius": {
-              "selector": ".card-2__img",
-              "minValues": [
-                1
-              ],
-              "maxValues": [
-                0
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "px"
-              ],
-              "variableName": "border-top-right-radius",
-              "order": 81,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            }
-          }
-        ],
-        [
-          1,
-          {
-            "border-top-left-radius": {
-              "selector": ".card-2__img",
-              "minValues": [
-                1
-              ],
-              "maxValues": [
-                1
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "border-top-left-radius",
-              "order": 86,
-              "isCombo": true,
-              "bpIndex": 1,
-              "bp": 1,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            },
-            "border-top-right-radius": {
-              "selector": ".card-2__img",
-              "minValues": [
-                0
-              ],
-              "maxValues": [
-                1
-              ],
-              "minUnits": [
-                "px"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "border-top-right-radius",
-              "order": 86,
-              "isCombo": true,
-              "bpIndex": 1,
-              "bp": 1,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            },
-            "border-bottom-right-radius": {
-              "selector": ".card-2__img",
-              "minValues": [
-                0
-              ],
-              "maxValues": [
-                0
-              ],
-              "minUnits": [
-                "px"
-              ],
-              "maxUnits": [
-                "px"
-              ],
-              "variableName": "border-bottom-right-radius",
-              "order": 86,
-              "isCombo": true,
-              "bpIndex": 1,
-              "bp": 1,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            },
-            "border-bottom-left-radius": {
-              "selector": ".card-2__img",
-              "minValues": [
-                1
-              ],
-              "maxValues": [
-                0
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "px"
-              ],
-              "variableName": "border-bottom-left-radius",
-              "order": 86,
-              "isCombo": true,
-              "bpIndex": 1,
-              "bp": 1,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            },
-            "width": {
-              "selector": ".card-2__img",
-              "minValues": [
-                50
-              ],
-              "maxValues": [
-                100
-              ],
-              "minUnits": [
-                "%"
-              ],
-              "maxUnits": [
-                "%"
-              ],
-              "variableName": "width",
-              "order": 88,
-              "isCombo": true,
-              "bpIndex": 1,
-              "bp": 1,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            },
-            "height": {
-              "selector": ".card-2__img",
-              "minValues": [
-                100
-              ],
-              "maxValues": [
-                21.3
-              ],
-              "minUnits": [
-                "%"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "height",
-              "order": 88,
-              "isCombo": true,
-              "bpIndex": 1,
-              "bp": 1,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            }
-          }
+          [
+            "height",
+            [
+              {
+                "minValues": [
+                  20.6
+                ],
+                "maxValues": [
+                  "auto"
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "auto"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2,
+                "order": 96
+              }
+            ]
+          ]
         ]
       ]
-    },
-    ".card-2__content": {
-      "__type__": "Map",
-      "value": [
+    ],
+    ".hero-2--app-design": [
+      [
+        ".hero-2--app-design",
+        ".hero-2--app-design",
         [
-          0,
-          {
-            "padding-left": {
-              "selector": ".card-2__content",
-              "minValues": [
-                2
-              ],
-              "maxValues": [
-                2.13
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "padding-left",
-              "order": 82,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            },
-            "padding-right": {
-              "selector": ".card-2__content",
-              "minValues": [
-                2
-              ],
-              "maxValues": [
-                2.13
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "padding-right",
-              "order": 82,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            },
-            "border-bottom-right-radius": {
-              "selector": ".card-2__content",
-              "minValues": [
-                1
-              ],
-              "maxValues": [
-                1
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "border-bottom-right-radius",
-              "order": 82,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            },
-            "border-bottom-left-radius": {
-              "selector": ".card-2__content",
-              "minValues": [
-                1
-              ],
-              "maxValues": [
-                0
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "px"
-              ],
-              "variableName": "border-bottom-left-radius",
-              "order": 82,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            }
-          }
-        ],
-        [
-          1,
-          {
-            "border-top-left-radius": {
-              "selector": ".card-2__content",
-              "minValues": [
-                0
-              ],
-              "maxValues": [
-                0
-              ],
-              "minUnits": [
-                "px"
-              ],
-              "maxUnits": [
-                "px"
-              ],
-              "variableName": "border-top-left-radius",
-              "order": 87,
-              "isCombo": true,
-              "bpIndex": 1,
-              "bp": 1,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            },
-            "border-top-right-radius": {
-              "selector": ".card-2__content",
-              "minValues": [
-                1
-              ],
-              "maxValues": [
-                0
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "px"
-              ],
-              "variableName": "border-top-right-radius",
-              "order": 87,
-              "isCombo": true,
-              "bpIndex": 1,
-              "bp": 1,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            },
-            "border-bottom-right-radius": {
-              "selector": ".card-2__content",
-              "minValues": [
-                1
-              ],
-              "maxValues": [
-                1
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "border-bottom-right-radius",
-              "order": 87,
-              "isCombo": true,
-              "bpIndex": 1,
-              "bp": 1,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            },
-            "border-bottom-left-radius": {
-              "selector": ".card-2__content",
-              "minValues": [
-                0
-              ],
-              "maxValues": [
-                1
-              ],
-              "minUnits": [
-                "px"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "border-bottom-left-radius",
-              "order": 87,
-              "isCombo": true,
-              "bpIndex": 1,
-              "bp": 1,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            },
-            "width": {
-              "selector": ".card-2__content",
-              "minValues": [
-                50
-              ],
-              "maxValues": [
-                100
-              ],
-              "minUnits": [
-                "%"
-              ],
-              "maxUnits": [
-                "%"
-              ],
-              "variableName": "width",
-              "order": 88,
-              "isCombo": true,
-              "bpIndex": 1,
-              "bp": 1,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            }
-          }
+          [
+            "background-position-x",
+            [
+              {
+                "minValues": [
+                  -20
+                ],
+                "maxValues": [
+                  -20
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 2,
+                "nextBp": 1200,
+                "nextBpIndex": 2,
+                "order": 58
+              }
+            ]
+          ]
         ]
       ]
-    },
-    ".card-2__title": {
-      "__type__": "Map",
-      "value": [
-        [
-          0,
-          {
-            "font-size": {
-              "selector": ".card-2__title",
-              "minValues": [
-                1.25
-              ],
-              "maxValues": [
-                1.33
-              ],
-              "minUnits": [
-                "em"
-              ],
-              "maxUnits": [
-                "em"
-              ],
-              "variableName": "font-size",
-              "order": 83,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            }
-          }
-        ]
-      ]
-    },
-    ".card-grid-2": {
-      "__type__": "Map",
-      "value": [
-        [
-          0,
-          {
-            "grid-template-columns": {
-              "selector": ".card-grid-2",
-              "minValues": [
-                [
-                  "break",
-                  [
-                    100
-                  ]
-                ]
-              ],
-              "maxValues": [
-                23.3,
-                23.3,
-                23.3
-              ],
-              "minUnits": [
-                [
-                  "",
-                  [
-                    "%"
-                  ]
-                ]
-              ],
-              "maxUnits": [
-                "rem",
-                "rem",
-                "rem"
-              ],
-              "variableName": "grid-template-columns",
-              "order": 94,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            }
-          }
-        ]
-      ]
-    },
-    ".block-row__row-item": {
-      "__type__": "Map",
-      "value": [
-        [
-          0,
-          {
-            "height": {
-              "selector": ".block-row__row-item",
-              "minValues": [
-                16.6
-              ],
-              "maxValues": [
-                13.3
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "height",
-              "order": 97,
-              "isCombo": true,
-              "bpIndex": 0,
-              "nextBp": 768,
-              "nextBpIndex": 1
-            }
-          }
-        ],
-        [
-          1,
-          {
-            "height": {
-              "selector": ".block-row__row-item",
-              "minValues": [
-                13.3
-              ],
-              "maxValues": [
-                20.5
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "rem"
-              ],
-              "variableName": "height",
-              "order": 98,
-              "isCombo": true,
-              "bpIndex": 1,
-              "bp": 1,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            }
-          }
-        ]
-      ]
-    },
-    ".card-2": {
-      "__type__": "Map",
-      "value": [
-        [
-          1,
-          {
-            "height": {
-              "selector": ".card-2",
-              "minValues": [
-                20.6
-              ],
-              "maxValues": [
-                "auto"
-              ],
-              "minUnits": [
-                "rem"
-              ],
-              "maxUnits": [
-                "auto"
-              ],
-              "variableName": "height",
-              "order": 85,
-              "isCombo": true,
-              "bpIndex": 1,
-              "bp": 1,
-              "nextBp": 1200,
-              "nextBpIndex": 2
-            }
-          }
-        ]
-      ]
-    }
+    ]
   }
 }

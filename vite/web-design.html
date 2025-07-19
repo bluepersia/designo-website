@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
   <head>
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
@@ -28,6 +28,8 @@
     <link rel="stylesheet" href="./css/blocks/BlockRow/block-row.css">
     <link rel="stylesheet" href="./css/blocks/TextBlock/text-block.css">
     <link rel="stylesheet" href="./css/blocks/IconList/icon-list.css">
+    <link rel="stylesheet" href="./css/blocks/Title/title.css">
+    <link rel="stylesheet" href="./css/blocks/Overlay/overlay.css">
   </head>
 
   <body>
@@ -43,14 +45,14 @@
         </ul>
       </nav>
 
-      <button class="header__mobile-nav-btn">
+      <button class="header__mobile-nav-btn" data-mobile-menu-btn>
         <img
-          class="icon-open"
+          class="header__mobile-nav-btn__icon-open header__icon-open"
           src="/img/shared/mobile/icon-hamburger.svg"
           alt=""
         />
         <img
-          class="header__mobile-nav-btn__icon-close"
+          class="header__mobile-nav-btn__icon-close header__icon-close"
           src="/img/shared/mobile/icon-close.svg"
           alt=""
         />
@@ -60,7 +62,7 @@
     <main class="design-page design-page--web-design">
       <div class="u-container-mobile-full">
         <section class="hero-2">
-          <h1 class="hero-2__title">Web Design</h1>
+          <h1 class="title hero-2__title" data-block>Web Design</h1>
           <p class="hero-2__body">
             We build websites that serve as powerful marketing tools and bring
             memorable brand experiences.
@@ -76,7 +78,7 @@
         <h2 class="title sr-only">Other Categories</h2>
         <ul class="block-row">
           <li class="block-row__row-item">
-            <a class="u-link u-full-height">
+            <a class="u-link u-full-height" href="app-design.html">
               <section class="card card--app-design u-full-height">
                 <h3 class="card__title">App Design</h3>
                 <span class="card__sup-text u-fw-medium"
@@ -101,7 +103,7 @@
             </a>
           </li>
           <li class="block-row__row-item">
-            <a class="u-link u-full-height">
+            <a class="u-link u-full-height" href="graphic-design.html">
               <section class="card card--graphic-design u-full-height">
                 <h3 class="card__title">Graphic Design</h3>
                 <span class="card__sup-text u-fw-medium"
@@ -140,6 +142,16 @@
           <a class="btn cta__btn" href="contact.html">Get in Touch</a>
         </section>
       </div>
+
+      <div class="overlay" data-overlay>
+        <nav class="overlay__mobile-menu">
+          <ul class="overlay__mobile-menu__list">
+            <li class="overlay__mobile-menu__li"><a class="overlay__mobile-menu__link" href="about.html">Our Company</a></li>
+            <li class="overlay__mobile-menu__li"><a class="overlay__mobile-menu__link" href="locations.html">Locations</a></li>
+            <li class="overlay__mobile-menu__li"><a class="overlay__mobile-menu__link" href="contact.html">Contact</a></li>
+          </ul>
+        </nav>
+      </div>
     </main>
     <footer class="footer u-container">
       <div class="footer__main-nav">
@@ -174,7 +186,7 @@
             <li>
               <a
                 ><img
-                  class="icon"
+                  class="icon-list__icon"
                   src="/img/shared/desktop/icon-facebook.svg"
                   alt="Facebook"
               /></a>
@@ -182,7 +194,7 @@
             <li>
               <a
                 ><img
-                  class="icon"
+                  class="icon-list__icon"
                   src="/img/shared/desktop/icon-youtube.svg"
                   alt="YouTube"
               /></a>
@@ -190,7 +202,7 @@
             <li>
               <a
                 ><img
-                  class="icon"
+                  class="icon-list__icon"
                   src="/img/shared/desktop/icon-twitter.svg"
                   alt="Twitter"
               /></a>
@@ -198,7 +210,7 @@
             <li>
               <a
                 ><img
-                  class="icon"
+                  class="icon-list__icon"
                   src="/img/shared/desktop/icon-pinterest.svg"
                   alt="Pinterest"
               /></a>
@@ -206,7 +218,7 @@
             <li>
               <a
                 ><img
-                  class="icon"
+                  class="icon-list__icon"
                   src="/img/shared/desktop/icon-instagram.svg"
                   alt="Instragram"
               /></a>

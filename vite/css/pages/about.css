@@ -1,0 +1,33 @@
+.about {
+  position: relative;
+}
+
+.about .about__row-40-50--hero {
+  margin-bottom: 8rem;
+}
+
+@media (min-width: 1200px) {
+  .about .about__row-40-50--hero {
+    margin-bottom: 10.6rem;
+  }
+}
+
+.about__locations-section {
+  padding: 8rem 0;
+}
+
+@media (min-width: 1200px) {
+  .about__locations-section {
+    padding: 10.6rem 0;
+  }
+}
+
+.about__cta-wrapper {
+  margin-top: 8rem;
+}
+
+@media (min-width: 1200px) {
+  .about__cta-wrapper {
+    margin-top: 10.6rem;
+  }
+}

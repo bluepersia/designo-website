@@ -12,5 +12,9 @@
     "cssnano": "^7.0.7",
     "typescript": "~5.8.3",
     "vite": "^7.0.4"
+  },
+  "dependencies": {
+    "auto-scope": "^0.1.958-alpha",
+    "fluid-scale": "^0.0.1679-alpha"
   }
 }

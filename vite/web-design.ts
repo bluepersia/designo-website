@@ -1,9 +1,7 @@
-import fluidScale from 'fluid-scale';
-import ProjectGrid from './components/ProjectGrid';
+import DesignPage from "./pages/DesignPage";
+import MobileMenu from "./components/MobileMenu";
 
-fluidScale({json: 'web-design'});
+new MobileMenu ();
 
-const grid = document.querySelector ("[data-projects-grid");
 
-if(grid)
-    new ProjectGrid ('web-design', grid);
+new DesignPage ('web-design');

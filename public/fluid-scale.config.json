@@ -1,7 +1,12 @@
 {
   "inputs": {
     "homepage": ["vite/index.html"],
-    "web-design": ["vite/web-design.html"]
+    "web-design": ["vite/web-design.html"],
+    "app-design": ["vite/app-design.html"],
+    "graphic-design": ["vite/graphic-design.html"],
+    "contact": ["vite/contact.html"],
+    "about": ["vite/about.html"],
+    "locations": ["vite/locations.html"]
   },
   "outputDir": "fluid-scale"
 }
