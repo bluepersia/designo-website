@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
   <head>
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="./css/utils/utilities.css" />
     <link rel="stylesheet" href="./css/utils/variables.css" />
 
+    <meta name="auto-scope" content="./css/blocks/Title/title.css" />
     <meta name="auto-scope" content="./css/pages/about.css" />
     <meta name="auto-scope" content="./css/layout/header.css" />
     <meta name="auto-scope" content="./css/layout/footer.css" />
@@ -104,7 +105,7 @@
           />
 
           <div class="content">
-            <h2 class="title">World-class talent</h2>
+            <h2 class="title" data-block>World-class talent</h2>
             <p class="body">
               We are a crew of strategists, problem-solvers, and technologists.
               Every design is thoughtfully crafted from concept to launch,
@@ -186,7 +187,7 @@
           />
 
           <div class="content">
-            <h2 class="title">The real deal</h2>
+            <h2 class="title" data-block>The real deal</h2>
             <p class="body">
               As strategic partners in our clients’ businesses, we are ready to
               take on any challenge as our own. Solving real problems require
@@ -300,6 +301,6 @@
       </section>
     </footer>
 
-    <script type="module" src="/app-design.ts"></script>
+    <script type="module" src="/about.ts"></script>
   </body>
 </html>
