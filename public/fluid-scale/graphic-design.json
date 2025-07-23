@@ -49,114 +49,6 @@
                 "bpIndex": 1,
                 "nextBp": 1200,
                 "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  "unset"
-                ],
-                "maxValues": [
-                  "unset"
-                ],
-                "minUnits": [
-                  "unset"
-                ],
-                "maxUnits": [
-                  "unset"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  "unset"
-                ],
-                "maxValues": [
-                  "unset"
-                ],
-                "minUnits": [
-                  "unset"
-                ],
-                "maxUnits": [
-                  "unset"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  "unset"
-                ],
-                "maxValues": [
-                  "unset"
-                ],
-                "minUnits": [
-                  "unset"
-                ],
-                "maxUnits": [
-                  "unset"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  "unset"
-                ],
-                "maxValues": [
-                  "unset"
-                ],
-                "minUnits": [
-                  "unset"
-                ],
-                "maxUnits": [
-                  "unset"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  "unset"
-                ],
-                "maxValues": [
-                  "unset"
-                ],
-                "minUnits": [
-                  "unset"
-                ],
-                "maxUnits": [
-                  "unset"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  "unset"
-                ],
-                "maxValues": [
-                  "unset"
-                ],
-                "minUnits": [
-                  "unset"
-                ],
-                "maxUnits": [
-                  "unset"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
               }
             ]
           ],
@@ -181,114 +73,6 @@
                 "nextBp": 768,
                 "nextBpIndex": 1,
                 "order": 3
-              },
-              {
-                "minValues": [
-                  "unset"
-                ],
-                "maxValues": [
-                  "unset"
-                ],
-                "minUnits": [
-                  "unset"
-                ],
-                "maxUnits": [
-                  "unset"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  "unset"
-                ],
-                "maxValues": [
-                  "unset"
-                ],
-                "minUnits": [
-                  "unset"
-                ],
-                "maxUnits": [
-                  "unset"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  "unset"
-                ],
-                "maxValues": [
-                  "unset"
-                ],
-                "minUnits": [
-                  "unset"
-                ],
-                "maxUnits": [
-                  "unset"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  "unset"
-                ],
-                "maxValues": [
-                  "unset"
-                ],
-                "minUnits": [
-                  "unset"
-                ],
-                "maxUnits": [
-                  "unset"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  "unset"
-                ],
-                "maxValues": [
-                  "unset"
-                ],
-                "minUnits": [
-                  "unset"
-                ],
-                "maxUnits": [
-                  "unset"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  "unset"
-                ],
-                "maxValues": [
-                  "unset"
-                ],
-                "minUnits": [
-                  "unset"
-                ],
-                "maxUnits": [
-                  "unset"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
               },
               {
                 "minValues": [
@@ -349,114 +133,6 @@
                 "bpIndex": 1,
                 "nextBp": 1200,
                 "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  1.6
-                ],
-                "maxValues": [
-                  2.66
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  2.66
-                ],
-                "maxValues": [
-                  11
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  1.6
-                ],
-                "maxValues": [
-                  2.66
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  2.66
-                ],
-                "maxValues": [
-                  11
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  1.6
-                ],
-                "maxValues": [
-                  2.66
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  2.66
-                ],
-                "maxValues": [
-                  11
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
               }
             ]
           ],
@@ -481,114 +157,6 @@
                 "nextBp": 768,
                 "nextBpIndex": 1,
                 "order": 3
-              },
-              {
-                "minValues": [
-                  2.66
-                ],
-                "maxValues": [
-                  11
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  1.6
-                ],
-                "maxValues": [
-                  2.66
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  2.66
-                ],
-                "maxValues": [
-                  11
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  1.6
-                ],
-                "maxValues": [
-                  2.66
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  2.66
-                ],
-                "maxValues": [
-                  11
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  1.6
-                ],
-                "maxValues": [
-                  2.66
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
               },
               {
                 "minValues": [
@@ -667,144 +235,6 @@
                 "bpIndex": 1,
                 "nextBp": 1200,
                 "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  [
-                    "break",
-                    [
-                      0
-                    ]
-                  ]
-                ],
-                "maxValues": [
-                  2.66
-                ],
-                "minUnits": [
-                  [
-                    "",
-                    [
-                      "px"
-                    ]
-                  ]
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  2.66
-                ],
-                "maxValues": [
-                  11
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  [
-                    "break",
-                    [
-                      0
-                    ]
-                  ]
-                ],
-                "maxValues": [
-                  2.66
-                ],
-                "minUnits": [
-                  [
-                    "",
-                    [
-                      "px"
-                    ]
-                  ]
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  2.66
-                ],
-                "maxValues": [
-                  11
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  [
-                    "break",
-                    [
-                      0
-                    ]
-                  ]
-                ],
-                "maxValues": [
-                  2.66
-                ],
-                "minUnits": [
-                  [
-                    "",
-                    [
-                      "px"
-                    ]
-                  ]
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  2.66
-                ],
-                "maxValues": [
-                  11
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
               }
             ]
           ],
@@ -839,144 +269,6 @@
                 "nextBp": 768,
                 "nextBpIndex": 1,
                 "order": 6
-              },
-              {
-                "minValues": [
-                  2.66
-                ],
-                "maxValues": [
-                  11
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  [
-                    "break",
-                    [
-                      0
-                    ]
-                  ]
-                ],
-                "maxValues": [
-                  2.66
-                ],
-                "minUnits": [
-                  [
-                    "",
-                    [
-                      "px"
-                    ]
-                  ]
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  2.66
-                ],
-                "maxValues": [
-                  11
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  [
-                    "break",
-                    [
-                      0
-                    ]
-                  ]
-                ],
-                "maxValues": [
-                  2.66
-                ],
-                "minUnits": [
-                  [
-                    "",
-                    [
-                      "px"
-                    ]
-                  ]
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  2.66
-                ],
-                "maxValues": [
-                  11
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  [
-                    "break",
-                    [
-                      0
-                    ]
-                  ]
-                ],
-                "maxValues": [
-                  2.66
-                ],
-                "minUnits": [
-                  [
-                    "",
-                    [
-                      "px"
-                    ]
-                  ]
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
               },
               {
                 "minValues": [
@@ -1019,60 +311,62 @@
                 "nextBp": 768,
                 "nextBpIndex": 1,
                 "order": 6
-              },
+              }
+            ]
+          ]
+        ]
+      ]
+    ],
+    ".design-page__card-grid-section": [
+      [
+        ".design-page__card-grid-section",
+        ".design-page__card-grid-section",
+        [
+          [
+            "padding-top",
+            [
               {
                 "minValues": [
-                  44.9
+                  6.4
                 ],
                 "maxValues": [
-                  "unset"
+                  8
                 ],
                 "minUnits": [
                   "rem"
                 ],
                 "maxUnits": [
-                  "unset"
+                  "rem"
                 ],
                 "isCombo": true,
                 "bpIndex": 0,
                 "nextBp": 768,
-                "nextBpIndex": 1
-              },
+                "nextBpIndex": 1,
+                "order": 17
+              }
+            ]
+          ],
+          [
+            "padding-bottom",
+            [
               {
                 "minValues": [
-                  44.9
+                  6.4
                 ],
                 "maxValues": [
-                  "unset"
+                  8
                 ],
                 "minUnits": [
                   "rem"
                 ],
                 "maxUnits": [
-                  "unset"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  44.9
-                ],
-                "maxValues": [
-                  "unset"
-                ],
-                "minUnits": [
                   "rem"
                 ],
-                "maxUnits": [
-                  "unset"
-                ],
                 "isCombo": true,
                 "bpIndex": 0,
                 "nextBp": 768,
-                "nextBpIndex": 1
+                "nextBpIndex": 1,
+                "order": 17
               }
             ]
           ]
@@ -1104,61 +398,7 @@
                 "bpIndex": 0,
                 "nextBp": 768,
                 "nextBpIndex": 1,
-                "order": 15
-              },
-              {
-                "minValues": [
-                  2.33
-                ],
-                "maxValues": [
-                  4.26
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  2.33
-                ],
-                "maxValues": [
-                  4.26
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  2.33
-                ],
-                "maxValues": [
-                  4.26
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
+                "order": 20
               }
             ]
           ],
@@ -1182,61 +422,7 @@
                 "bpIndex": 0,
                 "nextBp": 768,
                 "nextBpIndex": 1,
-                "order": 15
-              },
-              {
-                "minValues": [
-                  2.33
-                ],
-                "maxValues": [
-                  4.26
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  2.33
-                ],
-                "maxValues": [
-                  4.26
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  2.33
-                ],
-                "maxValues": [
-                  4.26
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
+                "order": 20
               }
             ]
           ]
@@ -1268,61 +454,7 @@
                 "bpIndex": 0,
                 "nextBp": 768,
                 "nextBpIndex": 1,
-                "order": 25
-              },
-              {
-                "minValues": [
-                  15
-                ],
-                "maxValues": [
-                  10
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  15
-                ],
-                "maxValues": [
-                  10
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  15
-                ],
-                "maxValues": [
-                  10
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
+                "order": 30
               }
             ]
           ],
@@ -1346,61 +478,7 @@
                 "bpIndex": 0,
                 "nextBp": 768,
                 "nextBpIndex": 1,
-                "order": 25
-              },
-              {
-                "minValues": [
-                  4.26
-                ],
-                "maxValues": [
-                  5.3
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  4.26
-                ],
-                "maxValues": [
-                  5.3
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  4.26
-                ],
-                "maxValues": [
-                  5.3
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
+                "order": 30
               }
             ]
           ]
@@ -1432,61 +510,7 @@
                 "bpIndex": 0,
                 "nextBp": 768,
                 "nextBpIndex": 1,
-                "order": 26
-              },
-              {
-                "minValues": [
-                  "auto"
-                ],
-                "maxValues": [
-                  0
-                ],
-                "minUnits": [
-                  "auto"
-                ],
-                "maxUnits": [
-                  "px"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  "auto"
-                ],
-                "maxValues": [
-                  0
-                ],
-                "minUnits": [
-                  "auto"
-                ],
-                "maxUnits": [
-                  "px"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  "auto"
-                ],
-                "maxValues": [
-                  0
-                ],
-                "minUnits": [
-                  "auto"
-                ],
-                "maxUnits": [
-                  "px"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
+                "order": 31
               }
             ]
           ]
@@ -1528,3415 +552,7 @@
                 "bpIndex": 0,
                 "nextBp": 768,
                 "nextBpIndex": 1,
-                "order": 29
-              },
-              {
-                "minValues": [
-                  [
-                    "break",
-                    [
-                      2.66
-                    ]
-                  ]
-                ],
-                "maxValues": [
-                  0
-                ],
-                "minUnits": [
-                  [
-                    "",
-                    [
-                      "rem"
-                    ]
-                  ]
-                ],
-                "maxUnits": [
-                  "px"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  [
-                    "break",
-                    [
-                      2.66
-                    ]
-                  ]
-                ],
-                "maxValues": [
-                  0
-                ],
-                "minUnits": [
-                  [
-                    "",
-                    [
-                      "rem"
-                    ]
-                  ]
-                ],
-                "maxUnits": [
-                  "px"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  [
-                    "break",
-                    [
-                      2.66
-                    ]
-                  ]
-                ],
-                "maxValues": [
-                  0
-                ],
-                "minUnits": [
-                  [
-                    "",
-                    [
-                      "rem"
-                    ]
-                  ]
-                ],
-                "maxUnits": [
-                  "px"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              }
-            ]
-          ]
-        ]
-      ]
-    ],
-    ".hero": [
-      [
-        ".hero",
-        ".hero",
-        [
-          [
-            "padding-top",
-            [
-              {
-                "minValues": [
-                  5.33
-                ],
-                "maxValues": [
-                  4
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1,
-                "order": 42
-              },
-              {
-                "minValues": [
-                  4
-                ],
-                "maxValues": [
-                  9.66
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              }
-            ]
-          ],
-          [
-            "padding-left",
-            [
-              {
-                "minValues": [
-                  1.6
-                ],
-                "maxValues": [
-                  3.86
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1,
-                "order": 42
-              },
-              {
-                "minValues": [
-                  3.86
-                ],
-                "maxValues": [
-                  6.33
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              }
-            ]
-          ],
-          [
-            "padding-right",
-            [
-              {
-                "minValues": [
-                  1.6
-                ],
-                "maxValues": [
-                  3.86
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1,
-                "order": 42
-              },
-              {
-                "minValues": [
-                  3.86
-                ],
-                "maxValues": [
-                  6.33
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              }
-            ]
-          ],
-          [
-            "background-position-x",
-            [
-              {
-                "minValues": [
-                  2
-                ],
-                "maxValues": [
-                  15
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1,
-                "order": 42
-              },
-              {
-                "minValues": [
-                  15
-                ],
-                "maxValues": [
-                  34
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              }
-            ]
-          ],
-          [
-            "background-position-y",
-            [
-              {
-                "minValues": [
-                  7
-                ],
-                "maxValues": [
-                  0
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "px"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 1200,
-                "nextBpIndex": 2,
-                "order": 42
-              }
-            ]
-          ],
-          [
-            "border-top-left-radius",
-            [
-              {
-                "minValues": [
-                  0
-                ],
-                "maxValues": [
-                  1
-                ],
-                "minUnits": [
-                  "px"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1,
-                "order": 42
-              }
-            ]
-          ],
-          [
-            "border-top-right-radius",
-            [
-              {
-                "minValues": [
-                  0
-                ],
-                "maxValues": [
-                  1
-                ],
-                "minUnits": [
-                  "px"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1,
-                "order": 42
-              }
-            ]
-          ],
-          [
-            "border-bottom-right-radius",
-            [
-              {
-                "minValues": [
-                  0
-                ],
-                "maxValues": [
-                  1
-                ],
-                "minUnits": [
-                  "px"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1,
-                "order": 42
-              }
-            ]
-          ],
-          [
-            "border-bottom-left-radius",
-            [
-              {
-                "minValues": [
-                  0
-                ],
-                "maxValues": [
-                  1
-                ],
-                "minUnits": [
-                  "px"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1,
-                "order": 42
-              }
-            ]
-          ]
-        ]
-      ]
-    ],
-    ".hero__body": [
-      [
-        ".hero__body",
-        ".hero__body",
-        [
-          [
-            "margin-bottom",
-            [
-              {
-                "minValues": [
-                  1.6
-                ],
-                "maxValues": [
-                  1.26
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1,
-                "order": 44
-              },
-              {
-                "minValues": [
-                  1.26
-                ],
-                "maxValues": [
-                  2.66
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              }
-            ]
-          ],
-          [
-            "width",
-            [
-              {
-                "minValues": [
-                  100
-                ],
-                "maxValues": [
-                  29.6
-                ],
-                "minUnits": [
-                  "%"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1,
-                "order": 44
-              }
-            ]
-          ]
-        ]
-      ]
-    ],
-    ".hero__btn": [
-      [
-        ".hero__btn",
-        ".hero__btn",
-        [
-          [
-            "margin-bottom",
-            [
-              {
-                "minValues": [
-                  0
-                ],
-                "maxValues": [
-                  -1
-                ],
-                "minUnits": [
-                  "px"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1,
-                "order": 45
-              }
-            ]
-          ],
-          [
-            "margin-left",
-            [
-              {
-                "minValues": [
-                  "auto"
-                ],
-                "maxValues": [
-                  0
-                ],
-                "minUnits": [
-                  "auto"
-                ],
-                "maxUnits": [
-                  "px"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 1200,
-                "nextBpIndex": 2,
-                "order": 45
-              }
-            ]
-          ]
-        ]
-      ]
-    ],
-    ".hero__img-wrapper": [
-      [
-        ".hero__img-wrapper",
-        ".hero__img-wrapper",
-        [
-          [
-            "margin-top",
-            [
-              {
-                "minValues": [
-                  -5
-                ],
-                "maxValues": [
-                  [
-                    "break",
-                    [
-                      -6.3
-                    ]
-                  ]
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  [
-                    "",
-                    [
-                      "rem"
-                    ]
-                  ]
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1,
-                "order": 46
-              },
-              {
-                "minValues": [
-                  [
-                    "break",
-                    [
-                      -6.3
-                    ]
-                  ]
-                ],
-                "maxValues": [
-                  -12
-                ],
-                "minUnits": [
-                  [
-                    "",
-                    [
-                      "rem"
-                    ]
-                  ]
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              }
-            ]
-          ],
-          [
-            "margin-left",
-            [
-              {
-                "minValues": [
-                  -15
-                ],
-                "maxValues": [
-                  -5
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 2,
-                "nextBp": 1440,
-                "nextBpIndex": 3,
-                "order": 56
-              }
-            ]
-          ]
-        ]
-      ]
-    ],
-    ".card": [
-      [
-        ".card",
-        ".card",
-        [
-          [
-            "padding-top",
-            [
-              {
-                "minValues": [
-                  6
-                ],
-                "maxValues": [
-                  3.53
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "em"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1,
-                "order": 62
-              },
-              {
-                "minValues": [
-                  6
-                ],
-                "maxValues": [
-                  3.53
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "em"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  6
-                ],
-                "maxValues": [
-                  3.53
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "em"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  6
-                ],
-                "maxValues": [
-                  3.53
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "em"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              }
-            ]
-          ],
-          [
-            "padding-bottom",
-            [
-              {
-                "minValues": [
-                  6
-                ],
-                "maxValues": [
-                  3.53
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "em"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1,
-                "order": 62
-              },
-              {
-                "minValues": [
-                  6
-                ],
-                "maxValues": [
-                  3.53
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "em"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  6
-                ],
-                "maxValues": [
-                  3.53
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "em"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  6
-                ],
-                "maxValues": [
-                  3.53
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "em"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              }
-            ]
-          ],
-          [
-            "padding-left",
-            [
-              {
-                "minValues": [
-                  0
-                ],
-                "maxValues": [
-                  0
-                ],
-                "minUnits": [
-                  "px"
-                ],
-                "maxUnits": [
-                  "px"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1,
-                "order": 62
-              },
-              {
-                "minValues": [
-                  0
-                ],
-                "maxValues": [
-                  0
-                ],
-                "minUnits": [
-                  "px"
-                ],
-                "maxUnits": [
-                  "px"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  0
-                ],
-                "maxValues": [
-                  0
-                ],
-                "minUnits": [
-                  "px"
-                ],
-                "maxUnits": [
-                  "px"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  0
-                ],
-                "maxValues": [
-                  0
-                ],
-                "minUnits": [
-                  "px"
-                ],
-                "maxUnits": [
-                  "px"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              }
-            ]
-          ],
-          [
-            "padding-right",
-            [
-              {
-                "minValues": [
-                  0
-                ],
-                "maxValues": [
-                  0
-                ],
-                "minUnits": [
-                  "px"
-                ],
-                "maxUnits": [
-                  "px"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1,
-                "order": 62
-              },
-              {
-                "minValues": [
-                  0
-                ],
-                "maxValues": [
-                  0
-                ],
-                "minUnits": [
-                  "px"
-                ],
-                "maxUnits": [
-                  "px"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  0
-                ],
-                "maxValues": [
-                  0
-                ],
-                "minUnits": [
-                  "px"
-                ],
-                "maxUnits": [
-                  "px"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  0
-                ],
-                "maxValues": [
-                  0
-                ],
-                "minUnits": [
-                  "px"
-                ],
-                "maxUnits": [
-                  "px"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              }
-            ]
-          ]
-        ]
-      ]
-    ],
-    ".card__title": [
-      [
-        ".card__title",
-        ".card__title",
-        [
-          [
-            "margin-bottom",
-            [
-              {
-                "minValues": [
-                  0.8
-                ],
-                "maxValues": [
-                  1.6
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1,
-                "order": 66
-              },
-              {
-                "minValues": [
-                  0.8
-                ],
-                "maxValues": [
-                  1.6
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  0.8
-                ],
-                "maxValues": [
-                  1.6
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  0.8
-                ],
-                "maxValues": [
-                  1.6
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              }
-            ]
-          ],
-          [
-            "font-size",
-            [
-              {
-                "minValues": [
-                  1.86
-                ],
-                "maxValues": [
-                  2.66
-                ],
-                "minUnits": [
-                  "em"
-                ],
-                "maxUnits": [
-                  "em"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1,
-                "order": 66
-              },
-              {
-                "minValues": [
-                  1.86
-                ],
-                "maxValues": [
-                  2.66
-                ],
-                "minUnits": [
-                  "em"
-                ],
-                "maxUnits": [
-                  "em"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  1.86
-                ],
-                "maxValues": [
-                  2.66
-                ],
-                "minUnits": [
-                  "em"
-                ],
-                "maxUnits": [
-                  "em"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  1.86
-                ],
-                "maxValues": [
-                  2.66
-                ],
-                "minUnits": [
-                  "em"
-                ],
-                "maxUnits": [
-                  "em"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              }
-            ]
-          ]
-        ]
-      ]
-    ],
-    ".img-block__title": [
-      [
-        ".img-block__title",
-        ".img-block__title",
-        [
-          [
-            "margin-bottom",
-            [
-              {
-                "minValues": [
-                  2
-                ],
-                "maxValues": [
-                  1
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1,
-                "order": 74
-              },
-              {
-                "minValues": [
-                  1
-                ],
-                "maxValues": [
-                  2
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              }
-            ]
-          ]
-        ]
-      ]
-    ],
-    ".img-block__img": [
-      [
-        ".img-block__img",
-        ".img-block__img",
-        [
-          [
-            "margin-bottom",
-            [
-              {
-                "minValues": [
-                  [
-                    "break",
-                    [
-                      3.2
-                    ]
-                  ]
-                ],
-                "maxValues": [
-                  0
-                ],
-                "minUnits": [
-                  [
-                    "",
-                    [
-                      "rem"
-                    ]
-                  ]
-                ],
-                "maxUnits": [
-                  "px"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1,
-                "order": 75
-              },
-              {
-                "minValues": [
-                  0
-                ],
-                "maxValues": [
-                  3
-                ],
-                "minUnits": [
-                  "px"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              }
-            ]
-          ]
-        ]
-      ]
-    ],
-    ".img-block__bg-circle": [
-      [
-        ".img-block__bg-circle",
-        ".img-block__bg-circle",
-        [
-          [
-            "left",
-            [
-              {
-                "minValues": [
-                  [
-                    "break",
-                    [
-                      50
-                    ]
-                  ]
-                ],
-                "maxValues": [
-                  [
-                    "break",
-                    [
-                      0
-                    ]
-                  ]
-                ],
-                "minUnits": [
-                  [
-                    "",
-                    [
-                      "%"
-                    ]
-                  ]
-                ],
-                "maxUnits": [
-                  [
-                    "",
-                    [
-                      "px"
-                    ]
-                  ]
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1,
-                "order": 76
-              },
-              {
-                "minValues": [
-                  [
-                    "break",
-                    [
-                      0
-                    ]
-                  ]
-                ],
-                "maxValues": [
-                  50
-                ],
-                "minUnits": [
-                  [
-                    "",
-                    [
-                      "px"
-                    ]
-                  ]
-                ],
-                "maxUnits": [
-                  "%"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              }
-            ]
-          ]
-        ]
-      ]
-    ],
-    ".img-block__body": [
-      [
-        ".img-block__body",
-        ".img-block__body",
-        [
-          [
-            "width",
-            [
-              {
-                "minValues": [
-                  "auto"
-                ],
-                "maxValues": [
-                  23
-                ],
-                "minUnits": [
-                  "auto"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 1200,
-                "nextBpIndex": 2,
-                "order": 77
-              }
-            ]
-          ]
-        ]
-      ]
-    ],
-    ".cta": [
-      [
-        ".cta",
-        ".cta",
-        [
-          [
-            "padding-top",
-            [
-              {
-                "minValues": [
-                  4.26
-                ],
-                "maxValues": [
-                  4.8
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 1200,
-                "nextBpIndex": 2,
-                "order": 105
-              },
-              {
-                "minValues": [
-                  4.26
-                ],
-                "maxValues": [
-                  4.8
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  4.26
-                ],
-                "maxValues": [
-                  4.8
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  4.26
-                ],
-                "maxValues": [
-                  4.8
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              }
-            ]
-          ],
-          [
-            "padding-bottom",
-            [
-              {
-                "minValues": [
-                  4.26
-                ],
-                "maxValues": [
-                  4.8
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 1200,
-                "nextBpIndex": 2,
-                "order": 105
-              },
-              {
-                "minValues": [
-                  4.26
-                ],
-                "maxValues": [
-                  4.8
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  4.26
-                ],
-                "maxValues": [
-                  4.8
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  4.26
-                ],
-                "maxValues": [
-                  4.8
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              }
-            ]
-          ],
-          [
-            "padding-left",
-            [
-              {
-                "minValues": [
-                  1.6
-                ],
-                "maxValues": [
-                  6.3
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 1200,
-                "nextBpIndex": 2,
-                "order": 105
-              },
-              {
-                "minValues": [
-                  1.6
-                ],
-                "maxValues": [
-                  6.3
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  1.6
-                ],
-                "maxValues": [
-                  6.3
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  1.6
-                ],
-                "maxValues": [
-                  6.3
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              }
-            ]
-          ],
-          [
-            "padding-right",
-            [
-              {
-                "minValues": [
-                  1.6
-                ],
-                "maxValues": [
-                  6.3
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 1200,
-                "nextBpIndex": 2,
-                "order": 105
-              },
-              {
-                "minValues": [
-                  1.6
-                ],
-                "maxValues": [
-                  6.3
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  1.6
-                ],
-                "maxValues": [
-                  6.3
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  1.6
-                ],
-                "maxValues": [
-                  6.3
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              }
-            ]
-          ],
-          [
-            "background-position-x",
-            [
-              {
-                "minValues": [
-                  -13
-                ],
-                "maxValues": [
-                  0
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "px"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1,
-                "order": 105
-              },
-              {
-                "minValues": [
-                  0
-                ],
-                "maxValues": [
-                  17
-                ],
-                "minUnits": [
-                  "px"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  -13
-                ],
-                "maxValues": [
-                  0
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "px"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  0
-                ],
-                "maxValues": [
-                  17
-                ],
-                "minUnits": [
-                  "px"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  -13
-                ],
-                "maxValues": [
-                  0
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "px"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  0
-                ],
-                "maxValues": [
-                  17
-                ],
-                "minUnits": [
-                  "px"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  -13
-                ],
-                "maxValues": [
-                  0
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "px"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  0
-                ],
-                "maxValues": [
-                  17
-                ],
-                "minUnits": [
-                  "px"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              }
-            ]
-          ],
-          [
-            "background-position-y",
-            [
-              {
-                "minValues": [
-                  -8
-                ],
-                "maxValues": [
-                  -6
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1,
-                "order": 105
-              },
-              {
-                "minValues": [
-                  -6
-                ],
-                "maxValues": [
-                  -6
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  -8
-                ],
-                "maxValues": [
-                  -6
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  -6
-                ],
-                "maxValues": [
-                  -6
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  -8
-                ],
-                "maxValues": [
-                  -6
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  -6
-                ],
-                "maxValues": [
-                  -6
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  -8
-                ],
-                "maxValues": [
-                  -6
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  -6
-                ],
-                "maxValues": [
-                  -6
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              }
-            ]
-          ]
-        ]
-      ]
-    ],
-    ".cta__title": [
-      [
-        ".cta__title",
-        ".cta__title",
-        [
-          [
-            "width",
-            [
-              {
-                "minValues": [
-                  15
-                ],
-                "maxValues": [
-                  18.6
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1,
-                "order": 107
-              },
-              {
-                "minValues": [
-                  18.6
-                ],
-                "maxValues": [
-                  "fit-content"
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "content"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  15
-                ],
-                "maxValues": [
-                  18.6
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  18.6
-                ],
-                "maxValues": [
-                  "fit-content"
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "content"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  15
-                ],
-                "maxValues": [
-                  18.6
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  18.6
-                ],
-                "maxValues": [
-                  "fit-content"
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "content"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  15
-                ],
-                "maxValues": [
-                  18.6
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  18.6
-                ],
-                "maxValues": [
-                  "fit-content"
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "content"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              }
-            ]
-          ],
-          [
-            "font-size",
-            [
-              {
-                "minValues": [
-                  2
-                ],
-                "maxValues": [
-                  2.66
-                ],
-                "minUnits": [
-                  "em"
-                ],
-                "maxUnits": [
-                  "em"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1,
-                "order": 107
-              },
-              {
-                "minValues": [
-                  2
-                ],
-                "maxValues": [
-                  2.66
-                ],
-                "minUnits": [
-                  "em"
-                ],
-                "maxUnits": [
-                  "em"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  2
-                ],
-                "maxValues": [
-                  2.66
-                ],
-                "minUnits": [
-                  "em"
-                ],
-                "maxUnits": [
-                  "em"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  2
-                ],
-                "maxValues": [
-                  2.66
-                ],
-                "minUnits": [
-                  "em"
-                ],
-                "maxUnits": [
-                  "em"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              }
-            ]
-          ]
-        ]
-      ]
-    ],
-    ".cta__body": [
-      [
-        ".cta__body",
-        ".cta__body",
-        [
-          [
-            "width",
-            [
-              {
-                "minValues": [
-                  100
-                ],
-                "maxValues": [
-                  30
-                ],
-                "minUnits": [
-                  "%"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1,
-                "order": 108
-              },
-              {
-                "minValues": [
-                  30
-                ],
-                "maxValues": [
-                  "fit-content"
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "content"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  100
-                ],
-                "maxValues": [
-                  30
-                ],
-                "minUnits": [
-                  "%"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  30
-                ],
-                "maxValues": [
-                  "fit-content"
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "content"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  100
-                ],
-                "maxValues": [
-                  30
-                ],
-                "minUnits": [
-                  "%"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  30
-                ],
-                "maxValues": [
-                  "fit-content"
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "content"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  100
-                ],
-                "maxValues": [
-                  30
-                ],
-                "minUnits": [
-                  "%"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  30
-                ],
-                "maxValues": [
-                  "fit-content"
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "content"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              }
-            ]
-          ]
-        ]
-      ]
-    ],
-    ".cta__btn": [
-      [
-        ".cta__btn",
-        ".cta__btn",
-        [
-          [
-            "margin-left",
-            [
-              {
-                "minValues": [
-                  "auto"
-                ],
-                "maxValues": [
-                  "auto"
-                ],
-                "minUnits": [
-                  "auto"
-                ],
-                "maxUnits": [
-                  "auto"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 1200,
-                "nextBpIndex": 2,
-                "order": 109
-              },
-              {
-                "minValues": [
-                  "auto"
-                ],
-                "maxValues": [
-                  "auto"
-                ],
-                "minUnits": [
-                  "auto"
-                ],
-                "maxUnits": [
-                  "auto"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  "auto"
-                ],
-                "maxValues": [
-                  "auto"
-                ],
-                "minUnits": [
-                  "auto"
-                ],
-                "maxUnits": [
-                  "auto"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  "auto"
-                ],
-                "maxValues": [
-                  "auto"
-                ],
-                "minUnits": [
-                  "auto"
-                ],
-                "maxUnits": [
-                  "auto"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              }
-            ]
-          ],
-          [
-            "margin-right",
-            [
-              {
-                "minValues": [
-                  "auto"
-                ],
-                "maxValues": [
-                  0
-                ],
-                "minUnits": [
-                  "auto"
-                ],
-                "maxUnits": [
-                  "px"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 1200,
-                "nextBpIndex": 2,
-                "order": 109
-              },
-              {
-                "minValues": [
-                  "auto"
-                ],
-                "maxValues": [
-                  0
-                ],
-                "minUnits": [
-                  "auto"
-                ],
-                "maxUnits": [
-                  "px"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  "auto"
-                ],
-                "maxValues": [
-                  0
-                ],
-                "minUnits": [
-                  "auto"
-                ],
-                "maxUnits": [
-                  "px"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  "auto"
-                ],
-                "maxValues": [
-                  0
-                ],
-                "minUnits": [
-                  "auto"
-                ],
-                "maxUnits": [
-                  "px"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              }
-            ]
-          ]
-        ]
-      ]
-    ],
-    ".cta-wrapper": [
-      [
-        ".cta-wrapper",
-        ".cta-wrapper",
-        [
-          [
-            "margin-bottom",
-            [
-              {
-                "minValues": [
-                  -11
-                ],
-                "maxValues": [
-                  -5
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1,
-                "order": 117
-              },
-              {
-                "minValues": [
-                  -11
-                ],
-                "maxValues": [
-                  -5
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  -11
-                ],
-                "maxValues": [
-                  -5
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  -11
-                ],
-                "maxValues": [
-                  -5
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              }
-            ]
-          ]
-        ]
-      ]
-    ],
-    ".title": [
-      [
-        ".title",
-        ".title",
-        [
-          [
-            "margin-bottom",
-            [
-              {
-                "minValues": [
-                  0.93
-                ],
-                "maxValues": [
-                  0.53
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1,
-                "order": 120
-              },
-              {
-                "minValues": [
-                  0.53
-                ],
-                "maxValues": [
-                  0.73
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  0.93
-                ],
-                "maxValues": [
-                  0.53
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  0.53
-                ],
-                "maxValues": [
-                  0.73
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  0.93
-                ],
-                "maxValues": [
-                  0.53
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  0.53
-                ],
-                "maxValues": [
-                  0.73
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  0.93
-                ],
-                "maxValues": [
-                  0.53
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  0.53
-                ],
-                "maxValues": [
-                  0.73
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              }
-            ]
-          ],
-          [
-            "width",
-            [
-              {
-                "minValues": [
-                  [
-                    "break",
-                    [
-                      [
-                        "min",
-                        [
-                          100,
-                          38.2
-                        ]
-                      ]
-                    ]
-                  ]
-                ],
-                "maxValues": [
-                  38.2
-                ],
-                "minUnits": [
-                  [
-                    "",
-                    [
-                      [
-                        "",
-                        [
-                          "%",
-                          "rem"
-                        ]
-                      ]
-                    ]
-                  ]
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1,
-                "order": 120
-              },
-              {
-                "minValues": [
-                  [
-                    "break",
-                    [
-                      [
-                        "min",
-                        [
-                          100,
-                          38.2
-                        ]
-                      ]
-                    ]
-                  ]
-                ],
-                "maxValues": [
-                  38.2
-                ],
-                "minUnits": [
-                  [
-                    "",
-                    [
-                      [
-                        "",
-                        [
-                          "%",
-                          "rem"
-                        ]
-                      ]
-                    ]
-                  ]
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  [
-                    "break",
-                    [
-                      [
-                        "min",
-                        [
-                          100,
-                          38.2
-                        ]
-                      ]
-                    ]
-                  ]
-                ],
-                "maxValues": [
-                  38.2
-                ],
-                "minUnits": [
-                  [
-                    "",
-                    [
-                      [
-                        "",
-                        [
-                          "%",
-                          "rem"
-                        ]
-                      ]
-                    ]
-                  ]
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  [
-                    "break",
-                    [
-                      [
-                        "min",
-                        [
-                          100,
-                          38.2
-                        ]
-                      ]
-                    ]
-                  ]
-                ],
-                "maxValues": [
-                  38.2
-                ],
-                "minUnits": [
-                  [
-                    "",
-                    [
-                      [
-                        "",
-                        [
-                          "%",
-                          "rem"
-                        ]
-                      ]
-                    ]
-                  ]
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              }
-            ]
-          ],
-          [
-            "font-size",
-            [
-              {
-                "minValues": [
-                  2.13
-                ],
-                "maxValues": [
-                  3.2
-                ],
-                "minUnits": [
-                  "em"
-                ],
-                "maxUnits": [
-                  "em"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1,
-                "order": 120
-              },
-              {
-                "minValues": [
-                  2.13
-                ],
-                "maxValues": [
-                  3.2
-                ],
-                "minUnits": [
-                  "em"
-                ],
-                "maxUnits": [
-                  "em"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  2.13
-                ],
-                "maxValues": [
-                  3.2
-                ],
-                "minUnits": [
-                  "em"
-                ],
-                "maxUnits": [
-                  "em"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  2.13
-                ],
-                "maxValues": [
-                  3.2
-                ],
-                "minUnits": [
-                  "em"
-                ],
-                "maxUnits": [
-                  "em"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              }
-            ]
-          ]
-        ]
-      ]
-    ],
-    ".homepage__card-grid-section": [
-      [
-        ".homepage__card-grid-section",
-        ".homepage__card-grid-section",
-        [
-          [
-            "padding-top",
-            [
-              {
-                "minValues": [
-                  8
-                ],
-                "maxValues": [
-                  8
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1,
-                "order": 125
-              },
-              {
-                "minValues": [
-                  8
-                ],
-                "maxValues": [
-                  10.66
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              }
-            ]
-          ],
-          [
-            "padding-bottom",
-            [
-              {
-                "minValues": [
-                  8
-                ],
-                "maxValues": [
-                  8
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1,
-                "order": 125
-              },
-              {
-                "minValues": [
-                  8
-                ],
-                "maxValues": [
-                  10.66
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              }
-            ]
-          ]
-        ]
-      ]
-    ],
-    ".homepage__series": [
-      [
-        ".homepage__series",
-        ".homepage__series",
-        [
-          [
-            "padding-bottom",
-            [
-              {
-                "minValues": [
-                  8
-                ],
-                "maxValues": [
-                  4.46
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1,
-                "order": 128
-              }
-            ]
-          ]
-        ]
-      ]
-    ],
-    ".footer__icons-section": [
-      [
-        ".footer__icons-section",
-        ".footer__icons-section",
-        [
-          [
-            "margin-left",
-            [
-              {
-                "minValues": [
-                  "auto"
-                ],
-                "maxValues": [
-                  0
-                ],
-                "minUnits": [
-                  "auto"
-                ],
-                "maxUnits": [
-                  "px"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2,
-                "order": 37
-              },
-              {
-                "minValues": [
-                  "auto"
-                ],
-                "maxValues": [
-                  0
-                ],
-                "minUnits": [
-                  "auto"
-                ],
-                "maxUnits": [
-                  "px"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  "auto"
-                ],
-                "maxValues": [
-                  0
-                ],
-                "minUnits": [
-                  "auto"
-                ],
-                "maxUnits": [
-                  "px"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  "auto"
-                ],
-                "maxValues": [
-                  0
-                ],
-                "minUnits": [
-                  "auto"
-                ],
-                "maxUnits": [
-                  "px"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              }
-            ]
-          ]
-        ]
-      ]
-    ],
-    ".card-grid": [
-      [
-        ".card-grid",
-        ".card-grid",
-        [
-          [
-            "grid-template-rows",
-            [
-              {
-                "minValues": [
-                  13.33,
-                  13.33
-                ],
-                "maxValues": [
-                  20.5,
-                  20.5
-                ],
-                "minUnits": [
-                  "rem",
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem",
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2,
-                "order": 100
-              }
-            ]
-          ]
-        ]
-      ]
-    ],
-    ".homepage__img-block": [
-      [
-        ".homepage__img-block",
-        ".homepage__img-block:last-child",
-        [
-          [
-            "margin-left",
-            [
-              {
-                "minValues": [
-                  "auto"
-                ],
-                "maxValues": [
-                  0
-                ],
-                "minUnits": [
-                  "auto"
-                ],
-                "maxUnits": [
-                  "px"
-                ],
-                "isCombo": true,
-                "bpIndex": 2,
-                "nextBp": 1440,
-                "nextBpIndex": 3,
-                "order": 133,
-                "isPseudo": true
-              }
-            ]
-          ],
-          [
-            "margin-right",
-            [
-              {
-                "minValues": [
-                  "auto"
-                ],
-                "maxValues": [
-                  0
-                ],
-                "minUnits": [
-                  "auto"
-                ],
-                "maxUnits": [
-                  "px"
-                ],
-                "isCombo": true,
-                "bpIndex": 2,
-                "nextBp": 1440,
-                "nextBpIndex": 3,
-                "order": 133,
-                "isPseudo": true
-              }
-            ]
-          ]
-        ]
-      ]
-    ],
-    ".design-page__card-grid-section": [
-      [
-        ".design-page__card-grid-section",
-        ".design-page__card-grid-section",
-        [
-          [
-            "padding-top",
-            [
-              {
-                "minValues": [
-                  6.4
-                ],
-                "maxValues": [
-                  8
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1,
-                "order": 17
-              },
-              {
-                "minValues": [
-                  6.4
-                ],
-                "maxValues": [
-                  8
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  6.4
-                ],
-                "maxValues": [
-                  8
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              }
-            ]
-          ],
-          [
-            "padding-bottom",
-            [
-              {
-                "minValues": [
-                  6.4
-                ],
-                "maxValues": [
-                  8
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1,
-                "order": 17
-              },
-              {
-                "minValues": [
-                  6.4
-                ],
-                "maxValues": [
-                  8
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  6.4
-                ],
-                "maxValues": [
-                  8
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
+                "order": 34
               }
             ]
           ]
@@ -5017,138 +633,6 @@
                 "bpIndex": 1,
                 "nextBp": 1200,
                 "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  -14
-                ],
-                "maxValues": [
-                  [
-                    "left",
-                    [
-                      9
-                    ]
-                  ]
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  [
-                    "",
-                    [
-                      "rem"
-                    ]
-                  ]
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  [
-                    "left",
-                    [
-                      9
-                    ]
-                  ]
-                ],
-                "maxValues": [
-                  [
-                    "right",
-                    [
-                      60
-                    ]
-                  ]
-                ],
-                "minUnits": [
-                  [
-                    "",
-                    [
-                      "rem"
-                    ]
-                  ]
-                ],
-                "maxUnits": [
-                  [
-                    "",
-                    [
-                      "rem"
-                    ]
-                  ]
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  -14
-                ],
-                "maxValues": [
-                  [
-                    "left",
-                    [
-                      9
-                    ]
-                  ]
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  [
-                    "",
-                    [
-                      "rem"
-                    ]
-                  ]
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  [
-                    "left",
-                    [
-                      9
-                    ]
-                  ]
-                ],
-                "maxValues": [
-                  [
-                    "right",
-                    [
-                      60
-                    ]
-                  ]
-                ],
-                "minUnits": [
-                  [
-                    "",
-                    [
-                      "rem"
-                    ]
-                  ]
-                ],
-                "maxUnits": [
-                  [
-                    "",
-                    [
-                      "rem"
-                    ]
-                  ]
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
               }
             ]
           ],
@@ -5221,138 +705,6 @@
                 "bpIndex": 1,
                 "nextBp": 1200,
                 "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  1
-                ],
-                "maxValues": [
-                  [
-                    "top",
-                    [
-                      -6
-                    ]
-                  ]
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  [
-                    "",
-                    [
-                      "rem"
-                    ]
-                  ]
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  [
-                    "top",
-                    [
-                      -6
-                    ]
-                  ]
-                ],
-                "maxValues": [
-                  [
-                    "top",
-                    [
-                      -8
-                    ]
-                  ]
-                ],
-                "minUnits": [
-                  [
-                    "",
-                    [
-                      "rem"
-                    ]
-                  ]
-                ],
-                "maxUnits": [
-                  [
-                    "",
-                    [
-                      "rem"
-                    ]
-                  ]
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  1
-                ],
-                "maxValues": [
-                  [
-                    "top",
-                    [
-                      -6
-                    ]
-                  ]
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  [
-                    "",
-                    [
-                      "rem"
-                    ]
-                  ]
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  [
-                    "top",
-                    [
-                      -6
-                    ]
-                  ]
-                ],
-                "maxValues": [
-                  [
-                    "top",
-                    [
-                      -8
-                    ]
-                  ]
-                ],
-                "minUnits": [
-                  [
-                    "",
-                    [
-                      "rem"
-                    ]
-                  ]
-                ],
-                "maxUnits": [
-                  [
-                    "",
-                    [
-                      "rem"
-                    ]
-                  ]
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
               }
             ]
           ],
@@ -5377,42 +729,6 @@
                 "nextBp": 768,
                 "nextBpIndex": 1,
                 "order": 52
-              },
-              {
-                "minValues": [
-                  0
-                ],
-                "maxValues": [
-                  1
-                ],
-                "minUnits": [
-                  "px"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  0
-                ],
-                "maxValues": [
-                  1
-                ],
-                "minUnits": [
-                  "px"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
               }
             ]
           ],
@@ -5437,42 +753,6 @@
                 "nextBp": 768,
                 "nextBpIndex": 1,
                 "order": 52
-              },
-              {
-                "minValues": [
-                  0
-                ],
-                "maxValues": [
-                  1
-                ],
-                "minUnits": [
-                  "px"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  0
-                ],
-                "maxValues": [
-                  1
-                ],
-                "minUnits": [
-                  "px"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
               }
             ]
           ],
@@ -5497,42 +777,6 @@
                 "nextBp": 768,
                 "nextBpIndex": 1,
                 "order": 52
-              },
-              {
-                "minValues": [
-                  0
-                ],
-                "maxValues": [
-                  1
-                ],
-                "minUnits": [
-                  "px"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  0
-                ],
-                "maxValues": [
-                  1
-                ],
-                "minUnits": [
-                  "px"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
               }
             ]
           ],
@@ -5557,13 +801,141 @@
                 "nextBp": 768,
                 "nextBpIndex": 1,
                 "order": 52
+              }
+            ]
+          ]
+        ]
+      ]
+    ],
+    ".cta": [
+      [
+        ".cta",
+        ".cta",
+        [
+          [
+            "padding-top",
+            [
+              {
+                "minValues": [
+                  4.26
+                ],
+                "maxValues": [
+                  4.8
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 1200,
+                "nextBpIndex": 2,
+                "order": 59
+              }
+            ]
+          ],
+          [
+            "padding-bottom",
+            [
+              {
+                "minValues": [
+                  4.26
+                ],
+                "maxValues": [
+                  4.8
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 1200,
+                "nextBpIndex": 2,
+                "order": 59
+              }
+            ]
+          ],
+          [
+            "padding-left",
+            [
+              {
+                "minValues": [
+                  1.6
+                ],
+                "maxValues": [
+                  6.3
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 1200,
+                "nextBpIndex": 2,
+                "order": 59
+              }
+            ]
+          ],
+          [
+            "padding-right",
+            [
+              {
+                "minValues": [
+                  1.6
+                ],
+                "maxValues": [
+                  6.3
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 1200,
+                "nextBpIndex": 2,
+                "order": 59
+              }
+            ]
+          ],
+          [
+            "background-position-x",
+            [
+              {
+                "minValues": [
+                  -13
+                ],
+                "maxValues": [
+                  0
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "px"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 59
               },
               {
                 "minValues": [
                   0
                 ],
                 "maxValues": [
-                  1
+                  17
                 ],
                 "minUnits": [
                   "px"
@@ -5572,19 +944,24 @@
                   "rem"
                 ],
                 "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              }
+            ]
+          ],
+          [
+            "background-position-y",
+            [
               {
                 "minValues": [
-                  0
+                  -8
                 ],
                 "maxValues": [
-                  1
+                  -6
                 ],
                 "minUnits": [
-                  "px"
+                  "rem"
                 ],
                 "maxUnits": [
                   "rem"
@@ -5592,7 +969,398 @@
                 "isCombo": true,
                 "bpIndex": 0,
                 "nextBp": 768,
-                "nextBpIndex": 1
+                "nextBpIndex": 1,
+                "order": 59
+              },
+              {
+                "minValues": [
+                  -6
+                ],
+                "maxValues": [
+                  -6
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              }
+            ]
+          ]
+        ]
+      ]
+    ],
+    ".cta__title": [
+      [
+        ".cta__title",
+        ".cta__title",
+        [
+          [
+            "width",
+            [
+              {
+                "minValues": [
+                  15
+                ],
+                "maxValues": [
+                  18.6
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 61
+              },
+              {
+                "minValues": [
+                  18.6
+                ],
+                "maxValues": [
+                  "fit-content"
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "content"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              }
+            ]
+          ],
+          [
+            "font-size",
+            [
+              {
+                "minValues": [
+                  2
+                ],
+                "maxValues": [
+                  2.66
+                ],
+                "minUnits": [
+                  "em"
+                ],
+                "maxUnits": [
+                  "em"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 61
+              }
+            ]
+          ]
+        ]
+      ]
+    ],
+    ".cta__body": [
+      [
+        ".cta__body",
+        ".cta__body",
+        [
+          [
+            "width",
+            [
+              {
+                "minValues": [
+                  100
+                ],
+                "maxValues": [
+                  30
+                ],
+                "minUnits": [
+                  "%"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 62
+              },
+              {
+                "minValues": [
+                  30
+                ],
+                "maxValues": [
+                  "fit-content"
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "content"
+                ],
+                "isCombo": true,
+                "bpIndex": 1,
+                "nextBp": 1200,
+                "nextBpIndex": 2
+              }
+            ]
+          ]
+        ]
+      ]
+    ],
+    ".cta__btn": [
+      [
+        ".cta__btn",
+        ".cta__btn",
+        [
+          [
+            "margin-left",
+            [
+              {
+                "minValues": [
+                  "auto"
+                ],
+                "maxValues": [
+                  "auto"
+                ],
+                "minUnits": [
+                  "auto"
+                ],
+                "maxUnits": [
+                  "auto"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 1200,
+                "nextBpIndex": 2,
+                "order": 63
+              }
+            ]
+          ],
+          [
+            "margin-right",
+            [
+              {
+                "minValues": [
+                  "auto"
+                ],
+                "maxValues": [
+                  0
+                ],
+                "minUnits": [
+                  "auto"
+                ],
+                "maxUnits": [
+                  "px"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 1200,
+                "nextBpIndex": 2,
+                "order": 63
+              }
+            ]
+          ]
+        ]
+      ]
+    ],
+    ".cta-wrapper": [
+      [
+        ".cta-wrapper",
+        ".cta-wrapper",
+        [
+          [
+            "margin-bottom",
+            [
+              {
+                "minValues": [
+                  -11
+                ],
+                "maxValues": [
+                  -5
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 71
+              }
+            ]
+          ]
+        ]
+      ]
+    ],
+    ".card": [
+      [
+        ".card",
+        ".card",
+        [
+          [
+            "padding-top",
+            [
+              {
+                "minValues": [
+                  6
+                ],
+                "maxValues": [
+                  3.53
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "em"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 78
+              }
+            ]
+          ],
+          [
+            "padding-bottom",
+            [
+              {
+                "minValues": [
+                  6
+                ],
+                "maxValues": [
+                  3.53
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "em"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 78
+              }
+            ]
+          ],
+          [
+            "padding-left",
+            [
+              {
+                "minValues": [
+                  0
+                ],
+                "maxValues": [
+                  0
+                ],
+                "minUnits": [
+                  "px"
+                ],
+                "maxUnits": [
+                  "px"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 78
+              }
+            ]
+          ],
+          [
+            "padding-right",
+            [
+              {
+                "minValues": [
+                  0
+                ],
+                "maxValues": [
+                  0
+                ],
+                "minUnits": [
+                  "px"
+                ],
+                "maxUnits": [
+                  "px"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 78
+              }
+            ]
+          ]
+        ]
+      ]
+    ],
+    ".card__title": [
+      [
+        ".card__title",
+        ".card__title",
+        [
+          [
+            "margin-bottom",
+            [
+              {
+                "minValues": [
+                  0.8
+                ],
+                "maxValues": [
+                  1.6
+                ],
+                "minUnits": [
+                  "rem"
+                ],
+                "maxUnits": [
+                  "rem"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 82
+              }
+            ]
+          ],
+          [
+            "font-size",
+            [
+              {
+                "minValues": [
+                  1.86
+                ],
+                "maxValues": [
+                  2.66
+                ],
+                "minUnits": [
+                  "em"
+                ],
+                "maxUnits": [
+                  "em"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 82
               }
             ]
           ]
@@ -5653,98 +1421,6 @@
                 "bpIndex": 1,
                 "nextBp": 1200,
                 "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  [
-                    "break",
-                    [
-                      100
-                    ]
-                  ]
-                ],
-                "maxValues": [
-                  50
-                ],
-                "minUnits": [
-                  [
-                    "",
-                    [
-                      "%"
-                    ]
-                  ]
-                ],
-                "maxUnits": [
-                  "%"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  50
-                ],
-                "maxValues": [
-                  100
-                ],
-                "minUnits": [
-                  "%"
-                ],
-                "maxUnits": [
-                  "%"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  [
-                    "break",
-                    [
-                      100
-                    ]
-                  ]
-                ],
-                "maxValues": [
-                  50
-                ],
-                "minUnits": [
-                  [
-                    "",
-                    [
-                      "%"
-                    ]
-                  ]
-                ],
-                "maxUnits": [
-                  "%"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  50
-                ],
-                "maxValues": [
-                  100
-                ],
-                "minUnits": [
-                  "%"
-                ],
-                "maxUnits": [
-                  "%"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
               }
             ]
           ],
@@ -5797,98 +1473,6 @@
                 "bpIndex": 1,
                 "nextBp": 1200,
                 "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  [
-                    "break",
-                    [
-                      21.3
-                    ]
-                  ]
-                ],
-                "maxValues": [
-                  100
-                ],
-                "minUnits": [
-                  [
-                    "",
-                    [
-                      "rem"
-                    ]
-                  ]
-                ],
-                "maxUnits": [
-                  "%"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  100
-                ],
-                "maxValues": [
-                  21.3
-                ],
-                "minUnits": [
-                  "%"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  [
-                    "break",
-                    [
-                      21.3
-                    ]
-                  ]
-                ],
-                "maxValues": [
-                  100
-                ],
-                "minUnits": [
-                  [
-                    "",
-                    [
-                      "rem"
-                    ]
-                  ]
-                ],
-                "maxUnits": [
-                  "%"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  100
-                ],
-                "maxValues": [
-                  21.3
-                ],
-                "minUnits": [
-                  "%"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
               }
             ]
           ],
@@ -5913,78 +1497,6 @@
                 "nextBp": 768,
                 "nextBpIndex": 1,
                 "order": 90
-              },
-              {
-                "minValues": [
-                  1
-                ],
-                "maxValues": [
-                  1
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  1
-                ],
-                "maxValues": [
-                  1
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  1
-                ],
-                "maxValues": [
-                  1
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  1
-                ],
-                "maxValues": [
-                  1
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
               },
               {
                 "minValues": [
@@ -6045,78 +1557,6 @@
                 "bpIndex": 1,
                 "nextBp": 1200,
                 "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  1
-                ],
-                "maxValues": [
-                  0
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "px"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  0
-                ],
-                "maxValues": [
-                  1
-                ],
-                "minUnits": [
-                  "px"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  1
-                ],
-                "maxValues": [
-                  0
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "px"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  0
-                ],
-                "maxValues": [
-                  1
-                ],
-                "minUnits": [
-                  "px"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
               }
             ]
           ],
@@ -6141,42 +1581,6 @@
                 "nextBp": 1200,
                 "nextBpIndex": 2,
                 "order": 97
-              },
-              {
-                "minValues": [
-                  0
-                ],
-                "maxValues": [
-                  0
-                ],
-                "minUnits": [
-                  "px"
-                ],
-                "maxUnits": [
-                  "px"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  0
-                ],
-                "maxValues": [
-                  0
-                ],
-                "minUnits": [
-                  "px"
-                ],
-                "maxUnits": [
-                  "px"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
               }
             ]
           ],
@@ -6201,42 +1605,6 @@
                 "nextBp": 1200,
                 "nextBpIndex": 2,
                 "order": 97
-              },
-              {
-                "minValues": [
-                  1
-                ],
-                "maxValues": [
-                  0
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "px"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  1
-                ],
-                "maxValues": [
-                  0
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "px"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
               }
             ]
           ]
@@ -6269,42 +1637,6 @@
                 "nextBp": 768,
                 "nextBpIndex": 1,
                 "order": 91
-              },
-              {
-                "minValues": [
-                  2
-                ],
-                "maxValues": [
-                  2.13
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  2
-                ],
-                "maxValues": [
-                  2.13
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
               }
             ]
           ],
@@ -6329,42 +1661,6 @@
                 "nextBp": 768,
                 "nextBpIndex": 1,
                 "order": 91
-              },
-              {
-                "minValues": [
-                  2
-                ],
-                "maxValues": [
-                  2.13
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  2
-                ],
-                "maxValues": [
-                  2.13
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
               }
             ]
           ],
@@ -6389,78 +1685,6 @@
                 "nextBp": 768,
                 "nextBpIndex": 1,
                 "order": 91
-              },
-              {
-                "minValues": [
-                  1
-                ],
-                "maxValues": [
-                  1
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  1
-                ],
-                "maxValues": [
-                  1
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  1
-                ],
-                "maxValues": [
-                  1
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  1
-                ],
-                "maxValues": [
-                  1
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
               },
               {
                 "minValues": [
@@ -6521,78 +1745,6 @@
                 "bpIndex": 1,
                 "nextBp": 1200,
                 "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  1
-                ],
-                "maxValues": [
-                  0
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "px"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  0
-                ],
-                "maxValues": [
-                  1
-                ],
-                "minUnits": [
-                  "px"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  1
-                ],
-                "maxValues": [
-                  0
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "px"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  0
-                ],
-                "maxValues": [
-                  1
-                ],
-                "minUnits": [
-                  "px"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
               }
             ]
           ],
@@ -6617,42 +1769,6 @@
                 "nextBp": 1200,
                 "nextBpIndex": 2,
                 "order": 98
-              },
-              {
-                "minValues": [
-                  0
-                ],
-                "maxValues": [
-                  0
-                ],
-                "minUnits": [
-                  "px"
-                ],
-                "maxUnits": [
-                  "px"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  0
-                ],
-                "maxValues": [
-                  0
-                ],
-                "minUnits": [
-                  "px"
-                ],
-                "maxUnits": [
-                  "px"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
               }
             ]
           ],
@@ -6677,42 +1793,6 @@
                 "nextBp": 1200,
                 "nextBpIndex": 2,
                 "order": 98
-              },
-              {
-                "minValues": [
-                  1
-                ],
-                "maxValues": [
-                  0
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "px"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  1
-                ],
-                "maxValues": [
-                  0
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "px"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
               }
             ]
           ],
@@ -6737,42 +1817,6 @@
                 "nextBp": 1200,
                 "nextBpIndex": 2,
                 "order": 99
-              },
-              {
-                "minValues": [
-                  50
-                ],
-                "maxValues": [
-                  100
-                ],
-                "minUnits": [
-                  "%"
-                ],
-                "maxUnits": [
-                  "%"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  50
-                ],
-                "maxValues": [
-                  100
-                ],
-                "minUnits": [
-                  "%"
-                ],
-                "maxUnits": [
-                  "%"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
               }
             ]
           ]
@@ -6805,42 +1849,6 @@
                 "nextBp": 768,
                 "nextBpIndex": 1,
                 "order": 93
-              },
-              {
-                "minValues": [
-                  1.25
-                ],
-                "maxValues": [
-                  1.33
-                ],
-                "minUnits": [
-                  "em"
-                ],
-                "maxUnits": [
-                  "em"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
-              },
-              {
-                "minValues": [
-                  1.25
-                ],
-                "maxValues": [
-                  1.33
-                ],
-                "minUnits": [
-                  "em"
-                ],
-                "maxUnits": [
-                  "em"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 768,
-                "nextBpIndex": 1
               }
             ]
           ]
@@ -6887,70 +1895,6 @@
                 "nextBp": 1200,
                 "nextBpIndex": 2,
                 "order": 105
-              },
-              {
-                "minValues": [
-                  [
-                    "break",
-                    [
-                      100
-                    ]
-                  ]
-                ],
-                "maxValues": [
-                  23.3,
-                  23.3,
-                  23.3
-                ],
-                "minUnits": [
-                  [
-                    "",
-                    [
-                      "%"
-                    ]
-                  ]
-                ],
-                "maxUnits": [
-                  "rem",
-                  "rem",
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  [
-                    "break",
-                    [
-                      100
-                    ]
-                  ]
-                ],
-                "maxValues": [
-                  23.3,
-                  23.3,
-                  23.3
-                ],
-                "minUnits": [
-                  [
-                    "",
-                    [
-                      "%"
-                    ]
-                  ]
-                ],
-                "maxUnits": [
-                  "rem",
-                  "rem",
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 0,
-                "nextBp": 1200,
-                "nextBpIndex": 2
               }
             ]
           ]
@@ -7001,13 +1945,26 @@
                 "bpIndex": 1,
                 "nextBp": 1200,
                 "nextBpIndex": 2
-              },
+              }
+            ]
+          ]
+        ]
+      ]
+    ],
+    ".title": [
+      [
+        ".title",
+        ".title",
+        [
+          [
+            "margin-bottom",
+            [
               {
                 "minValues": [
-                  16.6
+                  0.93
                 ],
                 "maxValues": [
-                  13.3
+                  0.53
                 ],
                 "minUnits": [
                   "rem"
@@ -7018,14 +1975,15 @@
                 "isCombo": true,
                 "bpIndex": 0,
                 "nextBp": 768,
-                "nextBpIndex": 1
+                "nextBpIndex": 1,
+                "order": 118
               },
               {
                 "minValues": [
-                  13.3
+                  0.53
                 ],
                 "maxValues": [
-                  20.5
+                  0.73
                 ],
                 "minUnits": [
                   "rem"
@@ -7037,16 +1995,43 @@
                 "bpIndex": 1,
                 "nextBp": 1200,
                 "nextBpIndex": 2
-              },
+              }
+            ]
+          ],
+          [
+            "width",
+            [
               {
                 "minValues": [
-                  16.6
+                  [
+                    "break",
+                    [
+                      [
+                        "min",
+                        [
+                          100,
+                          38.2
+                        ]
+                      ]
+                    ]
+                  ]
                 ],
                 "maxValues": [
-                  13.3
+                  38.2
                 ],
                 "minUnits": [
-                  "rem"
+                  [
+                    "",
+                    [
+                      [
+                        "",
+                        [
+                          "%",
+                          "rem"
+                        ]
+                      ]
+                    ]
+                  ]
                 ],
                 "maxUnits": [
                   "rem"
@@ -7054,25 +2039,64 @@
                 "isCombo": true,
                 "bpIndex": 0,
                 "nextBp": 768,
-                "nextBpIndex": 1
-              },
+                "nextBpIndex": 1,
+                "order": 118
+              }
+            ]
+          ],
+          [
+            "font-size",
+            [
               {
                 "minValues": [
-                  13.3
+                  2.13
                 ],
                 "maxValues": [
-                  20.5
+                  3.2
                 ],
                 "minUnits": [
-                  "rem"
+                  "em"
                 ],
                 "maxUnits": [
-                  "rem"
+                  "em"
+                ],
+                "isCombo": true,
+                "bpIndex": 0,
+                "nextBp": 768,
+                "nextBpIndex": 1,
+                "order": 118
+              }
+            ]
+          ]
+        ]
+      ]
+    ],
+    ".footer__icons-section": [
+      [
+        ".footer__icons-section",
+        ".footer__icons-section",
+        [
+          [
+            "margin-left",
+            [
+              {
+                "minValues": [
+                  "auto"
+                ],
+                "maxValues": [
+                  0
+                ],
+                "minUnits": [
+                  "auto"
+                ],
+                "maxUnits": [
+                  "px"
                 ],
                 "isCombo": true,
                 "bpIndex": 1,
                 "nextBp": 1200,
-                "nextBpIndex": 2
+                "nextBpIndex": 2,
+                "order": 42
               }
             ]
           ]
@@ -7105,42 +2129,6 @@
                 "nextBp": 1200,
                 "nextBpIndex": 2,
                 "order": 96
-              },
-              {
-                "minValues": [
-                  20.6
-                ],
-                "maxValues": [
-                  "auto"
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "auto"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  20.6
-                ],
-                "maxValues": [
-                  "auto"
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "auto"
-                ],
-                "isCombo": true,
-                "bpIndex": 1,
-                "nextBp": 1200,
-                "nextBpIndex": 2
               }
             ]
           ]
@@ -7173,42 +2161,6 @@
                 "nextBp": 1200,
                 "nextBpIndex": 2,
                 "order": 58
-              },
-              {
-                "minValues": [
-                  -20
-                ],
-                "maxValues": [
-                  -20
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 2,
-                "nextBp": 1200,
-                "nextBpIndex": 2
-              },
-              {
-                "minValues": [
-                  -20
-                ],
-                "maxValues": [
-                  -20
-                ],
-                "minUnits": [
-                  "rem"
-                ],
-                "maxUnits": [
-                  "rem"
-                ],
-                "isCombo": true,
-                "bpIndex": 2,
-                "nextBp": 1200,
-                "nextBpIndex": 2
               }
             ]
           ]

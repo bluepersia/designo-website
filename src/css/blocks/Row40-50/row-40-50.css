@@ -41,6 +41,8 @@
   font-weight: 500;
   font-size: 2em;
   margin-bottom: 1.6rem;
+  width: 100%;
+  --force: width;
 }
 
 .row-40-50--secondary .title {
