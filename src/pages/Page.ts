@@ -6,6 +6,6 @@ export default class Page
 {
     constructor (id:string)
     {
-        //fluidScale({json: id});   
+       fluidScale({json: id});   
     }
 }
