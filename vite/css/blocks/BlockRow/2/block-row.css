@@ -1,5 +1,6 @@
 .block-row-2 {
   list-style: none;
+  padding-left: 0;
   display: flex;
   flex-direction: column;
   align-items: center;
