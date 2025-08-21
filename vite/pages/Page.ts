@@ -1,10 +1,7 @@
-import fluidScale from 'fluid-scale';
+import fluidScale from "fluid-scale";
 
-
-export default class Page 
-{
-    constructor (id:string)
-    {
-       fluidScale({json: id});   
-    }
+export default class Page {
+  constructor(id: string) {
+    fluidScale({ json: id });
+  }
 }

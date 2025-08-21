@@ -5,7 +5,7 @@
   padding: 7rem 1.6rem;
   color: white;
   text-align: center;
-  background-image: url('/img/shared/mobile/bg-pattern-design-pages-intro-mobile.svg');
+  background-image: url("/img/shared/mobile/bg-pattern-design-pages-intro-mobile.svg");
   background-position: -14rem 1rem;
   border-radius: 0px;
   background-repeat: no-repeat;
@@ -23,7 +23,7 @@
   .hero-2 {
     border-radius: 1rem;
     background-position: left 9rem top -6rem;
-    background-image: url('/img/shared/tablet/bg-pattern-design-pages-intro-tablet.svg');
+    background-image: url("/img/shared/tablet/bg-pattern-design-pages-intro-tablet.svg");
   }
 
   .hero-2__body {
@@ -33,12 +33,12 @@
 
 @media (min-width: 1200px) {
   .hero-2 {
-    background-image: url('/img/web-design/desktop/bg-pattern-intro-web.svg');
+    background-image: url("/img/web-design/desktop/bg-pattern-intro-web.svg");
     background-position: right 60rem top -8rem;
   }
 
   .hero-2--app-design {
-    background-image: url('/img/app-design/desktop/bg-pattern-intro-app.svg');
+    background-image: url("/img/app-design/desktop/bg-pattern-intro-app.svg");
     background-position-x: -20rem;
     --force: background-position-x;
   }

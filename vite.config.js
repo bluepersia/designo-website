@@ -16,6 +16,9 @@ const input = htmlFiles.reduce((entries, file) => {
 }, {});
 
 export default defineConfig({
+  resolve: {
+    preserveSymlinks: true,
+  },
   root: "vite",
   publicDir: "../public",
   build: {
@@ -34,7 +37,13 @@ export default defineConfig({
       },
     },
   ],*/
+  optimizeDeps: {
+    include: ["fluid-scale"],
+  },
   server: {
     host: true,
+    fs: {
+      allow: ["../node_modules", "../src", "../dev-temp"],
+    },
   },
 });
