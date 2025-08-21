@@ -15,10 +15,11 @@
 }
 
 .u-container-mobile-full {
-  padding-left: min(0px);
-  padding-right: min(0px);
+  padding-left: 0px;
+  padding-right: 0px;
   max-width: 44.9rem;
   margin: 0 auto;
+  --fluid-lock: padding-left, padding-right;
 }
 
 @media (min-width: 768px) {

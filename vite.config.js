@@ -1,42 +1,40 @@
-import { defineConfig } from 'vite';
-import { resolve } from 'path'
-import fs from 'fs'
+import { defineConfig } from "vite";
+import { resolve } from "path";
+import fs from "fs";
 
-import { execSync } from 'child_process';
+import { execSync } from "child_process";
 
 const htmlFiles = fs
   .readdirSync(`${__dirname}/vite`)
-  .filter((file) => file.endsWith('.html'))
+  .filter((file) => file.endsWith(".html"));
 
 // Create an object: { index: '/abs/path/index.html', about: '/abs/path/about.html' }
 const input = htmlFiles.reduce((entries, file) => {
-  const name = file.replace(/\.html$/, '')
-  entries[name] = resolve(__dirname, 'vite', file)
-  return entries
-}, {})
+  const name = file.replace(/\.html$/, "");
+  entries[name] = resolve(__dirname, "vite", file);
+  return entries;
+}, {});
 
 export default defineConfig({
-  root: 'vite',
-  publicDir: '../public',
+  root: "vite",
+  publicDir: "../public",
   build: {
-    outDir: '../dist',
+    outDir: "../dist",
     cssMinify: false,
     emptyOutDir: true,
     rollupOptions: {
-      input
-    }
+      input,
+    },
   },
-  plugins: [
+  /* plugins: [
     {
       name: 'fluid-build',
       buildStart() {
         execSync('npx fluid-build', { stdio: 'inherit' });
       },
     },
-  ],
+  ],*/
   server: {
-    host: true
-  }
- 
+    host: true,
+  },
 });
-

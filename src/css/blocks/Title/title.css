@@ -5,7 +5,7 @@
   margin-bottom: 0.93rem;
   width: min(100%, 38.2rem);
   font-weight: 500;
-  --break: width;
+  --fluid-lock: width;
 }
 
 @media (min-width: 768px) {

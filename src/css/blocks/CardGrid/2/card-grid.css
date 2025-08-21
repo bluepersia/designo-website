@@ -6,7 +6,8 @@
   display: grid;
   row-gap: 2.66rem;
   column-gap: 1rem;
-  grid-template-columns: min(100%);
+  grid-template-columns: 100%;
+  --fluid-lock: grid-template-columns;
 }
 
 @media (min-width: 1200px) {
